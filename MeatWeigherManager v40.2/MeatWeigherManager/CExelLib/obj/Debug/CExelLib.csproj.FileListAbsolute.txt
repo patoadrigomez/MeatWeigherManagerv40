@@ -1,0 +1,488 @@
+C:\Documents and Settings\sergio\Mis documentos\Dropbox\DELTA-WTCUB3\DELTA-WTCUB3_Capture\CExelLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Dropbox\DELTA-WTCUB3\DELTA-WTCUB3_Capture\CExelLib\obj\Debug\CExelLib.csproj.ResolveComReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Dropbox\DELTA-WTCUB3\DELTA-WTCUB3_Capture\CExelLib\bin\Debug\CExelLib.dll
+C:\Documents and Settings\sergio\Mis documentos\Dropbox\DELTA-WTCUB3\DELTA-WTCUB3_Capture\CExelLib\bin\Debug\CExelLib.pdb
+C:\Documents and Settings\sergio\Mis documentos\Dropbox\DELTA-WTCUB3\DELTA-WTCUB3_Capture\CExelLib\obj\Debug\CExelLib.dll
+C:\Documents and Settings\sergio\Mis documentos\Dropbox\DELTA-WTCUB3\DELTA-WTCUB3_Capture\CExelLib\obj\Debug\CExelLib.pdb
+C:\Documents and Settings\sergio\Mis documentos\Dropbox\DELTA-WTCUB3\DELTA-WTCUB3_Capture\DELTA-WTCUB3_Capture\CExelLib\bin\Debug\CExelLib.dll
+C:\Documents and Settings\sergio\Mis documentos\Dropbox\DELTA-WTCUB3\DELTA-WTCUB3_Capture\DELTA-WTCUB3_Capture\CExelLib\bin\Debug\CExelLib.pdb
+C:\Documents and Settings\sergio\Mis documentos\Dropbox\DELTA-WTCUB3\DELTA-WTCUB3_Capture\DELTA-WTCUB3_Capture\CExelLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Dropbox\DELTA-WTCUB3\DELTA-WTCUB3_Capture\DELTA-WTCUB3_Capture\CExelLib\obj\Debug\CExelLib.csproj.ResolveComReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Dropbox\DELTA-WTCUB3\DELTA-WTCUB3_Capture\DELTA-WTCUB3_Capture\CExelLib\obj\Debug\CExelLib.dll
+C:\Documents and Settings\sergio\Mis documentos\Dropbox\DELTA-WTCUB3\DELTA-WTCUB3_Capture\DELTA-WTCUB3_Capture\CExelLib\obj\Debug\CExelLib.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtRegR_27WNet_v1\EtRegR_27WNet_v1\CExelLib\bin\Debug\CExelLib.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtRegR_27WNet_v1\EtRegR_27WNet_v1\CExelLib\bin\Debug\CExelLib.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtRegR_27WNet_v1\EtRegR_27WNet_v1\CExelLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtRegR_27WNet_v1\EtRegR_27WNet_v1\CExelLib\obj\Debug\CExelLib.csproj.ResolveComReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtRegR_27WNet_v1\EtRegR_27WNet_v1\CExelLib\obj\Debug\CExelLib.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtRegR_27WNet_v1\EtRegR_27WNet_v1\CExelLib\obj\Debug\CExelLib.pdb
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\EtRegR_27WNet_v1\EtRegR_27WNet_v1\CExelLib\bin\Debug\CExelLib.dll
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\EtRegR_27WNet_v1\EtRegR_27WNet_v1\CExelLib\bin\Debug\CExelLib.pdb
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\EtRegR_27WNet_v1\EtRegR_27WNet_v1\CExelLib\obj\Debug\CExelLib.csproj.ResolveComReference.cache
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\EtRegR_27WNet_v1\EtRegR_27WNet_v1\CExelLib\obj\Debug\CExelLib.dll
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\EtRegR_27WNet_v1\EtRegR_27WNet_v1\CExelLib\obj\Debug\CExelLib.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherLabeled_45\WeigherLabeled_45\CExelLib\bin\Debug\CExelLib.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherLabeled_45\WeigherLabeled_45\CExelLib\bin\Debug\CExelLib.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherLabeled_45\WeigherLabeled_45\CExelLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherLabeled_45\WeigherLabeled_45\CExelLib\obj\Debug\CExelLib.csproj.ResolveComReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherLabeled_45\WeigherLabeled_45\CExelLib\obj\Debug\CExelLib.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherLabeled_45\WeigherLabeled_45\CExelLib\obj\Debug\CExelLib.pdb
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherLabeled_45\WeigherLabeled_45\CExelLib\bin\Debug\CExelLib.dll
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherLabeled_45\WeigherLabeled_45\CExelLib\bin\Debug\CExelLib.pdb
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherLabeled_45\WeigherLabeled_45\CExelLib\obj\Debug\CExelLib.csproj.ResolveComReference.cache
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherLabeled_45\WeigherLabeled_45\CExelLib\obj\Debug\CExelLib.dll
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherLabeled_45\WeigherLabeled_45\CExelLib\obj\Debug\CExelLib.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherLabeled_45  v1.4\WeigherLabeled_45\CExelLib\bin\Debug\CExelLib.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherLabeled_45  v1.4\WeigherLabeled_45\CExelLib\bin\Debug\CExelLib.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherLabeled_45  v1.4\WeigherLabeled_45\CExelLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherLabeled_45  v1.4\WeigherLabeled_45\CExelLib\obj\Debug\CExelLib.csproj.ResolveComReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherLabeled_45  v1.4\WeigherLabeled_45\CExelLib\obj\Debug\CExelLib.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherLabeled_45  v1.4\WeigherLabeled_45\CExelLib\obj\Debug\CExelLib.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherLabeled_45  v1.5\WeigherLabeled_45\CExelLib\bin\Debug\CExelLib.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherLabeled_45  v1.5\WeigherLabeled_45\CExelLib\bin\Debug\CExelLib.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherLabeled_45  v1.5\WeigherLabeled_45\CExelLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherLabeled_45  v1.5\WeigherLabeled_45\CExelLib\obj\Debug\CExelLib.csproj.ResolveComReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherLabeled_45  v1.5\WeigherLabeled_45\CExelLib\obj\Debug\CExelLib.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherLabeled_45  v1.5\WeigherLabeled_45\CExelLib\obj\Debug\CExelLib.pdb
+C:\Desarrollo\Software\C#\WeigherLabeled_45\WeigherLabeled_45\CExelLib\bin\Debug\CExelLib.dll
+C:\Desarrollo\Software\C#\WeigherLabeled_45\WeigherLabeled_45\CExelLib\bin\Debug\CExelLib.pdb
+C:\Desarrollo\Software\C#\WeigherLabeled_45\WeigherLabeled_45\CExelLib\bin\Debug\ColumnsFormatView.dll
+C:\Desarrollo\Software\C#\WeigherLabeled_45\WeigherLabeled_45\CExelLib\bin\Debug\ColumnsFormatView.pdb
+C:\Desarrollo\Software\C#\WeigherLabeled_45\WeigherLabeled_45\CExelLib\obj\Debug\CExelLib.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\WeigherLabeled_45\WeigherLabeled_45\CExelLib\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Desarrollo\Software\C#\WeigherLabeled_45\WeigherLabeled_45\CExelLib\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Desarrollo\Software\C#\WeigherLabeled_45\WeigherLabeled_45\CExelLib\obj\Debug\Interop.VBIDE.dll
+C:\Desarrollo\Software\C#\WeigherLabeled_45\WeigherLabeled_45\CExelLib\obj\Debug\CExelLib.csproj.ResolveComReference.cache
+C:\Desarrollo\Software\C#\WeigherLabeled_45\WeigherLabeled_45\CExelLib\obj\Debug\CExelLib.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\WeigherLabeled_45\WeigherLabeled_45\CExelLib\obj\Debug\CExelLib.csproj.CopyComplete
+C:\Desarrollo\Software\C#\WeigherLabeled_45\WeigherLabeled_45\CExelLib\obj\Debug\CExelLib.dll
+C:\Desarrollo\Software\C#\WeigherLabeled_45\WeigherLabeled_45\CExelLib\obj\Debug\CExelLib.pdb
+C:\Desarrollo\Software\C#\WeigherLabeled_45 v1.2\WeigherLabeled_45\CExelLib\bin\Debug\CExelLib.dll
+C:\Desarrollo\Software\C#\WeigherLabeled_45 v1.2\WeigherLabeled_45\CExelLib\bin\Debug\CExelLib.pdb
+C:\Desarrollo\Software\C#\WeigherLabeled_45 v1.2\WeigherLabeled_45\CExelLib\bin\Debug\ColumnsFormatView.dll
+C:\Desarrollo\Software\C#\WeigherLabeled_45 v1.2\WeigherLabeled_45\CExelLib\bin\Debug\ColumnsFormatView.pdb
+C:\Desarrollo\Software\C#\WeigherLabeled_45 v1.2\WeigherLabeled_45\CExelLib\obj\Debug\CExelLib.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\WeigherLabeled_45 v1.2\WeigherLabeled_45\CExelLib\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Desarrollo\Software\C#\WeigherLabeled_45 v1.2\WeigherLabeled_45\CExelLib\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Desarrollo\Software\C#\WeigherLabeled_45 v1.2\WeigherLabeled_45\CExelLib\obj\Debug\Interop.VBIDE.dll
+C:\Desarrollo\Software\C#\WeigherLabeled_45 v1.2\WeigherLabeled_45\CExelLib\obj\Debug\CExelLib.csproj.ResolveComReference.cache
+C:\Desarrollo\Software\C#\WeigherLabeled_45 v1.2\WeigherLabeled_45\CExelLib\obj\Debug\CExelLib.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\WeigherLabeled_45 v1.2\WeigherLabeled_45\CExelLib\obj\Debug\CExelLib.csproj.CopyComplete
+C:\Desarrollo\Software\C#\WeigherLabeled_45 v1.2\WeigherLabeled_45\CExelLib\obj\Debug\CExelLib.dll
+C:\Desarrollo\Software\C#\WeigherLabeled_45 v1.2\WeigherLabeled_45\CExelLib\obj\Debug\CExelLib.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.4\MeatWeigherManager\CExelLib\bin\Debug\CExelLib.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.4\MeatWeigherManager\CExelLib\bin\Debug\CExelLib.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.4\MeatWeigherManager\CExelLib\bin\Debug\ColumnsFormatView.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.4\MeatWeigherManager\CExelLib\bin\Debug\ColumnsFormatView.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.4\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.4\MeatWeigherManager\CExelLib\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.4\MeatWeigherManager\CExelLib\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.4\MeatWeigherManager\CExelLib\obj\Debug\Interop.VBIDE.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.4\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.ResolveComReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.4\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.4\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.CopyComplete
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.4\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.4\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.0\MeatWeigherManager\CExelLib\bin\Debug\CExelLib.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.0\MeatWeigherManager\CExelLib\bin\Debug\CExelLib.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.0\MeatWeigherManager\CExelLib\bin\Debug\ColumnsFormatView.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.0\MeatWeigherManager\CExelLib\bin\Debug\ColumnsFormatView.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.0\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.0\MeatWeigherManager\CExelLib\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.0\MeatWeigherManager\CExelLib\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.0\MeatWeigherManager\CExelLib\obj\Debug\Interop.VBIDE.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.0\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.ResolveComReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.0\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.0\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.CopyComplete
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.0\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.0\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.1\MeatWeigherManager\CExelLib\bin\Debug\CExelLib.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.1\MeatWeigherManager\CExelLib\bin\Debug\CExelLib.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.1\MeatWeigherManager\CExelLib\bin\Debug\ColumnsFormatView.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.1\MeatWeigherManager\CExelLib\bin\Debug\ColumnsFormatView.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.1\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.1\MeatWeigherManager\CExelLib\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.1\MeatWeigherManager\CExelLib\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.1\MeatWeigherManager\CExelLib\obj\Debug\Interop.VBIDE.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.1\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.ResolveComReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.1\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.1\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.CopyComplete
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.1\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.1\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.2\MeatWeigherManager\CExelLib\bin\Debug\CExelLib.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.2\MeatWeigherManager\CExelLib\bin\Debug\CExelLib.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.2\MeatWeigherManager\CExelLib\bin\Debug\ColumnsFormatView.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.2\MeatWeigherManager\CExelLib\bin\Debug\ColumnsFormatView.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.2\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.2\MeatWeigherManager\CExelLib\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.2\MeatWeigherManager\CExelLib\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.2\MeatWeigherManager\CExelLib\obj\Debug\Interop.VBIDE.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.2\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.ResolveComReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.2\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.2\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.CopyComplete
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.2\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.2\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.3\MeatWeigherManager\CExelLib\bin\Debug\CExelLib.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.3\MeatWeigherManager\CExelLib\bin\Debug\CExelLib.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.3\MeatWeigherManager\CExelLib\bin\Debug\ColumnsFormatView.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.3\MeatWeigherManager\CExelLib\bin\Debug\ColumnsFormatView.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.3\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.3\MeatWeigherManager\CExelLib\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.3\MeatWeigherManager\CExelLib\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.3\MeatWeigherManager\CExelLib\obj\Debug\Interop.VBIDE.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.3\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.ResolveComReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.3\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.3\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.CopyComplete
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.3\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.3\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.4\MeatWeigherManager\CExelLib\bin\Debug\CExelLib.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.4\MeatWeigherManager\CExelLib\bin\Debug\CExelLib.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.4\MeatWeigherManager\CExelLib\bin\Debug\ColumnsFormatView.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.4\MeatWeigherManager\CExelLib\bin\Debug\ColumnsFormatView.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.4\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.4\MeatWeigherManager\CExelLib\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.4\MeatWeigherManager\CExelLib\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.4\MeatWeigherManager\CExelLib\obj\Debug\Interop.VBIDE.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.4\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.ResolveComReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.4\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.4\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.CopyComplete
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.4\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.4\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.6\MeatWeigherManager\CExelLib\bin\Debug\CExelLib.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.6\MeatWeigherManager\CExelLib\bin\Debug\CExelLib.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.6\MeatWeigherManager\CExelLib\bin\Debug\ColumnsFormatView.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.6\MeatWeigherManager\CExelLib\bin\Debug\ColumnsFormatView.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.6\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.6\MeatWeigherManager\CExelLib\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.6\MeatWeigherManager\CExelLib\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.6\MeatWeigherManager\CExelLib\obj\Debug\Interop.VBIDE.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.6\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.ResolveComReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.6\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.6\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.CopyComplete
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.6\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.6\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.7\MeatWeigherManager\CExelLib\bin\Debug\CExelLib.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.7\MeatWeigherManager\CExelLib\bin\Debug\CExelLib.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.7\MeatWeigherManager\CExelLib\bin\Debug\ColumnsFormatView.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.7\MeatWeigherManager\CExelLib\bin\Debug\ColumnsFormatView.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.7\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.7\MeatWeigherManager\CExelLib\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.7\MeatWeigherManager\CExelLib\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.7\MeatWeigherManager\CExelLib\obj\Debug\Interop.VBIDE.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.7\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.ResolveComReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.7\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.7\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.CopyComplete
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.7\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.7\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.8\MeatWeigherManager\CExelLib\bin\Debug\CExelLib.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.8\MeatWeigherManager\CExelLib\bin\Debug\CExelLib.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.8\MeatWeigherManager\CExelLib\bin\Debug\ColumnsFormatView.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.8\MeatWeigherManager\CExelLib\bin\Debug\ColumnsFormatView.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.8\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.8\MeatWeigherManager\CExelLib\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.8\MeatWeigherManager\CExelLib\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.8\MeatWeigherManager\CExelLib\obj\Debug\Interop.VBIDE.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.8\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.ResolveComReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.8\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.8\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.CopyComplete
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.8\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.8\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.9\MeatWeigherManager\CExelLib\bin\Debug\CExelLib.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.9\MeatWeigherManager\CExelLib\bin\Debug\CExelLib.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.9\MeatWeigherManager\CExelLib\bin\Debug\ColumnsFormatView.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.9\MeatWeigherManager\CExelLib\bin\Debug\ColumnsFormatView.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.9\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.9\MeatWeigherManager\CExelLib\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.9\MeatWeigherManager\CExelLib\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.9\MeatWeigherManager\CExelLib\obj\Debug\Interop.VBIDE.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.9\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.ResolveComReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.9\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.9\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.CopyComplete
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.9\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.9\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.10\MeatWeigherManager\CExelLib\bin\Debug\CExelLib.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.10\MeatWeigherManager\CExelLib\bin\Debug\CExelLib.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.10\MeatWeigherManager\CExelLib\bin\Debug\ColumnsFormatView.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.10\MeatWeigherManager\CExelLib\bin\Debug\ColumnsFormatView.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.10\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.10\MeatWeigherManager\CExelLib\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.10\MeatWeigherManager\CExelLib\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.10\MeatWeigherManager\CExelLib\obj\Debug\Interop.VBIDE.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.10\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.ResolveComReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.10\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.10\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.CopyComplete
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.10\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.10\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.11\MeatWeigherManager\CExelLib\bin\Debug\CExelLib.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.11\MeatWeigherManager\CExelLib\bin\Debug\CExelLib.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.11\MeatWeigherManager\CExelLib\bin\Debug\ColumnsFormatView.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.11\MeatWeigherManager\CExelLib\bin\Debug\ColumnsFormatView.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.11\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.11\MeatWeigherManager\CExelLib\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.11\MeatWeigherManager\CExelLib\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.11\MeatWeigherManager\CExelLib\obj\Debug\Interop.VBIDE.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.11\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.ResolveComReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.11\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.11\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.CopyComplete
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.11\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.11\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.13\MeatWeigherManager\CExelLib\bin\Debug\CExelLib.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.13\MeatWeigherManager\CExelLib\bin\Debug\CExelLib.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.13\MeatWeigherManager\CExelLib\bin\Debug\ColumnsFormatView.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.13\MeatWeigherManager\CExelLib\bin\Debug\ColumnsFormatView.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.13\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.13\MeatWeigherManager\CExelLib\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.13\MeatWeigherManager\CExelLib\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.13\MeatWeigherManager\CExelLib\obj\Debug\Interop.VBIDE.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.13\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.ResolveComReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.13\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.13\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.CopyComplete
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.13\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.13\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.14\MeatWeigherManager\CExelLib\bin\Debug\CExelLib.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.14\MeatWeigherManager\CExelLib\bin\Debug\CExelLib.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.14\MeatWeigherManager\CExelLib\bin\Debug\ColumnsFormatView.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.14\MeatWeigherManager\CExelLib\bin\Debug\ColumnsFormatView.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.14\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.14\MeatWeigherManager\CExelLib\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.14\MeatWeigherManager\CExelLib\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.14\MeatWeigherManager\CExelLib\obj\Debug\Interop.VBIDE.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.14\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.ResolveComReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.14\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.14\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.CopyComplete
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.14\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.14\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.15\MeatWeigherManager\CExelLib\bin\Debug\CExelLib.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.15\MeatWeigherManager\CExelLib\bin\Debug\CExelLib.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.15\MeatWeigherManager\CExelLib\bin\Debug\ColumnsFormatView.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.15\MeatWeigherManager\CExelLib\bin\Debug\ColumnsFormatView.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.15\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.15\MeatWeigherManager\CExelLib\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.15\MeatWeigherManager\CExelLib\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.15\MeatWeigherManager\CExelLib\obj\Debug\Interop.VBIDE.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.15\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.ResolveComReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.15\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.15\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.CopyComplete
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.15\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.15\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.16\MeatWeigherManager\CExelLib\bin\Debug\CExelLib.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.16\MeatWeigherManager\CExelLib\bin\Debug\CExelLib.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.16\MeatWeigherManager\CExelLib\bin\Debug\ColumnsFormatView.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.16\MeatWeigherManager\CExelLib\bin\Debug\ColumnsFormatView.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.16\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.16\MeatWeigherManager\CExelLib\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.16\MeatWeigherManager\CExelLib\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.16\MeatWeigherManager\CExelLib\obj\Debug\Interop.VBIDE.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.16\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.ResolveComReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.16\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.16\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.CopyComplete
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.16\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.16\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.17\MeatWeigherManager\CExelLib\bin\Debug\CExelLib.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.17\MeatWeigherManager\CExelLib\bin\Debug\CExelLib.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.17\MeatWeigherManager\CExelLib\bin\Debug\ColumnsFormatView.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.17\MeatWeigherManager\CExelLib\bin\Debug\ColumnsFormatView.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.17\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.17\MeatWeigherManager\CExelLib\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.17\MeatWeigherManager\CExelLib\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.17\MeatWeigherManager\CExelLib\obj\Debug\Interop.VBIDE.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.17\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.ResolveComReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.17\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.17\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.CopyComplete
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.17\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.17\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\CExelLib\bin\Debug\CExelLib.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\CExelLib\bin\Debug\CExelLib.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\CExelLib\bin\Debug\ColumnsFormatView.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\CExelLib\bin\Debug\ColumnsFormatView.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\CExelLib\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\CExelLib\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\CExelLib\obj\Debug\Interop.VBIDE.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.ResolveComReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.CopyComplete
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.20\MeatWeigherManager\CExelLib\bin\Debug\CExelLib.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.20\MeatWeigherManager\CExelLib\bin\Debug\CExelLib.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.20\MeatWeigherManager\CExelLib\bin\Debug\ColumnsFormatView.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.20\MeatWeigherManager\CExelLib\bin\Debug\ColumnsFormatView.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.20\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.20\MeatWeigherManager\CExelLib\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.20\MeatWeigherManager\CExelLib\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.20\MeatWeigherManager\CExelLib\obj\Debug\Interop.VBIDE.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.20\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.ResolveComReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.20\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.20\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.CopyComplete
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.20\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.20\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.21\MeatWeigherManager\CExelLib\bin\Debug\CExelLib.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.21\MeatWeigherManager\CExelLib\bin\Debug\CExelLib.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.21\MeatWeigherManager\CExelLib\bin\Debug\ColumnsFormatView.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.21\MeatWeigherManager\CExelLib\bin\Debug\ColumnsFormatView.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.21\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.21\MeatWeigherManager\CExelLib\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.21\MeatWeigherManager\CExelLib\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.21\MeatWeigherManager\CExelLib\obj\Debug\Interop.VBIDE.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.21\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.ResolveComReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.21\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.21\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.CopyComplete
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.21\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.21\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.22\MeatWeigherManager\CExelLib\bin\Debug\CExelLib.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.22\MeatWeigherManager\CExelLib\bin\Debug\CExelLib.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.22\MeatWeigherManager\CExelLib\bin\Debug\ColumnsFormatView.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.22\MeatWeigherManager\CExelLib\bin\Debug\ColumnsFormatView.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.22\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.22\MeatWeigherManager\CExelLib\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.22\MeatWeigherManager\CExelLib\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.22\MeatWeigherManager\CExelLib\obj\Debug\Interop.VBIDE.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.22\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.ResolveComReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.22\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.22\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.CopyComplete
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.22\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.22\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\CExelLib\bin\Debug\CExelLib.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\CExelLib\bin\Debug\CExelLib.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\CExelLib\bin\Debug\ColumnsFormatView.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\CExelLib\bin\Debug\ColumnsFormatView.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\CExelLib\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\CExelLib\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\CExelLib\obj\Debug\Interop.VBIDE.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.ResolveComReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.CopyComplete
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.1\MeatWeigherManager\CExelLib\bin\Debug\CExelLib.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.1\MeatWeigherManager\CExelLib\bin\Debug\CExelLib.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.1\MeatWeigherManager\CExelLib\bin\Debug\ColumnsFormatView.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.1\MeatWeigherManager\CExelLib\bin\Debug\ColumnsFormatView.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.1\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.1\MeatWeigherManager\CExelLib\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.1\MeatWeigherManager\CExelLib\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.1\MeatWeigherManager\CExelLib\obj\Debug\Interop.VBIDE.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.1\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.ResolveComReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.1\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.1\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.CopyComplete
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.1\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.1\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.2\MeatWeigherManager\CExelLib\bin\Debug\CExelLib.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.2\MeatWeigherManager\CExelLib\bin\Debug\CExelLib.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.2\MeatWeigherManager\CExelLib\bin\Debug\ColumnsFormatView.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.2\MeatWeigherManager\CExelLib\bin\Debug\ColumnsFormatView.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.2\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.2\MeatWeigherManager\CExelLib\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.2\MeatWeigherManager\CExelLib\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.2\MeatWeigherManager\CExelLib\obj\Debug\Interop.VBIDE.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.2\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.ResolveComReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.2\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.2\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.CopyComplete
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.2\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.2\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.3\MeatWeigherManager\CExelLib\bin\Debug\CExelLib.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.3\MeatWeigherManager\CExelLib\bin\Debug\CExelLib.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.3\MeatWeigherManager\CExelLib\bin\Debug\ColumnsFormatView.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.3\MeatWeigherManager\CExelLib\bin\Debug\ColumnsFormatView.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.3\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.3\MeatWeigherManager\CExelLib\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.3\MeatWeigherManager\CExelLib\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.3\MeatWeigherManager\CExelLib\obj\Debug\Interop.VBIDE.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.3\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.ResolveComReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.3\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.3\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.CopyComplete
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.3\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.3\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.4\MeatWeigherManager\CExelLib\bin\Debug\CExelLib.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.4\MeatWeigherManager\CExelLib\bin\Debug\CExelLib.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.4\MeatWeigherManager\CExelLib\bin\Debug\ColumnsFormatView.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.4\MeatWeigherManager\CExelLib\bin\Debug\ColumnsFormatView.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.4\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.4\MeatWeigherManager\CExelLib\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.4\MeatWeigherManager\CExelLib\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.4\MeatWeigherManager\CExelLib\obj\Debug\Interop.VBIDE.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.4\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.ResolveComReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.4\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.4\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.CopyComplete
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.4\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.4\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.0\MeatWeigherManager\CExelLib\bin\Debug\CExelLib.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.0\MeatWeigherManager\CExelLib\bin\Debug\CExelLib.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.0\MeatWeigherManager\CExelLib\bin\Debug\ColumnsFormatView.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.0\MeatWeigherManager\CExelLib\bin\Debug\ColumnsFormatView.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.0\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.0\MeatWeigherManager\CExelLib\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.0\MeatWeigherManager\CExelLib\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.0\MeatWeigherManager\CExelLib\obj\Debug\Interop.VBIDE.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.0\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.ResolveComReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.0\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.0\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.CopyComplete
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.0\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.0\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.1\MeatWeigherManager\CExelLib\bin\Debug\CExelLib.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.1\MeatWeigherManager\CExelLib\bin\Debug\CExelLib.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.1\MeatWeigherManager\CExelLib\bin\Debug\ColumnsFormatView.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.1\MeatWeigherManager\CExelLib\bin\Debug\ColumnsFormatView.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.1\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.1\MeatWeigherManager\CExelLib\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.1\MeatWeigherManager\CExelLib\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.1\MeatWeigherManager\CExelLib\obj\Debug\Interop.VBIDE.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.1\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.ResolveComReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.1\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.1\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.CopyComplete
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.1\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.1\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.2\MeatWeigherManager\CExelLib\bin\Debug\CExelLib.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.2\MeatWeigherManager\CExelLib\bin\Debug\CExelLib.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.2\MeatWeigherManager\CExelLib\bin\Debug\ColumnsFormatView.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.2\MeatWeigherManager\CExelLib\bin\Debug\ColumnsFormatView.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.2\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.2\MeatWeigherManager\CExelLib\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.2\MeatWeigherManager\CExelLib\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.2\MeatWeigherManager\CExelLib\obj\Debug\Interop.VBIDE.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.2\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.ResolveComReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.2\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.2\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.CopyComplete
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.2\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.2\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.0\MeatWeigherManager\CExelLib\bin\Debug\CExelLib.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.0\MeatWeigherManager\CExelLib\bin\Debug\CExelLib.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.0\MeatWeigherManager\CExelLib\bin\Debug\ColumnsFormatView.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.0\MeatWeigherManager\CExelLib\bin\Debug\ColumnsFormatView.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.0\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.0\MeatWeigherManager\CExelLib\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.0\MeatWeigherManager\CExelLib\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.0\MeatWeigherManager\CExelLib\obj\Debug\Interop.VBIDE.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.0\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.ResolveComReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.0\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.0\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.CopyComplete
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.0\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.0\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.1\MeatWeigherManager\CExelLib\bin\Debug\CExelLib.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.1\MeatWeigherManager\CExelLib\bin\Debug\CExelLib.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.1\MeatWeigherManager\CExelLib\bin\Debug\ColumnsFormatView.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.1\MeatWeigherManager\CExelLib\bin\Debug\ColumnsFormatView.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.1\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.1\MeatWeigherManager\CExelLib\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.1\MeatWeigherManager\CExelLib\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.1\MeatWeigherManager\CExelLib\obj\Debug\Interop.VBIDE.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.1\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.ResolveComReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.1\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.1\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.1\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.1\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.Up2Date
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.2\MeatWeigherManager\CExelLib\bin\Debug\CExelLib.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.2\MeatWeigherManager\CExelLib\bin\Debug\CExelLib.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.2\MeatWeigherManager\CExelLib\bin\Debug\ColumnsFormatView.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.2\MeatWeigherManager\CExelLib\bin\Debug\ColumnsFormatView.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.2\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.2\MeatWeigherManager\CExelLib\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.2\MeatWeigherManager\CExelLib\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.2\MeatWeigherManager\CExelLib\obj\Debug\Interop.VBIDE.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.2\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.ResolveComReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.2\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.2\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.csproj.Up2Date
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.2\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.2\MeatWeigherManager\CExelLib\obj\Debug\CExelLib.pdb

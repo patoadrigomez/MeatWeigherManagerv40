@@ -1,0 +1,6 @@
+Proyecto Libreria ZebraScannerLib creada para controlar
+escanners linea Zebra tanto en la captura de eventos de lectura
+como en accionar led y sonido del escanner.
+Esta libreria tiene como referencia un objeto com provisto por zebra
+CoreScanner que se instala como un driver y se descarga de la web de zebra:
+"Zebra_CoreScanner_Driver_(64bit)_v3.04.0007.zip"

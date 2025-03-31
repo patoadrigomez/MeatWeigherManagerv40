@@ -1,0 +1,598 @@
+﻿@model IEnumerable<WebReportMWM.Models.Entitys.Producto>
+@using WebReportMWM.services;
+@using WebReportMWM.HelperMethodsRepository;
+
+@{
+    ViewBag.Title = "List";
+    WebGrid webGrid = new WebGrid(source: Model, canPage: false, canSort: true);
+
+    string IdRowSelect = ViewBag.IdRowSelect == null ? "0" : ((int)ViewBag.IdRowSelect).ToString();
+    string filtroProductoNombre = ViewBag.FiltroProductoNombre ?? "";
+    string filtroProductoTipo = ViewBag.FiltroProductoTipo ?? "";
+
+
+    SelectList selectListTiposProductos;
+
+    using (var context = new DMMeatWeigherModel())
+    {
+        selectListTiposProductos = new SelectList(context.TiposProducto.ToList(), "Id", "Nombre");
+    }
+
+    var ListProductosSac = DbServices.GetProductosSacToListSelectListItem("", new SelectListItem() { Value = "", Text = "" });
+    var selectListEtiquetas = DbServices.GetEtiquetasToListSelectListItem("", new SelectListItem() { Value = "", Text = "" });
+}
+
+
+<h2>Lista de Productos</h2>
+<div>
+    <form asp-area="List" asp-controller="CrudProductos" asp-action="List" method="get" class="form-inline">
+        <div>
+            <label for="filtroProductoNombre">Nombre</label>
+            <input type="text" id="filtroProductoNombre" name="filtroProductoNombre" value="@filtroProductoNombre" placeholder="Nombre de Producto" class="form-control" />
+            <label for="filtroProductoTipo">Tipo</label>
+            <input type="text" id="filtroProductoTipo" name="filtroProductoTipo" placeholder="Tipo de Producto" value="@filtroProductoTipo" class="form-control" />
+            <input type="submit" value="Filtrar" class="btn btn-info" />
+        </div>
+    </form>
+    <br />
+</div>
+<p>
+    <a href="~/CrudProductos/Create" class="btn btn-default btn-sm">
+        <i class="glyphicon glyphicon-star" style="color: aqua;"></i>
+        <span>
+            <strong>Crear Nuevo</strong>
+        </span>
+    </a>
+
+    <button type="button" class="btn btn-default btn-sm" id="UpdateAll" style="margin-left:8px;">
+        <span class="glyphicon glyphicon-save" aria-hidden="true" style="color: green;"></span> Actualizar Todo
+    </button>
+</p>
+
+
+@webGrid.GetHtml(htmlAttributes: new { @id = "WebGrid", @class = "Grid" },
+                tableStyle: "table table-bordered",
+                fillEmptyRows: false,
+                alternatingRowStyle: "alt",
+                headerStyle: "webgrid-header",
+                rowStyle: "webgrid-rows",
+                columns: webGrid.Columns(
+                webGrid.Column(format:@<span class="link"> @Html.ActionLink(" ", "ConfirmDelete", new { idProducto = item.Id }, new { @style = "color:#ff0000;", @class = "glyphicon glyphicon-trash", title = "Eliminar" })</span>),
+                webGrid.Column(format:@<span class="link">
+                        <a class="glyphicon glyphicon-pencil" id="Edit" title="Edición Rapida" href="javascript:;"></a>
+                        <a class="glyphicon glyphicon-retweet" id="Cancel" href="javascript:;" style="display:none;color:red" title="Cancelar Cambios"></a>
+                        <a class="glyphicon glyphicon-save" style="color:green;display:none;" id="Update" title="Actualizar" href="javascript:;"></a>
+                        </span> ),
+                webGrid.Column(columnName: "Id", header: "ID", style: "Id"),
+                webGrid.Column("Nombre", header: "PRODUCTO", style: "col-Nombre", format: @<span> @Html.WGEditTextArea("Nombre", (string)item.Nombre, 3, 30, 50) </span>),
+                webGrid.Column(columnName: "Tipo", header: "TIPO PRODUCTO", style: "col-Tipo", format: @<span> @Html.WGEditDropDownList("Tipo", selectListTiposProductos, (object)item.IdTipo, (object)item.Tipo)</span>),
+                webGrid.Column(columnName: "CodigoProductoSac", header: "CÓDIGO PRODUCTO SAC", style: "col-CodigoProductoSac"),
+
+                webGrid.Column(columnName: "NombreProductoSac", header: "NOMBRE PRODUCTO SAC", style: "col-Tipo",
+                format:@<span> @Html.WGEditDropDownList("ProductoSac", ListProductosSac, (object)item.CodigoProductoSac, (object)item.NombreProductoSac)</span>),
+
+                webGrid.Column(columnName: "AliasProductoSAC", header: "ALIAS PRODUCTO SAC", style: "col-AliasProductoSac"),
+
+                webGrid.Column(columnName: "NumSenasa", header: "Nº SENASA", style: "col-NumSenasa", format: @<span> @Html.WGEditTextBox("NumSenasa", (string)item.NumSenasa, false, 20, 140)</span>),
+
+                webGrid.Column(columnName: "PesoNetoPredef", header: "PESO", style: "col-PesoNetoPredef", format:
+                @<span> @Html.WGEditTextBox("PesoNetoPredef", (string)@String.Format("{0:0.00}", item.PesoNetoPredef), false, 7, 60, 0, "return isDecimalNumberKey(event)")</span>),
+
+                webGrid.Column(columnName: "UnidadesPredef", header: "UNDS", style: "col-UnidadesPredef", format:
+                @<span> @Html.WGEditTextBox("UnidadesPredef", (string)item.UnidadesPredef.ToString(), true, 4, 40, 1)</span>),
+
+                webGrid.Column(columnName: "PesoTaraPredef", header: "PESO TARA", style: "col-PesoNetoPredef", format:
+                @<span> @Html.WGEditTextBox("PesoTaraPredef", (string)@String.Format("{0:0.00}", item.PesoTaraPredef), false, 7, 60, 0, "return isDecimalNumberKey(event)")</span>),
+
+                webGrid.Column(columnName: "DiasVencimiento", header: "DÍAS VTO", style: "col-DiasVencimiento", format:
+                @<span> @Html.WGEditTextBox("DiasVencimiento", (string)item.DiasVencimiento.ToString(), true, 4, 50, 1)</span>),
+
+                webGrid.Column(columnName: "RendimientoSTD", header: "RDTO STD", style: "col-RendimientoSTD", format:
+                @<span> @Html.WGEditTextBox("RendimientoSTD", (string)@String.Format("{0:0.00}", item.RendimientoSTD), false, 5, 60, 0, "return isDecimalNumberKey(event)")</span>),
+
+                webGrid.Column(columnName: "EsInsumo", header: "INSUMO", style: "col-EsInsumo", format:@<span> @Html.WGEditCheckBox("EsInsumo", (bool?)item.EsInsumo)</span>),
+                webGrid.Column(columnName: "EsPesable", header: "PESABLE", format:@<span> @Html.WGEditCheckBox("EsPesable", (bool?)item.EsPesable)</span>),
+                webGrid.Column(columnName: "EsCombo", header: "COMBO", format:@<span> @Html.WGEditCheckBox("EsCombo", (bool?)item.EsCombo)</span>),
+                webGrid.Column(columnName: "EsCaja", header: "CAJA", format:@<span> @Html.WGEditCheckBox("EsCaja", (bool?)item.EsCaja)</span>),
+                webGrid.Column(columnName: "EsTropa", header: "TROPA", format:@<span> @Html.WGEditCheckBox("EsTropa", (bool?)item.EsTropa)</span>),
+                
+                webGrid.Column(columnName: "NombreEtiqueta", header: "ETIQUETA", style: "col-NombreEtiqueta", format: @<span> @Html.WGEditDropDownList("NombreEtiqueta", selectListEtiquetas, (object)item.IdEtiqueta, (object)item.NombreEtiqueta)</span>),
+               
+                webGrid.Column(columnName: "NombreL1", header: "NOM L1", style: "col-NombreL1", format: @<span> @Html.WGEditTextArea("NombreL1", (string)item.NombreL1, 5, 25, 100) </span>),
+                webGrid.Column(columnName: "NombreL2", header: "NOM L2", style: "col-NombreL2", format:@<span> @Html.WGEditTextArea("NombreL2", (string)item.NombreL2, 5, 25, 100) </span>),
+                webGrid.Column(columnName: "NombreL3", header: "NOM L3", style: "col-NombreL3", format:@<span> @Html.WGEditTextArea("NombreL3", (string)item.NombreL3, 5, 25, 100) </span>),
+                webGrid.Column(columnName: "NombreL4", header: "NOM L4", style: "col-NombreL4", format:@<span> @Html.WGEditTextArea("NombreL4", (string)item.NombreL4, 5, 25, 100) </span>),
+                webGrid.Column(columnName: "NombreL5", header: "NOM L5", style: "col-NombreL5", format:@<span> @Html.WGEditTextArea("NombreL5", (string)item.NombreL5, 5, 25, 100) </span>),
+                webGrid.Column(columnName: "NombreL6", header: "NOM L6", style: "col-NombreL6", format:@<span> @Html.WGEditTextArea("NombreL6", (string)item.NombreL6, 5, 25, 100) </span>),
+                webGrid.Column(columnName: "TextAuxL1", header: "T.AUX 1", style: "col-TextAuxL1", format:@<span> @Html.WGEditTextArea("TextAuxL1", (string)item.TextAuxL1, 5, 25, 100) </span>),
+                webGrid.Column(columnName: "TextAuxL2", header: "T.AUX 2", style: "col-TextAuxL2", format:@<span> @Html.WGEditTextArea("TextAuxL2", (string)item.TextAuxL2, 5, 25, 100) </span>)));
+
+
+<style type="text/css">
+    .webgrid-header th {
+        padding: 6px 5px;
+        text-align: center;
+        background-color: #e8eef4;
+        border-bottom: 2px solid #3966A2;
+        height: 40px;
+        font-weight: bold;
+        border-top: 2px solid #D6E8FF;
+        border-left: 2px solid #D6E8FF;
+        border-right: 2px solid #D6E8FF;
+        font-size: 0.7em;
+    }
+
+    .webgrid-rows td {
+        font-size: 0.75em;
+    }
+
+    .alt {
+        background-color: #FBFBFB;
+        color: #000;
+        font-size: 0.75em;
+    }
+
+    .label {
+        color: #000;
+        font-weight: normal;
+    }
+
+    .selectedrow {
+        background-color: gold;
+    }
+
+    #edited-Nombre,
+    #edited-NombreL1,
+    #edited-NombreL2,
+    #edited-NombreL3,
+    #edited-NombreL4,
+    #edited-NombreL5,
+    #edited-NombreL6,
+    #edited-TextAuxL1,
+    #edited-TextAuxL2,
+    #edited-NumSenasa,
+    #edited-PesoNetoPredef,
+    #edited-PesoTaraPredef,
+    #edited-DiasVencimiento,
+    #edited-RendimientoSTD,
+    #edited-UnidadesPredef {
+        font-size: 10px;
+        border-radius: 4px;
+        background-color: #f8f8f8;
+    }
+</style>
+
+@Scripts.Render("~/Plugins/tools.js")
+<script type="text/javascript" src="~/Scripts/jquery-3.4.1.min.js"></script>
+<script type="text/javascript">
+
+    //Al iniciar la carga del documento selecciono el registro especificado por su valor de Id
+    //Tambien pongo al registro visible controlando el scroll.
+    $(document).ready(function () {
+        $('#WebGrid tr').each(function () {
+            var Id = $(this).find(".Id").html();
+            if (Id == @IdRowSelect)
+            {
+                $(this).click();
+                $(document).scrollTop($(this).position().top);
+            }
+        });
+        //Se oculta el campo Código SAC para que no se visualice en la grilla
+        $("#WebGrid th:nth-child(3),td:nth-child(3)").hide();
+
+        $('#edited-ProductoSac').change(function () {
+            var row = $(this).closest("tr");
+            row.find(".col-CodigoProductoSac").html($(this).find("option:selected").val());
+        });
+    });
+
+
+    $("body").on("click", "#WebGrid tr", function () {
+        $("#WebGrid").find("td").removeClass("selectedrow");
+        $(this).find("td").addClass("selectedrow");
+    });
+
+
+    /**************************************************************
+     * Evento clic boton Actualizar todo.
+     *************************************************************/
+    $("body").on("click", "#UpdateAll", function ()
+    {
+        //Recorro todas las filas que se encuentran en modo edicion y 
+        //actualizo sus datos editados en la base de datos.
+        $("#WebGrid tbody tr").each(function ()
+        {
+            var input = $(this).find("#edited-Nombre");
+            if (input.is(":visible"))
+            {
+                UpdateProducto($(this));
+            }
+        });
+    });
+
+    //Edit event handler.
+    //Pone a la celda editable en modo Input
+    $("body").on("click", "#WebGrid TBODY #Edit", function () {
+        var row = $(this).closest("tr");
+        $("td", row).each(function () {
+            var input = $(this).find("[id^=edited-]");
+            var label = $(this).find("[id^=label-]");
+            input.show();
+            label.hide();
+        });
+        row.find("#Cancel").show();
+        row.find("#Update").show();
+        $(this).hide();
+    });
+
+
+    //Cancel event handler.
+    $("body").on("click", "#WebGrid TBODY #Cancel", function () {
+        var row = $(this).closest("tr");
+
+        $("td", row).each(function () {
+
+            var label = $(this).find("[id^=label-Nombre]");
+            var input = $(this).find("[id^=edited-Nombre]");
+            input.val(label.text());
+            label.show();
+            input.hide();
+
+            label = $(this).find("[id^=label-TextAuxL]");
+            input = $(this).find("[id^=edited-TextAuxL]");
+            input.val(label.text());
+            label.show();
+            input.hide();
+
+            label = $(this).find("[id^=label-Es]");
+            input = $(this).find("[id^=edited-Es]");
+            input.prop('checked', label.attr('value')=="true");
+            input.hide();
+            label.show();
+        });
+        // cancelar cambios en lista de opciones de tipos de productos y volver
+        // a seleccionar el item primitivo que se encontra en label.
+        // El atributo valor de label contiene el id del tipo , de esta manera
+        // el label puede tener id y nombre.
+        var label = row.find("#label-Tipo");
+        var input = row.find("#edited-Tipo");
+        input.val(label.attr('value')).change();
+        label.show();
+        input.hide();
+
+        // cancelar cambios en lista de opciones de etiquetas y volver
+        // a seleccionar el item primitivo que se encontra en label.
+        // El atributo valor de label contiene el id de la etiqueta , de esta manera
+        // el label puede tener id y nombre.
+        var label = row.find("#label-NombreEtiqueta");
+        var input = row.find("#edited-NombreEtiqueta");
+        input.val(label.attr('value')).change();
+        label.show();
+        input.hide();
+
+        // cancelar cambios en la seleccion en la lista de opciones de productos sac y vuelve
+        // a seleccionar el item primitivo que se encontra en label.
+        // El atributo valor de label contiene el id del tipo , de esta manera
+        // el label puede tener id y nombre.
+        label = row.find("#label-ProductoSac");
+        input = row.find("#edited-ProductoSac");
+        input.val(label.attr('value')).change();
+        row.find(".col-CodigoProductoSac").html(label.attr('value'));
+        label.show();
+        input.hide();
+
+        // cancelar cambios en NumSenasa.
+        label = row.find("#label-NumSenasa");
+        input = row.find("#edited-NumSenasa");
+        input.val(label.text());
+        label.show();
+        input.hide();
+
+        // cancelar cambios en peso Predefinido.
+        label = row.find("#label-PesoNetoPredef");
+        input = row.find("#edited-PesoNetoPredef");
+        input.val(label.text());
+        label.show();
+        input.hide();
+
+        // cancelar cambios en peso tara Predefinida.
+        label = row.find("#label-PesoTaraPredef");
+        input = row.find("#edited-PesoTaraPredef");
+        input.val(label.text());
+        label.show();
+        input.hide();
+
+        // cancelar cambios en rendimiento standar.
+        label = row.find("#label-RendimientoSTD");
+        input = row.find("#edited-RendimientoSTD");
+        input.val(label.text());
+        label.show();
+        input.hide();
+
+        // cancelar cambios en Unidades Predefinidas.
+        label = row.find("#label-UnidadesPredef");
+        input = row.find("#edited-UnidadesPredef");
+        input.val(label.text());
+        label.show();
+        input.hide();
+
+        // cancelar cambios en Dias de Vencimiento.
+        label = row.find("#label-DiasVencimiento");
+        input = row.find("#edited-DiasVencimiento");
+        input.val(label.text());
+        label.show();
+        input.hide();
+
+        row.find("#Edit").show();
+        row.find("#Update").hide();
+        $(this).hide();
+    });
+
+    /*
+        Obtiene todos los valores editables de cada columna de un registro
+        del webgrid pasado como parametro, y los carga en una clase Producto.
+        retorna Producto
+    */
+    function getProductoForRow(row)
+    {
+        var Producto = {};
+        Producto.Id = parseInt(row.find(".Id").html());
+        Producto.Nombre = row.find("#edited-Nombre").val();
+        Producto.NombreL1 = row.find("#edited-NombreL1").val();
+        Producto.NombreL2 = row.find("#edited-NombreL2").val();
+        Producto.NombreL3 = row.find("#edited-NombreL3").val();
+        Producto.NombreL4 = row.find("#edited-NombreL4").val();
+        Producto.NombreL5 = row.find("#edited-NombreL5").val();
+        Producto.NombreL6 = row.find("#edited-NombreL6").val();
+        Producto.TextAuxL1 = row.find("#edited-TextAuxL1").val();
+        Producto.TextAuxL2 = row.find("#edited-TextAuxL2").val();
+        Producto.IdTipo = row.find("#edited-Tipo option:selected").val();
+        Producto.CodigoProductoSac = row.find("#edited-ProductoSac option:selected").val();
+        Producto.IdEtiqueta = row.find("#edited-NombreEtiqueta option:selected").val();
+        Producto.NumSenasa = row.find("#edited-NumSenasa").val();
+        Producto.PesoNetoPredef = row.find("#edited-PesoNetoPredef").val().replace('.', ',');
+        Producto.UnidadesPredef = row.find("#edited-UnidadesPredef").val();
+        Producto.PesoTaraPredef = row.find("#edited-PesoTaraPredef").val().replace('.', ',');
+        Producto.DiasVencimiento = row.find("#edited-DiasVencimiento").val();
+        Producto.RendimientoSTD = row.find("#edited-RendimientoSTD").val().replace('.', ',');
+
+        Producto.EsInsumo = row.find("#edited-EsInsumo").prop("checked");
+        Producto.EsPesable = row.find("#edited-EsPesable").prop("checked");
+        Producto.EsCombo = row.find("#edited-EsCombo").prop("checked");
+        Producto.EsCaja = row.find("#edited-EsCaja").prop("checked");
+        Producto.EsTropa = row.find("#edited-EsTropa").prop("checked");
+        return Producto;
+    }
+
+    /*
+        Actualiza el valor de cada Label de columna de un registro con su correspondiente valor Editado.
+        Luego oculta el Editado y visualiza el Label.
+    */
+    function updateLabelsWithEditeds(row)
+    {
+        //Actualizo todos los label con id que comience con "Nombre.."
+        $("td", row).each(function () {
+            var label = $(this).find("[id^=label-Nombre]");
+            var input = $(this).find("[id^=edited-Nombre]");
+            label.html(input.val());
+            input.hide();
+            label.show();
+        });
+        //Actualizo todos los label con id que comience con "TextAux.."
+        $("td", row).each(function () {
+            var label = $(this).find("[id^=label-TextAux]");
+            var input = $(this).find("[id^=edited-TextAux]");
+            label.html(input.val());
+            input.hide();
+            label.show();
+        });
+
+        //Actualizo todos los label tipo boolnean checkbox."
+        $("td", row).each(function () {
+            var label = $(this).find("[id^=label-Es]");
+            var input = $(this).find("[id^=edited-Es]");
+            label.attr('checked', input.is(':checked'));
+            label.attr('value', input.is(':checked'));
+            input.hide();
+            label.show();
+        });
+
+        //Actualizo la columna Tipo de Producto
+        input = row.find("#edited-Tipo");
+        label = row.find("#label-Tipo");
+        //asigno al label el nuevo valor y texto
+        label.html(input.find("option:selected").html());
+        label.attr('value', input.find("option:selected").val());
+        input.hide();
+        label.show();
+
+        //Actualizo la columna Nombre Etiqueta
+        input = row.find("#edited-NombreEtiqueta");
+        label = row.find("#label-NombreEtiqueta");
+        //asigno al label el nuevo valor y texto
+        label.html(input.find("option:selected").html());
+        label.attr('value', input.find("option:selected").val());
+        row.find(".col-TipoBulto").html(input.find("option:selected").val());
+        input.hide();
+        label.show();
+
+        //Actualizo la columna Producto SAC
+        input = row.find("#edited-ProductoSac");
+        label = row.find("#label-ProductoSac");
+        //asigno al label el nuevo valor y texto actualizado
+        label.html(input.find("option:selected").html());
+        label.attr('value', input.find("option:selected").val());
+        //actualizo la columna codigo de producto sac.
+        row.find(".col-CodigoProductoSac").html(input.find("option:selected").val());
+        input.hide();
+        label.show();
+      
+
+        label = row.find("#label-NumSenasa");
+        input = row.find("#edited-NumSenasa");
+        label.html(input.val());
+        input.hide();
+        label.show();
+
+        label = row.find("#label-PesoNetoPredef");
+        input = row.find("#edited-PesoNetoPredef");
+        label.html(input.val().replace('.', ','));
+        input.hide();
+        label.show();
+
+        label = row.find("#label-PesoTaraPredef");
+        input = row.find("#edited-PesoTaraPredef");
+        label.html(input.val().replace('.', ','));
+        input.hide();
+        label.show();
+
+        label = row.find("#label-RendimientoSTD");
+        input = row.find("#edited-RendimientoSTD");
+        label.html(input.val().replace('.', ','));
+        input.hide();
+        label.show();
+
+        label = row.find("#label-UnidadesPredef");
+        input = row.find("#edited-UnidadesPredef");
+        label.html(input.val());
+        input.hide();
+        label.show();
+
+        label = row.find("#label-DiasVencimiento");
+        input = row.find("#edited-DiasVencimiento");
+        label.html(input.val());
+        input.hide();
+        label.show();
+    }
+
+    //speed update
+    $("body").on("click", "#Update", function (e)
+    {
+        var row = $(this).closest("tr");
+
+        var Producto = getProductoForRow(row);
+
+        if (isValidProducto(Producto)) {
+            $.ajax({
+                type: "POST",
+                url: "@Url.Action("UpdateFromWebGrid", "CrudProductos")",
+                data: JSON.stringify(Producto),
+                contentType: "application/json; charset=utf-8",
+                success: function (response)
+                {
+                    if (response.Success)
+                    {
+                        /*******************************************************************************
+                            ACTUALIZO LA PARTE LABEL DE CADA COLUMNA DEL REGITRO CON EL VALOR MODIFICADO
+                        ********************************************************************************/
+                        updateLabelsWithEditeds(row);
+
+                        row.find("#Edit").show();
+                        row.find("#Update").hide();
+                        row.find("#Cancel").hide();
+                    }
+                    else {
+                        alertMB(response.Error, "Error de Actualización");
+                    }
+                },
+                failure: function (response) {
+                    alert("error");
+                }
+            });
+        }
+    });
+
+    /*  
+     *  Actualiza en la base de datos un producto editado en el WebGrid
+     */
+    function UpdateProducto(row)
+    {
+        var Producto = getProductoForRow(row);
+        if (isValidProducto(Producto)) {
+            $.ajax({
+                type: "POST",
+                url: "@Url.Action("UpdateFromWebGrid", "CrudProductos")",
+                data: JSON.stringify(Producto),
+                contentType: "application/json; charset=utf-8",
+                success: function (response)
+                {
+                    if (response.Success)
+                    {
+                        /*******************************************************************************
+                            ACTUALIZO LA PARTE LABEL DE CADA COLUMNA DEL REGITRO CON EL VALOR MODIFICADO
+                        ********************************************************************************/
+                        updateLabelsWithEditeds(row);
+
+                        row.find("#Edit").show();
+                        row.find("#Update").hide();
+                        row.find("#Cancel").hide();
+                    }
+                    else {
+                        alertMB(response.Error, "Error de Actualización");
+                    }
+                },
+                failure: function (response) {
+                    alert("error");
+                }
+            });
+        }
+    }
+
+    /*
+     * Realiza una validacion del objeto Producto que sera enviado al controlador
+     * para actualizar sus valores.
+     */
+    function isValidProducto(producto) {
+        var isValid = false;
+
+        if (producto.EsInsumo && (producto.EsCaja || producto.EsCombo)) {
+            alertMB("El producto ("+producto.Nombre+") esta marcado como INSUMO y a la vez como CAJA o COMBO !!!!", "Validaciones de Actualización");
+        }
+        else if (producto.EsCaja && (producto.EsInsumo || producto.EsCombo)) {
+            alertMB("El producto (" + producto.Nombre +") esta marcado como CAJA y a la vez como INSUMO o COMBO !!!!", "Validaciones de Actualización");
+        }
+        else if (producto.EsCombo && (producto.EsInsumo || producto.EsCaja)) {
+            alertMB("El producto (" + producto.Nombre +") esta marcado como COMBO y a la vez como INSUMO o CAJA !!!!", "Validaciones de Actualización");
+        }
+        else if (isNaN(producto.PesoNetoPredef.replace(',', '.')) || producto.PesoNetoPredef == "")
+        {
+            alertMB("El peso neto predefinido del producto (" + producto.Nombre +") no posee un valor numerico valido !!!!", "Validaciones de Actualización");
+        }
+        else if (isNaN(producto.PesoTaraPredef.replace(',', '.')) || producto.PesoTaraPredef == "") {
+            alertMB("El peso tara predefinida del producto (" + producto.Nombre +") no posee un valor numerico valido !!!!", "Validaciones de Actualización");
+        }
+        else if (isNaN(producto.RendimientoSTD.replace(',', '.')) || producto.RendimientoSTD == "") {
+            alertMB("El valor del rendimiento estandar del producto (" + producto.Nombre +") no es valido !!!!", "Validaciones de Actualización");
+        }
+        else if (producto.UnidadesPredef == "" || parseInt(producto.UnidadesPredef) <= 0) {
+            alertMB("Las unidades predefinidas del producto (" + producto.Nombre +") no posee un valor numerico valido !!!!", "Validaciones de Actualización");
+        }
+        else if (producto.DiasVencimiento == "" || parseInt(producto.DiasVencimiento) < 0) {
+            alertMB("La cantidad de dias de vencimiento del producto (" + producto.Nombre +") no posee un valor numerico valido !!!!", "Validaciones de Actualización");
+        } else if (producto.Nombre == "") {
+            alertMB("El nombre del producto no puede estar vacío!!!!", "Validación de Actualización");
+        }
+        else
+            isValid=true;
+        return isValid;
+    }
+
+    /*
+        Verifica si el valor de tecla pulsada en un input corresponde a un valor
+        numerico entero o decimal (acepta 0-9 o .)
+    */
+    function isDecimalNumberKey(evt) {
+        var charCode = (evt.which) ? evt.which : evt.keyCode;
+        if (charCode != 46 && charCode > 31
+            && (charCode < 48 || charCode > 57))
+            return false;
+
+        return true;
+    }
+
+</script>
+
+
+
+
+

@@ -1,0 +1,111 @@
+C:\Desarrollo\Software\C#\WebReportAMG\WebReportAMG\Tools\bin\Release\Tools.dll
+C:\Desarrollo\Software\C#\WebReportAMG\WebReportAMG\Tools\bin\Release\Tools.pdb
+C:\Desarrollo\Software\C#\WebReportAMG\WebReportAMG\Tools\obj\Release\Tools.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\WebReportAMG\WebReportAMG\Tools\obj\Release\Tools.dll
+C:\Desarrollo\Software\C#\WebReportAMG\WebReportAMG\Tools\obj\Release\Tools.pdb
+C:\Desarrollo\Software\C#\WebReportAMG\WebReportAMG\Tools\obj\Release\Tools.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v10.0\WebReportAMG\Tools\bin\Release\Tools.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v10.0\WebReportAMG\Tools\bin\Release\Tools.pdb
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v10.0\WebReportAMG\Tools\obj\Release\Tools.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v10.0\WebReportAMG\Tools\obj\Release\Tools.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v10.0\WebReportAMG\Tools\obj\Release\Tools.pdb
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v1.1\WebReportAMG\Tools\bin\Release\Tools.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v1.1\WebReportAMG\Tools\bin\Release\Tools.pdb
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v1.1\WebReportAMG\Tools\obj\Release\Tools.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v1.1\WebReportAMG\Tools\obj\Release\Tools.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v1.1\WebReportAMG\Tools\obj\Release\Tools.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v1.1\WebReportAMG\Tools\obj\Release\Tools.pdb
+C:\Desarrollo\Software\C#\WebReportAMG v1.2\WebReportAMG\Tools\bin\Release\Tools.dll
+C:\Desarrollo\Software\C#\WebReportAMG v1.2\WebReportAMG\Tools\bin\Release\Tools.pdb
+C:\Desarrollo\Software\C#\WebReportAMG v1.2\WebReportAMG\Tools\obj\Release\Tools.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\WebReportAMG v1.2\WebReportAMG\Tools\obj\Release\Tools.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\WebReportAMG v1.2\WebReportAMG\Tools\obj\Release\Tools.dll
+C:\Desarrollo\Software\C#\WebReportAMG v1.2\WebReportAMG\Tools\obj\Release\Tools.pdb
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.3\WebReportAMG\Tools\bin\Release\Tools.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.3\WebReportAMG\Tools\bin\Release\Tools.pdb
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.3\WebReportAMG\Tools\obj\Release\Tools.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.3\WebReportAMG\Tools\obj\Release\Tools.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.3\WebReportAMG\Tools\obj\Release\Tools.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.3\WebReportAMG\Tools\obj\Release\Tools.pdb
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.4\WebReportAMG\Tools\bin\Release\Tools.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.4\WebReportAMG\Tools\bin\Release\Tools.pdb
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.4\WebReportAMG\Tools\obj\Release\Tools.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.4\WebReportAMG\Tools\obj\Release\Tools.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.4\WebReportAMG\Tools\obj\Release\Tools.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.4\WebReportAMG\Tools\obj\Release\Tools.pdb
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.5\WebReportAMG\Tools\bin\Release\Tools.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.5\WebReportAMG\Tools\bin\Release\Tools.pdb
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.5\WebReportAMG\Tools\obj\Release\Tools.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.5\WebReportAMG\Tools\obj\Release\Tools.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.5\WebReportAMG\Tools\obj\Release\Tools.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.5\WebReportAMG\Tools\obj\Release\Tools.pdb
+C:\Users\usuario\OneDrive\Escritorio\Proyectos Asp.Net\WebReportAMG v1.5\WebReportAMG v1.5\WebReportAMG\Tools\bin\Release\Tools.dll
+C:\Users\usuario\OneDrive\Escritorio\Proyectos Asp.Net\WebReportAMG v1.5\WebReportAMG v1.5\WebReportAMG\Tools\bin\Release\Tools.pdb
+C:\Users\usuario\OneDrive\Escritorio\Proyectos Asp.Net\WebReportAMG v1.5\WebReportAMG v1.5\WebReportAMG\Tools\obj\Release\Tools.csproj.AssemblyReference.cache
+C:\Users\usuario\OneDrive\Escritorio\Proyectos Asp.Net\WebReportAMG v1.5\WebReportAMG v1.5\WebReportAMG\Tools\obj\Release\Tools.csproj.CoreCompileInputs.cache
+C:\Users\usuario\OneDrive\Escritorio\Proyectos Asp.Net\WebReportAMG v1.5\WebReportAMG v1.5\WebReportAMG\Tools\obj\Release\Tools.dll
+C:\Users\usuario\OneDrive\Escritorio\Proyectos Asp.Net\WebReportAMG v1.5\WebReportAMG v1.5\WebReportAMG\Tools\obj\Release\Tools.pdb
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\Tools\bin\Release\Tools.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\Tools\bin\Release\Tools.pdb
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\Tools\bin\Release\Common.Logging.Core.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\Tools\bin\Release\Common.Logging.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\Tools\bin\Release\DocumentFormat.OpenXml.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\Tools\bin\Release\ExcelNumberFormat.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\Tools\bin\Release\Glimpse.Core.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\Tools\bin\Release\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\Tools\bin\Release\Newtonsoft.Json.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\Tools\bin\Release\Newtonsoft.Json.Glimpse.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\Tools\bin\Release\System.Buffers.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\Tools\bin\Release\System.Memory.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\Tools\bin\Release\System.Numerics.Vectors.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\Tools\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\Tools\bin\Release\Common.Logging.pdb
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\Tools\bin\Release\Common.Logging.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\Tools\bin\Release\Common.Logging.Core.pdb
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\Tools\bin\Release\Common.Logging.Core.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\Tools\bin\Release\DocumentFormat.OpenXml.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\Tools\bin\Release\ExcelNumberFormat.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\Tools\bin\Release\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\Tools\bin\Release\Newtonsoft.Json.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\Tools\bin\Release\Newtonsoft.Json.Glimpse.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\Tools\bin\Release\System.Buffers.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\Tools\bin\Release\System.Memory.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\Tools\bin\Release\System.Numerics.Vectors.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\Tools\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\Tools\obj\Release\Tools.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\Tools\obj\Release\Tools.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\Tools\obj\Release\Tools.csproj.CopyComplete
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\Tools\obj\Release\Tools.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\Tools\obj\Release\Tools.pdb
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\Tools\bin\Release\Tools.dll
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\Tools\bin\Release\Tools.pdb
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\Tools\bin\Release\Common.Logging.Core.dll
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\Tools\bin\Release\Common.Logging.dll
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\Tools\bin\Release\DocumentFormat.OpenXml.dll
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\Tools\bin\Release\ExcelNumberFormat.dll
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\Tools\bin\Release\Glimpse.Core.dll
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\Tools\bin\Release\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\Tools\bin\Release\Newtonsoft.Json.dll
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\Tools\bin\Release\Newtonsoft.Json.Glimpse.dll
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\Tools\bin\Release\System.Buffers.dll
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\Tools\bin\Release\System.Memory.dll
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\Tools\bin\Release\System.Numerics.Vectors.dll
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\Tools\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\Tools\bin\Release\Common.Logging.pdb
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\Tools\bin\Release\Common.Logging.xml
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\Tools\bin\Release\Common.Logging.Core.pdb
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\Tools\bin\Release\Common.Logging.Core.xml
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\Tools\bin\Release\DocumentFormat.OpenXml.xml
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\Tools\bin\Release\ExcelNumberFormat.xml
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\Tools\bin\Release\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\Tools\bin\Release\Newtonsoft.Json.xml
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\Tools\bin\Release\Newtonsoft.Json.Glimpse.xml
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\Tools\bin\Release\System.Buffers.xml
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\Tools\bin\Release\System.Memory.xml
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\Tools\bin\Release\System.Numerics.Vectors.xml
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\Tools\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\Tools\obj\Release\Tools.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\Tools\obj\Release\Tools.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\Tools\obj\Release\Tools.csproj.Up2Date
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\Tools\obj\Release\Tools.dll
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\Tools\obj\Release\Tools.pdb

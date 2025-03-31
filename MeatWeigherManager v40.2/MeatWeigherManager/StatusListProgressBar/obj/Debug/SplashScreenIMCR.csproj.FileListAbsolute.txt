@@ -1,0 +1,7 @@
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeighingTruck_FisMarbel v1.0\weighingtruck_fismarbel\SplashScreenIMCR\bin\Debug\SplashScreen.dll
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeighingTruck_FisMarbel v1.0\weighingtruck_fismarbel\SplashScreenIMCR\bin\Debug\SplashScreen.pdb
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeighingTruck_FisMarbel v1.0\weighingtruck_fismarbel\SplashScreenIMCR\obj\Debug\SplashScreen.Properties.Resources.resources
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeighingTruck_FisMarbel v1.0\weighingtruck_fismarbel\SplashScreenIMCR\obj\Debug\SplashScreenIMCR.CSplashScreenIMCR.resources
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeighingTruck_FisMarbel v1.0\weighingtruck_fismarbel\SplashScreenIMCR\obj\Debug\SplashScreenIMCR.csproj.GenerateResource.Cache
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeighingTruck_FisMarbel v1.0\weighingtruck_fismarbel\SplashScreenIMCR\obj\Debug\SplashScreen.dll
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeighingTruck_FisMarbel v1.0\weighingtruck_fismarbel\SplashScreenIMCR\obj\Debug\SplashScreen.pdb

@@ -1,0 +1,72 @@
+C:\Desarrollo\Software\C#\MeatWeigherManager\MeatWeigherManager\PdfStampaReport\bin\Release\PdfStampaReport.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager\MeatWeigherManager\PdfStampaReport\bin\Release\PdfStampaReport.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager\MeatWeigherManager\PdfStampaReport\bin\Release\Stampa.DLL
+C:\Desarrollo\Software\C#\MeatWeigherManager\MeatWeigherManager\PdfStampaReport\bin\Release\StatusProgressBar.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager\MeatWeigherManager\PdfStampaReport\obj\Release\PdfStampaReport.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager\MeatWeigherManager\PdfStampaReport\obj\Release\PdfStampaReport.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager\MeatWeigherManager\PdfStampaReport\obj\Release\PdfStampaReport.csproj.CopyComplete
+C:\Desarrollo\Software\C#\MeatWeigherManager\MeatWeigherManager\PdfStampaReport\obj\Release\PdfStampaReport.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager\MeatWeigherManager\PdfStampaReport\obj\Release\PdfStampaReport.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\PdfStampaReport\bin\Release\PdfStampaReport.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\PdfStampaReport\bin\Release\PdfStampaReport.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\PdfStampaReport\bin\Release\Stampa.DLL
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\PdfStampaReport\bin\Release\StatusProgressBar.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\PdfStampaReport\obj\Release\PdfStampaReport.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\PdfStampaReport\obj\Release\PdfStampaReport.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\PdfStampaReport\obj\Release\PdfStampaReport.csproj.CopyComplete
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\PdfStampaReport\obj\Release\PdfStampaReport.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\PdfStampaReport\obj\Release\PdfStampaReport.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\PdfStampaReport\bin\Release\PdfStampaReport.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\PdfStampaReport\bin\Release\PdfStampaReport.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\PdfStampaReport\bin\Release\Stampa.DLL
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\PdfStampaReport\bin\Release\StatusProgressBar.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\PdfStampaReport\obj\Release\PdfStampaReport.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\PdfStampaReport\obj\Release\PdfStampaReport.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\PdfStampaReport\obj\Release\PdfStampaReport.csproj.CopyComplete
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\PdfStampaReport\obj\Release\PdfStampaReport.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\PdfStampaReport\obj\Release\PdfStampaReport.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\PdfStampaReport\bin\Release\PdfStampaReport.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\PdfStampaReport\bin\Release\PdfStampaReport.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\PdfStampaReport\bin\Release\Stampa.DLL
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\PdfStampaReport\bin\Release\StatusProgressBar.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\PdfStampaReport\obj\Release\PdfStampaReport.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\PdfStampaReport\obj\Release\PdfStampaReport.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\PdfStampaReport\obj\Release\PdfStampaReport.csproj.CopyComplete
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\PdfStampaReport\obj\Release\PdfStampaReport.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\PdfStampaReport\obj\Release\PdfStampaReport.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\PdfStampaReport\bin\Release\PdfStampaReport.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\PdfStampaReport\bin\Release\PdfStampaReport.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\PdfStampaReport\bin\Release\Stampa.DLL
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\PdfStampaReport\bin\Release\StatusProgressBar.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\PdfStampaReport\obj\Release\PdfStampaReport.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\PdfStampaReport\obj\Release\PdfStampaReport.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\PdfStampaReport\obj\Release\PdfStampaReport.csproj.CopyComplete
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\PdfStampaReport\obj\Release\PdfStampaReport.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\PdfStampaReport\obj\Release\PdfStampaReport.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\PdfStampaReport\bin\Release\PdfStampaReport.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\PdfStampaReport\bin\Release\PdfStampaReport.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\PdfStampaReport\bin\Release\Stampa.DLL
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\PdfStampaReport\bin\Release\StatusProgressBar.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\PdfStampaReport\obj\Release\PdfStampaReport.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\PdfStampaReport\obj\Release\PdfStampaReport.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\PdfStampaReport\obj\Release\PdfStampaReport.csproj.CopyComplete
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\PdfStampaReport\obj\Release\PdfStampaReport.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\PdfStampaReport\obj\Release\PdfStampaReport.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.1\MeatWeigherManager\PdfStampaReport\bin\Release\PdfStampaReport.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.1\MeatWeigherManager\PdfStampaReport\bin\Release\PdfStampaReport.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.1\MeatWeigherManager\PdfStampaReport\bin\Release\Stampa.DLL
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.1\MeatWeigherManager\PdfStampaReport\bin\Release\StatusProgressBar.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.1\MeatWeigherManager\PdfStampaReport\obj\Release\PdfStampaReport.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.1\MeatWeigherManager\PdfStampaReport\obj\Release\PdfStampaReport.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.1\MeatWeigherManager\PdfStampaReport\obj\Release\PdfStampaReport.csproj.CopyComplete
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.1\MeatWeigherManager\PdfStampaReport\obj\Release\PdfStampaReport.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.1\MeatWeigherManager\PdfStampaReport\obj\Release\PdfStampaReport.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\PdfStampaReport\bin\Release\PdfStampaReport.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\PdfStampaReport\bin\Release\PdfStampaReport.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\PdfStampaReport\bin\Release\Stampa.DLL
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\PdfStampaReport\bin\Release\StatusProgressBar.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\PdfStampaReport\obj\Release\PdfStampaReport.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\PdfStampaReport\obj\Release\PdfStampaReport.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\PdfStampaReport\obj\Release\PdfStampaReport.csproj.CopyComplete
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\PdfStampaReport\obj\Release\PdfStampaReport.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\PdfStampaReport\obj\Release\PdfStampaReport.pdb

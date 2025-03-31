@@ -1,0 +1,118 @@
+﻿@model WebReportMWM.Models.Entitys.ProductoEnCombo
+@{
+    ViewBag.Title = "UpdateProductoEnCombo";
+
+    var ValidarPeso = new List<SelectListItem>();
+    ValidarPeso.Add(new SelectListItem { Text = "NO", Value = "false" });
+    ValidarPeso.Add(new SelectListItem { Text = "SI", Value = "true" });
+
+    var ValidarUnidades = new List<SelectListItem>();
+    ValidarUnidades.Add(new SelectListItem { Text = "NO", Value = "false" });
+    ValidarUnidades.Add(new SelectListItem { Text = "SI", Value = "true" });
+}
+
+<h2>Actualizar Producto</h2>
+
+@using (Html.BeginForm("UpdateProductoEnCombo", "CrudCombos", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <h4>@Model.NombreProducto</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        @Html.HiddenFor(model => model.IdProductoCombo)
+        @Html.HiddenFor(model => model.IdProducto)
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <input type="hidden" id="idProducto" name="idProducto" value="@Model.IdProducto" />
+
+        <div class="form-group">
+            @Html.Label("Nombre Combo", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.TextBoxFor(model => model.NombreCombo, new { @class = "form-control", disabled = "disabled", @readonly = "readonly" })
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.Label("Nombre Producto", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.TextBoxFor(model => model.NombreProducto, new { @class = "form-control", disabled = "disabled", @readonly = "readonly" })
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(model => model.Unidades, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Unidades, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Unidades, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Peso, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Peso, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Peso, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.Label("Tolerancia Peso", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.ToleranciaPeso, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.ToleranciaPeso, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.Label("Validar Unidades?", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownListFor(model => model.ValidarUnds, ValidarUnidades, new { htmlAttributes = new { @class = "form-control", id = "iddropdownlistdisponible" } })
+                @Html.ValidationMessageFor(model => model.ValidarUnds, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.Label("Validar Peso?", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownListFor(model => model.ValidarPeso, ValidarPeso, new { htmlAttributes = new { @class = "form-control", id = "iddropdownlistdisponible" } })
+                @Html.ValidationMessageFor(model => model.ValidarPeso, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Actualizar" class="btn btn-danger" />
+                @Html.ActionLink("Volver", "DetailProductos", new
+           {
+               idComboRowSelect = Model.IdProductoCombo,
+               idProductoRowSelect = Model.IdProducto,
+               idProductoCombo = Model.IdProductoCombo,
+               NombreCombo = Model.NombreProducto
+           }, new { @class = "btn btn-info" })
+                @ViewBag.Message
+            </div>
+        </div>
+    </div>
+
+    if (TempData["MessagesError"] != null && ((List<string>)TempData["MessagesError"]).Count > 0)
+    {
+        foreach (string msg in (List<string>)TempData["MessagesError"])
+        {
+            <p style="color:red;">@msg</p>
+        }
+    }
+}
+
+@section scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+    <script type="text/javascript">
+        function floatFormatEdit(handler) {
+            var valinput = handler.value.replace(",", ".");
+            handler.value = parseFloat(valinput).toFixed(3).replace(".", ",");
+        };
+        $("#Peso,#ToleranciaPeso").change(function () {
+            floatFormatEdit(this);
+        });
+    </script>
+}
+
+

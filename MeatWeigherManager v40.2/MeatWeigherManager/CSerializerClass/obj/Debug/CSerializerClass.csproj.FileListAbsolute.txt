@@ -1,0 +1,266 @@
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtRegR_27WNet_v1\EtRegR_27WNet_v1\CSerializerClass\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtRegR_27WNet_v1\EtRegR_27WNet_v1\CSerializerClass\bin\Debug\CSerializerClass.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtRegR_27WNet_v1\EtRegR_27WNet_v1\CSerializerClass\bin\Debug\CSerializerClass.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtRegR_27WNet_v1\EtRegR_27WNet_v1\CSerializerClass\obj\Debug\CSerializerClass.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtRegR_27WNet_v1\EtRegR_27WNet_v1\CSerializerClass\obj\Debug\CSerializerClass.pdb
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeighingFis\WeigherFis\CSerializerClass\bin\Debug\CSerializerClass.dll
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeighingFis\WeigherFis\CSerializerClass\bin\Debug\CSerializerClass.pdb
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeighingFis\WeigherFis\CSerializerClass\obj\Debug\CSerializerClass.dll
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeighingFis\WeigherFis\CSerializerClass\obj\Debug\CSerializerClass.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis\WeigherFis\CSerializerClass\bin\Debug\CSerializerClass.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis\WeigherFis\CSerializerClass\bin\Debug\CSerializerClass.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis\WeigherFis\CSerializerClass\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis\WeigherFis\CSerializerClass\obj\Debug\CSerializerClass.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis\WeigherFis\CSerializerClass\obj\Debug\CSerializerClass.pdb
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis\WeigherFis\CSerializerClass\bin\Debug\CSerializerClass.dll
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis\WeigherFis\CSerializerClass\bin\Debug\CSerializerClass.pdb
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis\WeigherFis\CSerializerClass\obj\Debug\CSerializerClass.dll
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis\WeigherFis\CSerializerClass\obj\Debug\CSerializerClass.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\CSerializerClass\bin\Debug\CSerializerClass.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\CSerializerClass\bin\Debug\CSerializerClass.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\CSerializerClass\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\CSerializerClass\obj\Debug\CSerializerClass.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\CSerializerClass\obj\Debug\CSerializerClass.pdb
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis v1.2\WeigherFis\CSerializerClass\bin\Debug\CSerializerClass.dll
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis v1.2\WeigherFis\CSerializerClass\bin\Debug\CSerializerClass.pdb
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis v1.2\WeigherFis\CSerializerClass\obj\Debug\CSerializerClass.dll
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis v1.2\WeigherFis\CSerializerClass\obj\Debug\CSerializerClass.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.2\WeigherFis\CSerializerClass\bin\Debug\CSerializerClass.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.2\WeigherFis\CSerializerClass\bin\Debug\CSerializerClass.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.2\WeigherFis\CSerializerClass\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.2\WeigherFis\CSerializerClass\obj\Debug\CSerializerClass.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.2\WeigherFis\CSerializerClass\obj\Debug\CSerializerClass.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.3\WeigherFis\CSerializerClass\bin\Debug\CSerializerClass.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.3\WeigherFis\CSerializerClass\bin\Debug\CSerializerClass.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.3\WeigherFis\CSerializerClass\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.3\WeigherFis\CSerializerClass\obj\Debug\CSerializerClass.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.3\WeigherFis\CSerializerClass\obj\Debug\CSerializerClass.pdb
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis v1.3\WeigherFis\CSerializerClass\bin\Debug\CSerializerClass.dll
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis v1.3\WeigherFis\CSerializerClass\bin\Debug\CSerializerClass.pdb
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis v1.3\WeigherFis\CSerializerClass\obj\Debug\CSerializerClass.dll
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis v1.3\WeigherFis\CSerializerClass\obj\Debug\CSerializerClass.pdb
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis v1.4\WeigherFis\CSerializerClass\bin\Debug\CSerializerClass.dll
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis v1.4\WeigherFis\CSerializerClass\bin\Debug\CSerializerClass.pdb
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis v1.4\WeigherFis\CSerializerClass\obj\Debug\CSerializerClass.dll
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis v1.4\WeigherFis\CSerializerClass\obj\Debug\CSerializerClass.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.5\WeigherFis\CSerializerClass\bin\Debug\CSerializerClass.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.5\WeigherFis\CSerializerClass\bin\Debug\CSerializerClass.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.5\WeigherFis\CSerializerClass\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.5\WeigherFis\CSerializerClass\obj\Debug\CSerializerClass.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.5\WeigherFis\CSerializerClass\obj\Debug\CSerializerClass.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherLaundry v1.0\WeigherLaundry\CSerializerClass\bin\Debug\CSerializerClass.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherLaundry v1.0\WeigherLaundry\CSerializerClass\bin\Debug\CSerializerClass.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherLaundry v1.0\WeigherLaundry\CSerializerClass\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherLaundry v1.0\WeigherLaundry\CSerializerClass\obj\Debug\CSerializerClass.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherLaundry v1.0\WeigherLaundry\CSerializerClass\obj\Debug\CSerializerClass.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.0\MeatWeigherManager\CSerializerClass\bin\Debug\CSerializerClass.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.0\MeatWeigherManager\CSerializerClass\bin\Debug\CSerializerClass.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.0\MeatWeigherManager\CSerializerClass\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.0\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.0\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\CSerializerClass\bin\Debug\CSerializerClass.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\CSerializerClass\bin\Debug\CSerializerClass.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\CSerializerClass\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\CSerializerClass\bin\Debug\CSerializerClass.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\CSerializerClass\bin\Debug\CSerializerClass.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\CSerializerClass\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\CSerializerClass\bin\Debug\CSerializerClass.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\CSerializerClass\bin\Debug\CSerializerClass.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\CSerializerClass\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.pdb
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.0\MeatWeigherManager\CSerializerClass\bin\Debug\CSerializerClass.dll
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.0\MeatWeigherManager\CSerializerClass\bin\Debug\CSerializerClass.pdb
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.0\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.csprojResolveAssemblyReference.cache
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.0\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.csproj.CoreCompileInputs.cache
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.0\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.dll
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.0\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.pdb
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.2\MeatWeigherManager\CSerializerClass\bin\Debug\CSerializerClass.dll
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.2\MeatWeigherManager\CSerializerClass\bin\Debug\CSerializerClass.pdb
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.2\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.csproj.CoreCompileInputs.cache
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.2\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.dll
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.2\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\CSerializerClass\bin\Debug\CSerializerClass.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\CSerializerClass\bin\Debug\CSerializerClass.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\CSerializerClass\bin\Debug\CSerializerClass.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\CSerializerClass\bin\Debug\CSerializerClass.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\CSerializerClass\bin\Debug\CSerializerClass.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\CSerializerClass\bin\Debug\CSerializerClass.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\CSerializerClass\bin\Debug\CSerializerClass.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\CSerializerClass\bin\Debug\CSerializerClass.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\CSerializerClass\bin\Debug\CSerializerClass.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\CSerializerClass\bin\Debug\CSerializerClass.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.1\MeatWeigherManager\CSerializerClass\bin\Debug\CSerializerClass.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.1\MeatWeigherManager\CSerializerClass\bin\Debug\CSerializerClass.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.1\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.1\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.1\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.1\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\CSerializerClass\bin\Debug\CSerializerClass.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\CSerializerClass\bin\Debug\CSerializerClass.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.3\MeatWeigherManager\CSerializerClass\bin\Debug\CSerializerClass.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.3\MeatWeigherManager\CSerializerClass\bin\Debug\CSerializerClass.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.3\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.3\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.3\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.3\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.4\MeatWeigherManager\CSerializerClass\bin\Debug\CSerializerClass.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.4\MeatWeigherManager\CSerializerClass\bin\Debug\CSerializerClass.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.4\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.4\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.4\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.4\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.0\MeatWeigherManager\CSerializerClass\bin\Debug\CSerializerClass.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.0\MeatWeigherManager\CSerializerClass\bin\Debug\CSerializerClass.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.0\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.0\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.0\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.2\MeatWeigherManager\CSerializerClass\bin\Debug\CSerializerClass.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.2\MeatWeigherManager\CSerializerClass\bin\Debug\CSerializerClass.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.2\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.2\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.2\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.3\MeatWeigherManager\CSerializerClass\bin\Debug\CSerializerClass.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.3\MeatWeigherManager\CSerializerClass\bin\Debug\CSerializerClass.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.3\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.3\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.3\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.7\MeatWeigherManager\CSerializerClass\bin\Debug\CSerializerClass.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.7\MeatWeigherManager\CSerializerClass\bin\Debug\CSerializerClass.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.7\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.7\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.7\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.7\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.8\MeatWeigherManager\CSerializerClass\bin\Debug\CSerializerClass.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.8\MeatWeigherManager\CSerializerClass\bin\Debug\CSerializerClass.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.8\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.8\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.8\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.10\MeatWeigherManager\CSerializerClass\bin\Debug\CSerializerClass.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.10\MeatWeigherManager\CSerializerClass\bin\Debug\CSerializerClass.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.10\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.10\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.10\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.13\MeatWeigherManager\CSerializerClass\bin\Debug\CSerializerClass.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.13\MeatWeigherManager\CSerializerClass\bin\Debug\CSerializerClass.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.13\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.13\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.13\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.13\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.14\MeatWeigherManager\CSerializerClass\bin\Debug\CSerializerClass.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.14\MeatWeigherManager\CSerializerClass\bin\Debug\CSerializerClass.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.14\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.14\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.14\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.16\MeatWeigherManager\CSerializerClass\bin\Debug\CSerializerClass.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.16\MeatWeigherManager\CSerializerClass\bin\Debug\CSerializerClass.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.16\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.16\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.16\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.17\MeatWeigherManager\CSerializerClass\bin\Debug\CSerializerClass.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.17\MeatWeigherManager\CSerializerClass\bin\Debug\CSerializerClass.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.17\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.17\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.17\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\CSerializerClass\bin\Debug\CSerializerClass.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\CSerializerClass\bin\Debug\CSerializerClass.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.21\MeatWeigherManager\CSerializerClass\bin\Debug\CSerializerClass.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.21\MeatWeigherManager\CSerializerClass\bin\Debug\CSerializerClass.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.21\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.21\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.21\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.22\MeatWeigherManager\CSerializerClass\bin\Debug\CSerializerClass.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.22\MeatWeigherManager\CSerializerClass\bin\Debug\CSerializerClass.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.22\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.22\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.22\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\CSerializerClass\bin\Debug\CSerializerClass.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\CSerializerClass\bin\Debug\CSerializerClass.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.1\MeatWeigherManager\CSerializerClass\bin\Debug\CSerializerClass.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.1\MeatWeigherManager\CSerializerClass\bin\Debug\CSerializerClass.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.1\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.1\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.1\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.1\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.2\MeatWeigherManager\CSerializerClass\bin\Debug\CSerializerClass.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.2\MeatWeigherManager\CSerializerClass\bin\Debug\CSerializerClass.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.2\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.2\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.2\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.2\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.3\MeatWeigherManager\CSerializerClass\bin\Debug\CSerializerClass.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.3\MeatWeigherManager\CSerializerClass\bin\Debug\CSerializerClass.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.3\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.3\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.3\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.3\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.4\MeatWeigherManager\CSerializerClass\bin\Debug\CSerializerClass.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.4\MeatWeigherManager\CSerializerClass\bin\Debug\CSerializerClass.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.4\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.4\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.4\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.4\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.0\MeatWeigherManager\CSerializerClass\bin\Debug\CSerializerClass.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.0\MeatWeigherManager\CSerializerClass\bin\Debug\CSerializerClass.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.0\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.0\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.0\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.0\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.2\MeatWeigherManager\CSerializerClass\bin\Debug\CSerializerClass.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.2\MeatWeigherManager\CSerializerClass\bin\Debug\CSerializerClass.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.2\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.2\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.2\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.2\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.0\MeatWeigherManager\CSerializerClass\bin\Debug\CSerializerClass.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.0\MeatWeigherManager\CSerializerClass\bin\Debug\CSerializerClass.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.0\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.0\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.0\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.0\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.1\MeatWeigherManager\CSerializerClass\bin\Debug\CSerializerClass.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.1\MeatWeigherManager\CSerializerClass\bin\Debug\CSerializerClass.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.1\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.1\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.1\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.1\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.2\MeatWeigherManager\CSerializerClass\bin\Debug\CSerializerClass.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.2\MeatWeigherManager\CSerializerClass\bin\Debug\CSerializerClass.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.2\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.2\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.2\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.2\MeatWeigherManager\CSerializerClass\obj\Debug\CSerializerClass.pdb

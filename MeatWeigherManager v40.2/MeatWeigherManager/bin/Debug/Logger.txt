@@ -1,0 +1,964 @@
+lunes, 22 de julio de 2019 1:45:16 p. m.
+Descripcion:
+   Se Eliminó la Pesada :55070 del Lote: 999999 por el Operador : 1
+-------------------------------
+lunes, 22 de julio de 2019 1:52:14 p. m.
+Descripcion:
+   Se Eliminó el Lote:9003943 por el Operador : 1
+-------------------------------
+jueves, 5 de septiembre de 2019 10:23:57 p. m.
+Descripcion:
+   Se Eliminó la Orden de Ingreso:39 por el Operador : 1
+-------------------------------
+viernes, 6 de septiembre de 2019 9:05:47 p. m.
+Descripcion:
+   Se Eliminó la pesada Nº: 68 de la Orden de Ingreso: 38 por el Operador : 1
+-------------------------------
+sábado, 7 de septiembre de 2019 1:50:34 p. m.
+Descripcion:
+   Se Eliminarón 4 registros de pesadas de 4 seleccionados pertenecientes a la Orden de Ingreso: 4 por el Operador : 40
+-------------------------------
+sábado, 7 de septiembre de 2019 1:50:45 p. m.
+Descripcion:
+   Se Eliminarón 18 registros de pesadas de 18 seleccionados pertenecientes a la Orden de Ingreso: 18 por el Operador : 40
+-------------------------------
+sábado, 7 de septiembre de 2019 1:51:08 p. m.
+Descripcion:
+   Se Eliminarón 48 registros de pesadas de 48 seleccionados pertenecientes a la Orden de Ingreso: 48 por el Operador : 40
+-------------------------------
+sábado, 7 de septiembre de 2019 1:51:16 p. m.
+Descripcion:
+   Se Eliminarón 3 registros de pesadas de 3 seleccionados pertenecientes a la Orden de Ingreso: 3 por el Operador : 40
+-------------------------------
+sábado, 7 de septiembre de 2019 1:53:38 p. m.
+Descripcion:
+   Se Eliminarón 12 registros de pesadas de 12 seleccionados pertenecientes a la Orden de Ingreso: 12 por el Operador : 40
+-------------------------------
+domingo, 8 de septiembre de 2019 6:34:04 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de pesadas de 1 seleccionados pertenecientes a la Orden de Ingreso: 1 por el Operador : 38
+-------------------------------
+domingo, 8 de septiembre de 2019 8:08:35 p. m.
+Descripcion:
+   Se Eliminarón 3 registros de pesadas de 3 seleccionados pertenecientes a la Orden de Ingreso: 3 por el Operador : 40
+-------------------------------
+domingo, 8 de septiembre de 2019 8:14:46 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de pesadas de 1 seleccionados pertenecientes a la Orden de Ingreso: 1 por el Operador : 40
+-------------------------------
+lunes, 9 de septiembre de 2019 1:52:31 p. m.
+Descripcion:
+   Se Eliminarón 2 registros de pesadas de 2 seleccionados pertenecientes a la Orden de Ingreso: 2 por el Operador : 40
+-------------------------------
+lunes, 9 de septiembre de 2019 7:44:54 p. m.
+Descripcion:
+   Se Cerró la Orden de Ingreso:36 por el Operador : 1
+-------------------------------
+lunes, 9 de septiembre de 2019 7:45:15 p. m.
+Descripcion:
+   Se Cerró la Orden de Ingreso:32 por el Operador : 1
+-------------------------------
+lunes, 9 de septiembre de 2019 7:46:19 p. m.
+Descripcion:
+   Se Cerró la Orden de Ingreso:37 por el Operador : 1
+-------------------------------
+jueves, 12 de septiembre de 2019 9:08:48 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de pesadas de 1 seleccionados pertenecientes a la Orden de Ingreso: 1 por el Operador : 41
+-------------------------------
+jueves, 12 de septiembre de 2019 9:09:04 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de pesadas de 1 seleccionados pertenecientes a la Orden de Ingreso: 1 por el Operador : 41
+-------------------------------
+jueves, 12 de septiembre de 2019 9:16:44 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de pesadas de 1 seleccionados pertenecientes al Lote: 1 por el Operador : 2019-09-11
+-------------------------------
+jueves, 12 de septiembre de 2019 9:17:01 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de pesadas de 1 seleccionados pertenecientes al Lote: 1 por el Operador : 2019-09-11
+-------------------------------
+viernes, 13 de septiembre de 2019 4:24:52 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de pesadas de 1 seleccionados pertenecientes al Lote: 1 por el Operador : 1309YYYY
+-------------------------------
+martes, 17 de septiembre de 2019 3:12:45 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de piezas colectadas de 1 seleccionados ,  pertenecientes al Lote: 1 por el Operador : 1709YYYY
+-------------------------------
+martes, 17 de septiembre de 2019 3:12:53 p. m.
+Descripcion:
+   Se Eliminarón 6 registros de piezas colectadas de 6 seleccionados ,  pertenecientes al Lote: 6 por el Operador : 1709YYYY
+-------------------------------
+martes, 17 de septiembre de 2019 3:16:35 p. m.
+Descripcion:
+   Se Eliminarón 8 registros de piezas colectadas de 8 seleccionados ,  pertenecientes al Lote: 8 por el Operador : 1709YYYY
+-------------------------------
+martes, 17 de septiembre de 2019 3:41:49 p. m.
+Descripcion:
+   Se Eliminarón 6 registros de piezas colectadas de 6 seleccionados ,  pertenecientes al Lote: 6 por el Operador : 1709YYYY
+-------------------------------
+martes, 17 de septiembre de 2019 3:54:13 p. m.
+Descripcion:
+   Se Eliminarón 2 registros de piezas colectadas de 2 seleccionados ,  pertenecientes al Lote: 2 por el Operador : 1709YYYY
+-------------------------------
+martes, 17 de septiembre de 2019 3:57:15 p. m.
+Descripcion:
+   Se Eliminarón 2 registros de piezas colectadas de 2 seleccionados ,  pertenecientes al Lote: 2 por el Operador : 1709YYYY
+-------------------------------
+martes, 17 de septiembre de 2019 3:57:21 p. m.
+Descripcion:
+   Se Eliminarón 0 registros de piezas colectadas de 1 seleccionados ,  pertenecientes al Lote: 1 por el Operador : 1709YYYY
+-------------------------------
+martes, 17 de septiembre de 2019 3:57:39 p. m.
+Descripcion:
+   Se Eliminarón 0 registros de piezas colectadas de 1 seleccionados ,  pertenecientes al Lote: 1 por el Operador : 1709YYYY
+-------------------------------
+martes, 17 de septiembre de 2019 3:59:29 p. m.
+Descripcion:
+   Se Eliminarón 0 registros de piezas colectadas de 1 seleccionados ,  pertenecientes al Lote: 1 por el Operador : 1709YYYY
+-------------------------------
+martes, 17 de septiembre de 2019 4:02:24 p. m.
+Descripcion:
+   Se Eliminarón 0 registros de piezas colectadas de 1 seleccionados ,  pertenecientes al Lote: 1 por el Operador : 1709YYYY
+-------------------------------
+martes, 17 de septiembre de 2019 4:06:02 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de piezas colectadas de 1 seleccionados ,  pertenecientes al Lote: 1 por el Operador : 1709YYYY
+-------------------------------
+martes, 17 de septiembre de 2019 4:14:29 p. m.
+Descripcion:
+   Se Eliminarón 4 registros de piezas colectadas de 4 seleccionados ,  pertenecientes al Lote: 4 por el Operador : 1709YYYY
+-------------------------------
+martes, 17 de septiembre de 2019 4:22:21 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de piezas colectadas de 1 seleccionados ,  pertenecientes al Lote: 1 por el Operador : 1709YYYY
+-------------------------------
+martes, 17 de septiembre de 2019 4:22:30 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de piezas colectadas de 1 seleccionados ,  pertenecientes al Lote: 1 por el Operador : 1709YYYY
+-------------------------------
+martes, 17 de septiembre de 2019 4:22:33 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de piezas colectadas de 1 seleccionados ,  pertenecientes al Lote: 1 por el Operador : 1709YYYY
+-------------------------------
+martes, 17 de septiembre de 2019 4:22:34 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de piezas colectadas de 1 seleccionados ,  pertenecientes al Lote: 1 por el Operador : 1709YYYY
+-------------------------------
+martes, 17 de septiembre de 2019 4:23:23 p. m.
+Descripcion:
+   Se Eliminarón 4 registros de piezas colectadas de 4 seleccionados ,  pertenecientes al Lote: 4 por el Operador : 1709YYYY
+-------------------------------
+martes, 17 de septiembre de 2019 4:23:24 p. m.
+Descripcion:
+   Se Eliminarón 0 registros de piezas colectadas de 3 seleccionados ,  pertenecientes al Lote: 3 por el Operador : 1709YYYY
+-------------------------------
+martes, 17 de septiembre de 2019 4:23:33 p. m.
+Descripcion:
+   Se Eliminarón 0 registros de piezas colectadas de 3 seleccionados ,  pertenecientes al Lote: 3 por el Operador : 1709YYYY
+-------------------------------
+martes, 17 de septiembre de 2019 4:23:34 p. m.
+Descripcion:
+   Se Eliminarón 0 registros de piezas colectadas de 3 seleccionados ,  pertenecientes al Lote: 3 por el Operador : 1709YYYY
+-------------------------------
+martes, 17 de septiembre de 2019 4:32:04 p. m.
+Descripcion:
+   Se Eliminarón 4 registros de piezas colectadas de 4 seleccionados ,  pertenecientes al Lote: 4 por el Operador : 1709YYYY
+-------------------------------
+martes, 17 de septiembre de 2019 4:48:56 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de piezas colectadas de 1 seleccionados ,  pertenecientes al Lote: 1 por el Operador : 1709YYYY
+-------------------------------
+martes, 17 de septiembre de 2019 4:48:59 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de piezas colectadas de 1 seleccionados ,  pertenecientes al Lote: 1 por el Operador : 1709YYYY
+-------------------------------
+martes, 17 de septiembre de 2019 4:49:03 p. m.
+Descripcion:
+   Se Eliminarón 2 registros de piezas colectadas de 2 seleccionados ,  pertenecientes al Lote: 2 por el Operador : 1709YYYY
+-------------------------------
+martes, 17 de septiembre de 2019 4:49:33 p. m.
+Descripcion:
+   Se Eliminarón 4 registros de piezas colectadas de 4 seleccionados ,  pertenecientes al Lote: 4 por el Operador : 1709YYYY
+-------------------------------
+martes, 17 de septiembre de 2019 4:50:38 p. m.
+Descripcion:
+   Se Eliminarón 6 registros de piezas colectadas de 6 seleccionados ,  pertenecientes al Lote: 6 por el Operador : 1709YYYY
+-------------------------------
+martes, 17 de septiembre de 2019 5:02:27 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de pesadas de 1 seleccionados pertenecientes a la Orden de Ingreso: 1 por el Operador : 43
+-------------------------------
+martes, 17 de septiembre de 2019 5:02:59 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de pesadas de 1 seleccionados pertenecientes al Lote: 1 por el Operador : 1709YYYY
+-------------------------------
+martes, 17 de septiembre de 2019 5:38:15 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de piezas colectadas de 1 seleccionados ,  pertenecientes al Lote: 1 por el Operador : 1709YYYY
+-------------------------------
+martes, 17 de septiembre de 2019 5:39:12 p. m.
+Descripcion:
+   Se Eliminarón 6 registros de piezas colectadas de 6 seleccionados ,  pertenecientes al Lote: 6 por el Operador : 1709YYYY
+-------------------------------
+lunes, 23 de septiembre de 2019 1:49:48 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de piezas colectadas de 1 seleccionados ,  pertenecientes al pedido: 1 por el Operador : 30
+-------------------------------
+lunes, 23 de septiembre de 2019 1:50:00 p. m.
+Descripcion:
+   Se Eliminarón 3 registros de piezas colectadas de 3 seleccionados ,  pertenecientes al pedido: 3 por el Operador : 30
+-------------------------------
+lunes, 23 de septiembre de 2019 2:05:14 p. m.
+Descripcion:
+   Se Eliminarón 12 registros de piezas colectadas de 12 seleccionados ,  pertenecientes al pedido: 12 por el Operador : 30
+-------------------------------
+lunes, 23 de septiembre de 2019 2:34:44 p. m.
+Descripcion:
+   Se Eliminarón 12 registros de piezas colectadas de 12 seleccionados ,  pertenecientes al pedido: 12 por el Operador : 30
+-------------------------------
+lunes, 23 de septiembre de 2019 2:35:31 p. m.
+Descripcion:
+   Se Eliminarón 2 registros de piezas colectadas de 2 seleccionados ,  pertenecientes al pedido: 2 por el Operador : 30
+-------------------------------
+lunes, 23 de septiembre de 2019 3:57:58 p. m.
+Descripcion:
+   Se Eliminarón 0 registros de pesadas de 4 seleccionados pertenecientes a la Orden de Ingreso: 4 por el Operador : 55
+-------------------------------
+lunes, 23 de septiembre de 2019 4:15:25 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de piezas colectadas de 1 seleccionados ,  pertenecientes al pedido: 1 por el Operador : 31
+-------------------------------
+lunes, 23 de septiembre de 2019 4:15:59 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de piezas colectadas de 1 seleccionados ,  pertenecientes al pedido: 1 por el Operador : 31
+-------------------------------
+lunes, 23 de septiembre de 2019 4:31:57 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de piezas colectadas de 1 seleccionados ,  pertenecientes al pedido: 1 por el Operador : 31
+-------------------------------
+lunes, 23 de septiembre de 2019 4:34:16 p. m.
+Descripcion:
+   Se Eliminarón 0 registros de piezas colectadas de 1 seleccionados ,  pertenecientes al pedido: 1 por el Operador : 31
+-------------------------------
+lunes, 23 de septiembre de 2019 4:38:15 p. m.
+Descripcion:
+   Se Eliminarón 0 registros de piezas colectadas de 1 seleccionados ,  pertenecientes al pedido: 1 por el Operador : 31
+-------------------------------
+lunes, 23 de septiembre de 2019 5:04:31 p. m.
+Descripcion:
+   Se Eliminarón 0 registros de piezas colectadas de 1 seleccionados ,  pertenecientes al pedido: 1 por el Operador : 31
+-------------------------------
+lunes, 23 de septiembre de 2019 5:22:29 p. m.
+Descripcion:
+   Se Eliminarón 5 registros de piezas colectadas de 5 seleccionados ,  pertenecientes al pedido: 5 por el Operador : 31
+-------------------------------
+lunes, 23 de septiembre de 2019 5:23:19 p. m.
+Descripcion:
+   Se Eliminarón 5 registros de piezas colectadas de 5 seleccionados ,  pertenecientes al pedido: 5 por el Operador : 31
+-------------------------------
+lunes, 23 de septiembre de 2019 5:24:14 p. m.
+Descripcion:
+   Se Eliminarón 5 registros de piezas colectadas de 5 seleccionados ,  pertenecientes al pedido: 5 por el Operador : 31
+-------------------------------
+lunes, 23 de septiembre de 2019 5:26:26 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de piezas colectadas de 1 seleccionados ,  pertenecientes al pedido: 1 por el Operador : 31
+-------------------------------
+lunes, 23 de septiembre de 2019 7:52:16 p. m.
+Descripcion:
+   Se Eliminarón 2 registros de pesadas de 2 seleccionados pertenecientes a la Orden de Ingreso: 2 por el Operador : 56
+-------------------------------
+lunes, 23 de septiembre de 2019 7:56:16 p. m.
+Descripcion:
+   Se Cerró el Pedido:31 por el Operador : 1
+-------------------------------
+lunes, 23 de septiembre de 2019 7:56:26 p. m.
+Descripcion:
+   Se Cerró el Pedido:30 por el Operador : 1
+-------------------------------
+lunes, 23 de septiembre de 2019 7:56:32 p. m.
+Descripcion:
+   Se Cerró el Pedido:29 por el Operador : 1
+-------------------------------
+martes, 24 de septiembre de 2019 1:45:45 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de piezas colectadas de 6 seleccionados ,  pertenecientes al Lote: 6 por el Operador : 2409YYYY
+-------------------------------
+martes, 24 de septiembre de 2019 1:59:40 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de piezas colectadas de 1 seleccionados ,  pertenecientes al Lote: 1 por el Operador : 2409YYYY
+-------------------------------
+martes, 24 de septiembre de 2019 2:16:58 p. m.
+Descripcion:
+   Se Cerró el Pedido:32 por el Operador : 1
+-------------------------------
+martes, 24 de septiembre de 2019 3:14:58 p. m.
+Descripcion:
+   Se Eliminarón 4 registros de piezas colectadas de 4 seleccionados ,  pertenecientes al pedido: 4 por el Operador : 33
+-------------------------------
+miércoles, 25 de septiembre de 2019 7:49:21 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de pesadas de 1 seleccionados pertenecientes al Lote: 1 por el Operador : 2509YYYY
+-------------------------------
+viernes, 27 de septiembre de 2019 5:02:31 p. m.
+Descripcion:
+   Se Cerró el Pedido:1 por el Operador : 1
+-------------------------------
+viernes, 27 de septiembre de 2019 5:02:40 p. m.
+Descripcion:
+   Se Cerró el Pedido:2 por el Operador : 1
+-------------------------------
+viernes, 27 de septiembre de 2019 5:02:47 p. m.
+Descripcion:
+   Se Cerró el Pedido:23 por el Operador : 1
+-------------------------------
+jueves, 10 de octubre de 2019 4:01:08 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de piezas colectadas de 1 seleccionados ,  pertenecientes al pedido: 1 por el Operador : 34
+-------------------------------
+jueves, 10 de octubre de 2019 4:01:21 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de egresos de 1 seleccionados pertenecientes al pedido: 1 por el Operador : 34
+-------------------------------
+jueves, 10 de octubre de 2019 4:05:24 p. m.
+Descripcion:
+   Se Cerró el Pedido:34 por el Operador : 1
+-------------------------------
+jueves, 10 de octubre de 2019 5:47:03 p. m.
+Descripcion:
+   Se modifico el estado de 1 registros de Pedidos de 1 seleccionados pertenecientes al pedido: 1 por el Operador : 34
+-------------------------------
+jueves, 10 de octubre de 2019 5:47:11 p. m.
+Descripcion:
+   Se modifico el estado de 1 registros de Pedidos de 1 seleccionados pertenecientes al pedido: 1 por el Operador : 34
+-------------------------------
+jueves, 10 de octubre de 2019 5:47:21 p. m.
+Descripcion:
+   Se modifico el estado de 1 registros de Pedidos de 1 seleccionados pertenecientes al pedido: 1 por el Operador : 34
+-------------------------------
+jueves, 10 de octubre de 2019 5:48:55 p. m.
+Descripcion:
+   Se modifico el estado de 1 registros de Pedidos de 1 seleccionados pertenecientes al pedido: 1 por el Operador : 33
+-------------------------------
+jueves, 10 de octubre de 2019 5:48:59 p. m.
+Descripcion:
+   Se modifico el estado de 1 registros de Pedidos de 1 seleccionados pertenecientes al pedido: 1 por el Operador : 34
+-------------------------------
+jueves, 10 de octubre de 2019 5:52:10 p. m.
+Descripcion:
+   Se modifico el estado de 2 registros de Pedidos de 1 seleccionados pertenecientes al pedido: 1 por el Operador : 33
+-------------------------------
+jueves, 10 de octubre de 2019 5:52:31 p. m.
+Descripcion:
+   Se modifico el estado de 2 registros de Pedidos de 1 seleccionados pertenecientes al pedido: 1 por el Operador : 33
+-------------------------------
+jueves, 10 de octubre de 2019 5:54:27 p. m.
+Descripcion:
+   Se modifico el estado de 2 registros de Pedidos de 1 seleccionados pertenecientes al pedido: 1 por el Operador : 33
+-------------------------------
+jueves, 10 de octubre de 2019 5:54:32 p. m.
+Descripcion:
+   Se modifico el estado de 1 registros de Pedidos de 1 seleccionados pertenecientes al pedido: 1 por el Operador : 34
+-------------------------------
+jueves, 10 de octubre de 2019 5:59:15 p. m.
+Descripcion:
+   Se modifico el estado de 2 registros de Pedidos de 1 seleccionados pertenecientes al pedido: 1 por el Operador : 33
+-------------------------------
+jueves, 10 de octubre de 2019 5:59:27 p. m.
+Descripcion:
+   Se modifico el estado de 1 registros de Pedidos de 1 seleccionados pertenecientes al pedido: 1 por el Operador : 34
+-------------------------------
+jueves, 10 de octubre de 2019 5:59:33 p. m.
+Descripcion:
+   Se modifico el estado de 1 registros de Pedidos de 1 seleccionados pertenecientes al pedido: 1 por el Operador : 34
+-------------------------------
+jueves, 10 de octubre de 2019 5:59:43 p. m.
+Descripcion:
+   Se modifico el estado de 2 registros de Pedidos de 1 seleccionados pertenecientes al pedido: 1 por el Operador : 33
+-------------------------------
+jueves, 10 de octubre de 2019 5:59:51 p. m.
+Descripcion:
+   Se modifico el estado de 2 registros de Pedidos de 1 seleccionados pertenecientes al pedido: 1 por el Operador : 33
+-------------------------------
+jueves, 10 de octubre de 2019 6:01:14 p. m.
+Descripcion:
+   Se modifico el estado de 1 registros de Pedidos de 1 seleccionados pertenecientes al pedido: 1 por el Operador : 34
+-------------------------------
+jueves, 10 de octubre de 2019 6:01:24 p. m.
+Descripcion:
+   Se modifico el estado de 1 registros de Pedidos de 1 seleccionados pertenecientes al pedido: 1 por el Operador : 34
+-------------------------------
+jueves, 10 de octubre de 2019 6:01:30 p. m.
+Descripcion:
+   Se modifico el estado de 1 registros de Pedidos de 1 seleccionados pertenecientes al pedido: 1 por el Operador : 33
+-------------------------------
+jueves, 10 de octubre de 2019 6:01:34 p. m.
+Descripcion:
+   Se modifico el estado de 1 registros de Pedidos de 1 seleccionados pertenecientes al pedido: 1 por el Operador : 33
+-------------------------------
+martes, 19 de noviembre de 2019 4:39:37 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de piezas colectadas de 1 seleccionados ,  pertenecientes al pedido: 1 por el Operador : 190
+-------------------------------
+martes, 19 de noviembre de 2019 4:40:58 p. m.
+Descripcion:
+   Se Cerró el Pedido:190 por el Operador : 1
+-------------------------------
+martes, 19 de noviembre de 2019 4:48:04 p. m.
+Descripcion:
+   Se modifico el estado de 1 registros de Pedidos de 1 seleccionados pertenecientes al pedido: 1 por el Operador : 1-190
+-------------------------------
+martes, 19 de noviembre de 2019 7:09:30 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de pesadas de 1 seleccionados pertenecientes a la Orden de Ingreso: 1 por el Operador : 67
+-------------------------------
+martes, 19 de noviembre de 2019 7:09:38 p. m.
+Descripcion:
+   Se Eliminarón 6 registros de pesadas de 6 seleccionados pertenecientes a la Orden de Ingreso: 6 por el Operador : 67
+-------------------------------
+miércoles, 4 de diciembre de 2019 10:04:09 a. m.
+Descripcion:
+   Se Eliminarón 1 registros de piezas colectadas de 1 seleccionados ,  pertenecientes al pedido: 1 por el Operador : 1020
+-------------------------------
+miércoles, 11 de diciembre de 2019 3:06:02 p. m.
+Descripcion:
+   Se Cerró el Pedido:1020 por el Operador : 1
+-------------------------------
+miércoles, 11 de diciembre de 2019 9:03:23 p. m.
+Descripcion:
+   Se Cerró el Pedido:1021 por el Operador : 1
+-------------------------------
+sábado, 21 de diciembre de 2019 5:40:55 p. m.
+Descripcion:
+   Se Cerró el Pedido:190 por el Operador : 1
+-------------------------------
+sábado, 21 de diciembre de 2019 5:43:32 p. m.
+Descripcion:
+   Se Cerró el Pedido:190 por el Operador : 1
+-------------------------------
+sábado, 21 de diciembre de 2019 5:48:57 p. m.
+Descripcion:
+   Se Cerró el Pedido:190 por el Operador : 1
+-------------------------------
+sábado, 21 de diciembre de 2019 6:26:33 p. m.
+Descripcion:
+   Se Cerró el Pedido:190 por el Operador : 1
+-------------------------------
+domingo, 22 de diciembre de 2019 10:50:49 a. m.
+Descripcion:
+   Se modifico el estado de 1 registros de Pedidos de 1 seleccionados pertenecientes al pedido: 1 por el Operador : 1-190
+-------------------------------
+domingo, 22 de diciembre de 2019 10:53:12 a. m.
+Descripcion:
+   Se Cerró el Pedido:190 por el Operador : 1
+-------------------------------
+domingo, 22 de diciembre de 2019 10:53:46 a. m.
+Descripcion:
+   Se modifico el estado de 1 registros de Pedidos de 1 seleccionados pertenecientes al pedido: 1 por el Operador : 1-190
+-------------------------------
+domingo, 22 de diciembre de 2019 10:55:11 a. m.
+Descripcion:
+   Se Cerró el Pedido:190 por el Operador : 1
+-------------------------------
+domingo, 22 de diciembre de 2019 10:58:20 a. m.
+Descripcion:
+   Se modifico el estado de 1 registros de Pedidos de 1 seleccionados pertenecientes al pedido: 1 por el Operador : 1-190
+-------------------------------
+domingo, 22 de diciembre de 2019 10:59:07 a. m.
+Descripcion:
+   Se Cerró el Pedido:190 por el Operador : 1
+-------------------------------
+domingo, 22 de diciembre de 2019 12:18:41 p. m.
+Descripcion:
+   Se modifico el estado de 1 registros de Pedidos de 1 seleccionados pertenecientes al pedido: 1 por el Operador : 1-190
+-------------------------------
+lunes, 6 de enero de 2020 11:55:31 a. m.
+Descripcion:
+   Se Cerró el Pedido:30000 por el Operador : 
+-------------------------------
+martes, 7 de enero de 2020 8:55:45 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de piezas fraccionadas de 1 seleccionadas , por el Operador : 1
+-------------------------------
+martes, 7 de enero de 2020 8:55:55 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de piezas fraccionadas de 1 seleccionadas , por el Operador : 1
+-------------------------------
+martes, 7 de enero de 2020 8:59:30 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de piezas fraccionadas de 1 seleccionadas , por el Operador : 1
+-------------------------------
+miércoles, 8 de enero de 2020 2:08:01 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de piezas fraccionadas de 1 seleccionadas , por el Operador : 1
+-------------------------------
+miércoles, 8 de enero de 2020 2:08:54 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de piezas fraccionadas de 1 seleccionadas , por el Operador : 1
+-------------------------------
+miércoles, 8 de enero de 2020 2:09:02 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de piezas fraccionadas de 1 seleccionadas , por el Operador : 1
+-------------------------------
+miércoles, 8 de enero de 2020 3:55:29 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de piezas fraccionadas de 1 seleccionadas , por el Operador : 1
+-------------------------------
+miércoles, 8 de enero de 2020 3:55:30 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de piezas fraccionadas de 1 seleccionadas , por el Operador : 1
+-------------------------------
+miércoles, 8 de enero de 2020 3:55:31 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de piezas fraccionadas de 1 seleccionadas , por el Operador : 1
+-------------------------------
+miércoles, 8 de enero de 2020 3:57:13 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de piezas fraccionadas de 1 seleccionadas , por el Operador : 1
+-------------------------------
+miércoles, 8 de enero de 2020 5:03:00 p. m.
+Descripcion:
+   Se Cerró el Pedido:50934 por el Operador : 
+-------------------------------
+miércoles, 8 de enero de 2020 5:20:48 p. m.
+Descripcion:
+   Se Eliminarón 0 registros de piezas fraccionadas de 1 seleccionadas , por el Operador : 1
+-------------------------------
+lunes, 13 de enero de 2020 1:22:12 p. m.
+Descripcion:
+   Se Cerró el Pedido:9831 por el Operador : 1
+-------------------------------
+jueves, 16 de enero de 2020 6:01:34 p. m.
+Descripcion:
+   Se Cerró el Pedido:9831 por el Operador : 1
+-------------------------------
+jueves, 16 de enero de 2020 6:43:58 p. m.
+Descripcion:
+   Se Cerró el Pedido:9831 por el Operador : 1
+-------------------------------
+jueves, 16 de enero de 2020 7:50:13 p. m.
+Descripcion:
+   Se Cerró el Pedido:9831 por el Operador : 1
+-------------------------------
+jueves, 16 de enero de 2020 8:56:27 p. m.
+Descripcion:
+   Se Cerró el Pedido:9831 por el Operador : 1
+-------------------------------
+martes, 21 de enero de 2020 3:56:08 p. m.
+Descripcion:
+   Se Cerró el Pedido:9831 por el Operador : 1
+-------------------------------
+lunes, 27 de enero de 2020 11:00:17 p. m.
+Descripcion:
+   Se Cerró el Pedido:9831 por el Operador : 1
+-------------------------------
+lunes, 27 de enero de 2020 11:11:07 p. m.
+Descripcion:
+   Se Cerró el Pedido:9831 por el Operador : 1
+-------------------------------
+lunes, 27 de enero de 2020 11:14:33 p. m.
+Descripcion:
+   Se Cerró el Pedido:9831 por el Operador : 1
+-------------------------------
+lunes, 27 de enero de 2020 11:18:46 p. m.
+Descripcion:
+   Se Cerró el Pedido:9831 por el Operador : 1
+-------------------------------
+miércoles, 25 de marzo de 2020 3:04:06 p. m.
+Descripcion:
+   Se Cerró el Pedido:190 por el Operador : 1
+-------------------------------
+miércoles, 25 de marzo de 2020 5:11:24 p. m.
+Descripcion:
+   Se Cerró el Pedido:190 por el Operador : 1
+-------------------------------
+jueves, 26 de marzo de 2020 3:37:54 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de piezas colectadas de 1 seleccionados ,  pertenecientes al Lote: 1 por el Operador : 2603YYYY
+-------------------------------
+sábado, 1 de agosto de 2020 6:14:10 p. m.
+Descripcion:
+   Se Eliminarón 5 registros de piezas colectadas de 5 seleccionados ,  pertenecientes al Lote: 5 por el Operador : 0108YYYY
+-------------------------------
+sábado, 1 de agosto de 2020 6:15:51 p. m.
+Descripcion:
+   Se Eliminarón 5 registros de piezas colectadas de 5 seleccionados ,  pertenecientes al Lote: 5 por el Operador : 0108YYYY
+-------------------------------
+sábado, 1 de agosto de 2020 6:30:34 p. m.
+Descripcion:
+   Se Eliminarón 2 registros de piezas colectadas de 2 seleccionados ,  pertenecientes al Lote: 2 por el Operador : 0108YYYY
+-------------------------------
+viernes, 7 de agosto de 2020 8:52:21 p. m.
+Descripcion:
+   Se Cerró el Pedido:9831 por el Operador : 1
+-------------------------------
+viernes, 7 de agosto de 2020 8:52:47 p. m.
+Descripcion:
+   Se Cerró el Pedido:9831 por el Operador : 1
+-------------------------------
+jueves, 17 de septiembre de 2020 10:27:44 a. m.
+Descripcion:
+   Se Cerró el Pedido:0001-989898  por el Operador : 1
+-------------------------------
+jueves, 17 de septiembre de 2020 8:26:30 p. m.
+Descripcion:
+   Se Cerró el Pedido:0001-989898  por el Operador : 1
+-------------------------------
+jueves, 24 de septiembre de 2020 8:26:48 p. m.
+Descripcion:
+   Se Eliminó la Orden de Ingreso:88 por el Operador : 1
+-------------------------------
+lunes, 28 de septiembre de 2020 8:41:14 p. m.
+Descripcion:
+   Se Cerró el Pedido:0001-111111  por el Operador : 1
+-------------------------------
+lunes, 28 de septiembre de 2020 8:42:18 p. m.
+Descripcion:
+   Se Cerró el Pedido:0001-111111  por el Operador : 1
+-------------------------------
+miércoles, 30 de septiembre de 2020 7:22:53 p. m.
+Descripcion:
+   Se modifico el estado de 1 registros de Pedidos de 1 seleccionados pertenecientes al pedido: 1 por el Operador : 0001-111111 
+-------------------------------
+miércoles, 30 de septiembre de 2020 7:23:00 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de egresos de 1 seleccionados pertenecientes al pedido: 1 por el Operador : 0001-111111 
+-------------------------------
+jueves, 1 de octubre de 2020 9:13:22 p. m.
+Descripcion:
+   Se Eliminarón 0 registros de pesadas de 1 seleccionados pertenecientes a la Orden de Ingreso: 1 por el Operador : 1
+-------------------------------
+jueves, 1 de octubre de 2020 9:13:46 p. m.
+Descripcion:
+   Se Eliminarón 0 registros de pesadas de 1 seleccionados pertenecientes a la Orden de Ingreso: 1 por el Operador : 2
+-------------------------------
+jueves, 1 de octubre de 2020 9:14:46 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de pesadas de 1 seleccionados pertenecientes a la Orden de Ingreso: 1 por el Operador : 2
+-------------------------------
+viernes, 2 de octubre de 2020 00:02:14
+Descripcion:
+   Se Eliminarón 0 registros de pesadas de 1 seleccionados pertenecientes al Lote: 1 por el Operador : 27/09/2020
+-------------------------------
+viernes, 2 de octubre de 2020 00:02:38
+Descripcion:
+   Se Eliminarón 1 registros de pesadas de 1 seleccionados pertenecientes al Lote: 1 por el Operador : 27/09/2020
+-------------------------------
+viernes, 2 de octubre de 2020 00:02:50
+Descripcion:
+   Se Eliminarón 0 registros de pesadas de 1 seleccionados pertenecientes al Lote: 1 por el Operador : 01/10/2020
+-------------------------------
+viernes, 2 de octubre de 2020 00:08:43
+Descripcion:
+   Se Eliminarón 1 registros de egresos de 1 seleccionados pertenecientes al pedido: 1 por el Operador : 0001-902039 
+-------------------------------
+viernes, 2 de octubre de 2020 00:09:04
+Descripcion:
+   Se Eliminarón 1 registros de pesadas de 1 seleccionados pertenecientes al Lote: 1 por el Operador : 01/10/2020
+-------------------------------
+viernes, 2 de octubre de 2020 4:37:38 p. m.
+Descripcion:
+   Se Cerró el Pedido:0001-989898  por el Operador : 1
+-------------------------------
+viernes, 2 de octubre de 2020 4:50:28 p. m.
+Descripcion:
+   Se Cerró el Pedido:000112345678 por el Operador : 1
+-------------------------------
+domingo, 4 de octubre de 2020 10:44:31 a. m.
+Descripcion:
+   Se Cerró el Pedido:0001-902039  por el Operador : 1
+-------------------------------
+domingo, 11 de octubre de 2020 19:04:01
+Descripcion:
+   Se Cerró el Pedido:000100902039 por el Operador : 1
+-------------------------------
+domingo, 11 de octubre de 2020 19:04:09
+Descripcion:
+   Se modifico el estado de 1 registros de Pedidos de 1 seleccionados pertenecientes al pedido: 1 por el Operador : 0001-902039 
+-------------------------------
+domingo, 11 de octubre de 2020 21:02:23
+Descripcion:
+   Se Cerró el Pedido:000100902039 por el Operador : 1
+-------------------------------
+domingo, 11 de octubre de 2020 21:02:32
+Descripcion:
+   Se modifico el estado de 1 registros de Pedidos de 1 seleccionados pertenecientes al pedido: 1 por el Operador : 0001-902039 
+-------------------------------
+domingo, 11 de octubre de 2020 21:27:38
+Descripcion:
+   Se Cerró el Pedido:000100902039 por el Operador : 1
+-------------------------------
+domingo, 11 de octubre de 2020 21:28:02
+Descripcion:
+   Se modifico el estado de 1 registros de Pedidos de 1 seleccionados pertenecientes al pedido: 1 por el Operador : 0001-902039 
+-------------------------------
+domingo, 11 de octubre de 2020 21:31:11
+Descripcion:
+   Se Cerró el Pedido:000100902039 por el Operador : 1
+-------------------------------
+domingo, 11 de octubre de 2020 21:31:23
+Descripcion:
+   Se modifico el estado de 1 registros de Pedidos de 1 seleccionados pertenecientes al pedido: 1 por el Operador : 0001-902039 
+-------------------------------
+domingo, 11 de octubre de 2020 21:52:15
+Descripcion:
+   Se Cerró el Pedido:000100902040 por el Operador : 1
+-------------------------------
+martes, 13 de octubre de 2020 8:28:34 p. m.
+Descripcion:
+   Se Cerró el Pedido:0001-902039  por el Operador : 1
+-------------------------------
+martes, 13 de octubre de 2020 8:36:35 p. m.
+Descripcion:
+   Se modifico el estado de 1 registros de Pedidos de 1 seleccionados pertenecientes al pedido: 1 por el Operador : 0001-902040 
+-------------------------------
+martes, 13 de octubre de 2020 8:36:40 p. m.
+Descripcion:
+   Se modifico el estado de 1 registros de Pedidos de 1 seleccionados pertenecientes al pedido: 1 por el Operador : 0001-902039 
+-------------------------------
+martes, 13 de octubre de 2020 8:37:12 p. m.
+Descripcion:
+   Se Cerró el Pedido:0001-902039  por el Operador : 1
+-------------------------------
+martes, 13 de octubre de 2020 8:38:50 p. m.
+Descripcion:
+   Se modifico el estado de 1 registros de Pedidos de 1 seleccionados pertenecientes al pedido: 1 por el Operador : 0001-902039 
+-------------------------------
+martes, 13 de octubre de 2020 8:39:18 p. m.
+Descripcion:
+   Se Cerró el Pedido:0001-902039  por el Operador : 1
+-------------------------------
+martes, 13 de octubre de 2020 8:54:55 p. m.
+Descripcion:
+   Se modifico el estado de 1 registros de Pedidos de 1 seleccionados pertenecientes al pedido: 1 por el Operador : 0001-902039 
+-------------------------------
+martes, 13 de octubre de 2020 8:55:31 p. m.
+Descripcion:
+   Se Cerró el Pedido:0001-902039  por el Operador : 1
+-------------------------------
+martes, 13 de octubre de 2020 9:12:28 p. m.
+Descripcion:
+   Se modifico el estado de 1 registros de Pedidos de 1 seleccionados pertenecientes al pedido: 1 por el Operador : 0001-902039 
+-------------------------------
+martes, 13 de octubre de 2020 9:14:33 p. m.
+Descripcion:
+   Se Cerró el Pedido:0001-902039  por el Operador : 1
+-------------------------------
+martes, 13 de octubre de 2020 9:19:35 p. m.
+Descripcion:
+   Se modifico el estado de 1 registros de Pedidos de 1 seleccionados pertenecientes al pedido: 1 por el Operador : 0001-902039 
+-------------------------------
+martes, 13 de octubre de 2020 9:20:57 p. m.
+Descripcion:
+   Se Cerró el Pedido:0001-902039  por el Operador : 1
+-------------------------------
+miércoles, 14 de octubre de 2020 8:44:24 p. m.
+Descripcion:
+   Se modifico el estado de 1 registros de Pedidos de 1 seleccionados pertenecientes al pedido: 1 por el Operador : 0001-902039 
+-------------------------------
+sábado, 17 de octubre de 2020 7:06:34 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de piezas colectadas de 1 seleccionados ,  pertenecientes al inventario: 1710YYYY por el Operador : 1
+-------------------------------
+sábado, 17 de octubre de 2020 7:06:43 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de piezas colectadas de 1 seleccionados ,  pertenecientes al inventario: 1710YYYY por el Operador : 1
+-------------------------------
+sábado, 17 de octubre de 2020 7:07:19 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de piezas colectadas de 1 seleccionados ,  pertenecientes al inventario: 1710YYYY por el Operador : 1
+-------------------------------
+sábado, 17 de octubre de 2020 7:08:34 p. m.
+Descripcion:
+   Se Eliminarón 2 registros de piezas colectadas de 2 seleccionados ,  pertenecientes al inventario: 1710YYYY por el Operador : 1
+-------------------------------
+sábado, 17 de octubre de 2020 7:45:25 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de piezas colectadas de 1 seleccionados ,  pertenecientes al inventario: 1710YYYY por el Operador : 1
+-------------------------------
+sábado, 17 de octubre de 2020 7:58:11 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de piezas colectadas de 1 seleccionados ,  pertenecientes al inventario: 1710YYYY por el Operador : 1
+-------------------------------
+sábado, 17 de octubre de 2020 7:58:51 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de piezas colectadas de 1 seleccionados ,  pertenecientes al inventario: 1710YYYY por el Operador : 1
+-------------------------------
+sábado, 17 de octubre de 2020 8:02:30 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de piezas colectadas de 1 seleccionados ,  pertenecientes al inventario: 1710YYYY por el Operador : 1
+-------------------------------
+sábado, 17 de octubre de 2020 8:24:03 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de piezas colectadas de 1 seleccionados ,  pertenecientes al inventario: 1710YYYY por el Operador : 1
+-------------------------------
+sábado, 17 de octubre de 2020 8:24:12 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de piezas colectadas de 1 seleccionados ,  pertenecientes al inventario: 1710YYYY por el Operador : 1
+-------------------------------
+sábado, 17 de octubre de 2020 8:24:18 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de piezas colectadas de 1 seleccionados ,  pertenecientes al inventario: 1710YYYY por el Operador : 1
+-------------------------------
+sábado, 17 de octubre de 2020 8:27:13 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de piezas colectadas de 1 seleccionados ,  pertenecientes al inventario: 1710YYYY por el Operador : 1
+-------------------------------
+sábado, 17 de octubre de 2020 8:27:21 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de piezas colectadas de 1 seleccionados ,  pertenecientes al inventario: 1710YYYY por el Operador : 1
+-------------------------------
+sábado, 17 de octubre de 2020 8:31:14 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de piezas colectadas de 1 seleccionados ,  pertenecientes al inventario: 1710YYYY por el Operador : 1
+-------------------------------
+sábado, 17 de octubre de 2020 8:31:18 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de piezas colectadas de 1 seleccionados ,  pertenecientes al inventario: 1710YYYY por el Operador : 1
+-------------------------------
+sábado, 17 de octubre de 2020 8:41:02 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de piezas colectadas de 1 seleccionados ,  pertenecientes al inventario: 1710YYYY por el Operador : 1
+-------------------------------
+sábado, 17 de octubre de 2020 8:41:26 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de piezas colectadas de 1 seleccionados ,  pertenecientes al inventario: 1710YYYY por el Operador : 1
+-------------------------------
+sábado, 17 de octubre de 2020 8:41:39 p. m.
+Descripcion:
+   Se Eliminarón 38 registros de piezas colectadas de 38 seleccionados ,  pertenecientes al inventario: 1710YYYY por el Operador : 1
+-------------------------------
+sábado, 17 de octubre de 2020 8:43:14 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de piezas colectadas de 1 seleccionados ,  pertenecientes al inventario: 1710YYYY por el Operador : 1
+-------------------------------
+sábado, 17 de octubre de 2020 8:44:27 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de piezas colectadas de 1 seleccionados ,  pertenecientes al inventario: 1710YYYY por el Operador : 1
+-------------------------------
+sábado, 17 de octubre de 2020 8:44:48 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de piezas colectadas de 1 seleccionados ,  pertenecientes al inventario: 1710YYYY por el Operador : 1
+-------------------------------
+sábado, 17 de octubre de 2020 8:44:50 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de piezas colectadas de 1 seleccionados ,  pertenecientes al inventario: 1710YYYY por el Operador : 1
+-------------------------------
+sábado, 17 de octubre de 2020 8:44:50 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de piezas colectadas de 1 seleccionados ,  pertenecientes al inventario: 1710YYYY por el Operador : 1
+-------------------------------
+sábado, 17 de octubre de 2020 8:45:16 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de piezas colectadas de 1 seleccionados ,  pertenecientes al inventario: 1710YYYY por el Operador : 1
+-------------------------------
+sábado, 17 de octubre de 2020 8:45:20 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de piezas colectadas de 1 seleccionados ,  pertenecientes al inventario: 1710YYYY por el Operador : 1
+-------------------------------
+sábado, 17 de octubre de 2020 8:45:23 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de piezas colectadas de 1 seleccionados ,  pertenecientes al inventario: 1710YYYY por el Operador : 1
+-------------------------------
+sábado, 17 de octubre de 2020 8:46:43 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de piezas colectadas de 1 seleccionados ,  pertenecientes al inventario: 1710YYYY por el Operador : 1
+-------------------------------
+sábado, 17 de octubre de 2020 8:51:32 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de piezas colectadas de 1 seleccionados ,  pertenecientes al inventario: 1710YYYY por el Operador : 1
+-------------------------------
+sábado, 17 de octubre de 2020 8:53:36 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de piezas colectadas de 1 seleccionados ,  pertenecientes al Lote: 1 por el Operador : 1710YYYY
+-------------------------------
+sábado, 17 de octubre de 2020 8:53:44 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de piezas colectadas de 1 seleccionados ,  pertenecientes al Lote: 1 por el Operador : 1710YYYY
+-------------------------------
+domingo, 18 de octubre de 2020 11:10:02 a. m.
+Descripcion:
+   Se Eliminarón 18 registros de piezas colectadas de 18 seleccionados ,  pertenecientes al inventario: 1810YYYY por el Operador : 1
+-------------------------------
+domingo, 18 de octubre de 2020 12:03:09 p. m.
+Descripcion:
+   Se Eliminarón 2 registros de piezas colectadas de 2 seleccionados ,  pertenecientes al inventario: 1810YYYY por el Operador : 1
+-------------------------------
+domingo, 18 de octubre de 2020 5:35:44 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de piezas colectadas de 1 seleccionados ,  pertenecientes al inventario: 1810YYYY por el Operador : 1
+-------------------------------
+domingo, 18 de octubre de 2020 5:49:24 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de piezas colectadas de 1 seleccionados ,  pertenecientes al inventario: 1810YYYY por el Operador : 1
+-------------------------------
+lunes, 19 de octubre de 2020 7:50:16 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de piezas colectadas de 1 seleccionados ,  pertenecientes al inventario: 1910YYYY por el Operador : 1
+-------------------------------
+viernes, 29 de enero de 2021 8:25:58 a. m.
+Descripcion:
+   Se Eliminarón 1 registros de piezas colectadas de 1 seleccionados ,  pertenecientes al Lote: 1 por el Operador : 2901YYYY
+-------------------------------
+viernes, 19 de febrero de 2021 12:39:24 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de piezas colectadas de 1 seleccionados ,  pertenecientes al pedido: 1 por el Operador : 0001-989898 
+-------------------------------
+viernes, 19 de febrero de 2021 12:40:24 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de piezas colectadas de 1 seleccionados ,  pertenecientes al pedido: 1 por el Operador : 0001-989898 
+-------------------------------
+viernes, 19 de febrero de 2021 2:04:47 p. m.
+Descripcion:
+   Se Cerró el Pedido:0001-989898  por el Operador : 1
+-------------------------------
+viernes, 19 de febrero de 2021 2:16:15 p. m.
+Descripcion:
+   Se Cerró el Pedido:0001-902039  por el Operador : 1
+-------------------------------
+viernes, 19 de febrero de 2021 2:27:26 p. m.
+Descripcion:
+   Se Cerró el Pedido:0001-111111  por el Operador : 1
+-------------------------------
+viernes, 19 de febrero de 2021 2:40:02 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de piezas colectadas de 1 seleccionados ,  pertenecientes al Lote: 1 por el Operador : 1902YYYY
+-------------------------------
+viernes, 19 de febrero de 2021 3:10:58 p. m.
+Descripcion:
+   Se Cerró el Pedido:0001-902040  por el Operador : 1
+-------------------------------
+miércoles, 3 de marzo de 2021 1:09:52 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de pesadas de 1 seleccionados pertenecientes a la Orden de Ingreso: 1 por el Operador : 4
+-------------------------------
+miércoles, 3 de marzo de 2021 1:10:27 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de pesadas de 1 seleccionados pertenecientes a la Orden de Ingreso: 1 por el Operador : 4
+-------------------------------
+miércoles, 3 de marzo de 2021 1:26:03 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de pesadas de 1 seleccionados pertenecientes al Lote: 1 por el Operador : 0303YYYY
+-------------------------------
+miércoles, 3 de marzo de 2021 1:27:15 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de pesadas de 1 seleccionados pertenecientes al Lote: 1 por el Operador : 03/03/2021
+-------------------------------
+miércoles, 3 de marzo de 2021 1:27:24 p. m.
+Descripcion:
+   Se Eliminarón 0 registros de pesadas de 1 seleccionados pertenecientes al Lote: 1 por el Operador : 03/03/2021
+-------------------------------
+viernes, 5 de marzo de 2021 3:06:14 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de pesadas de 1 seleccionados pertenecientes al Lote: 1 por el Operador : 03/03/2021
+-------------------------------
+viernes, 5 de marzo de 2021 3:10:53 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de pesadas de 1 seleccionados pertenecientes al Lote: 1 por el Operador : 03/03/2021
+-------------------------------
+viernes, 5 de marzo de 2021 3:16:48 p. m.
+Descripcion:
+   Se Eliminarón 1 registros de pesadas de 1 seleccionados pertenecientes al Lote: 05032021 por el Operador : 1
+-------------------------------

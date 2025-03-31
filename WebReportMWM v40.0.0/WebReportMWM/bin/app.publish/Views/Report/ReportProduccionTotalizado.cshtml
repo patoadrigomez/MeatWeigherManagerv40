@@ -1,0 +1,308 @@
+﻿@using TOOLS
+@model WebReportMWM.Models.ReportProduccionTotalizadoModel
+<script src="~/Scripts/jquery-3.4.1.min.js"></script>
+
+@{
+    ViewBag.Title = "ReportProduccionTotalizado";
+    var localModel = Model;
+    //TIPO,NRO,LOTE,COD_PRD,PRODUCTO,TIPO_PRD,CREADA,DESTINO,SECTOR,PUESTO,UNDS,NETO,TARA
+    var dtDynamic = Tools.dataTableToDynamicList(Model.DatTable);
+    WebGrid wg = new WebGrid(dtDynamic, canPage: false, canSort: true);
+
+    var grid = wg.GetHtml(htmlAttributes: new { @id = "WebGrid" },
+                   tableStyle: "table table-bordered", fillEmptyRows: false, alternatingRowStyle: "alt", headerStyle: "webgrid-header",
+                   mode: WebGridPagerModes.All, columns: wg.Columns(
+       wg.Column(columnName: "TIPO", header: "TIPO BULTO"),
+       wg.Column(columnName: "COD_PRD", header: "COD.PRODUCTO SAC", style: "col-int"),
+       wg.Column(columnName: "PRODUCTO", header: "PRODUCTO"),
+       wg.Column(columnName: "TIPO_PRD", header: "TIPO PRODUCTO"),
+       wg.Column(columnName: "BULTOS", header: "BULTOS", style: "col-int"),
+       wg.Column(columnName: "UNDS", header: "UNIDADES", style: "col-int"),
+       wg.Column(columnName: "NETO", header: "PESO NETO", style: "col-puntoflotante", format: item => String.Format("{0:0.00} kg", item.NETO))));
+
+    if (!String.IsNullOrEmpty((string)TempData["MessageStatus"]))
+    {
+        <p style="color:red;">@TempData["MessageStatus"]</p>
+    }
+}
+
+@using (Html.BeginForm())
+{
+    <h2>Reporte Producción Totalizado</h2>
+    <div>
+        <label for="tbDateFrom">Fecha Desde</label>
+        @Html.EditorFor(m => m.selectDateFrom, new { type = "date", style = "display: inline", id = "tbDateFrom" })
+        @Html.ValidationMessageFor(m => m.selectDateFrom, "", new { @class = "error" })
+    </div>
+    <div>
+        <label for="tbDateTo">Hasta</label>
+        @Html.EditorFor(m => m.selectDateTo, new { type = "date", style = "display: inline", id = "tbDateTo" })
+        @Html.ValidationMessageFor(m => m.selectDateTo, "", new { @class = "error" })
+    </div>
+    <div>
+        <label for="ddlistSectores">Sector</label>
+        @Html.DropDownListFor(x => x.idSector, Model.ListSectores, new { @class = "form-control", style = "display: inline", placeholder = "Proveedor", id = "ddlistSectores" })
+    </div>
+    <div>
+        <label for="ddlistTiposProducto">Tipo Producto</label>
+        @Html.DropDownListFor(x => x.idTipoProducto, Model.ListTipoProductos, new { @class = "form-control", style = "display: inline", placeholder = "Tipo Producto", id = "ddlistTiposProducto" })
+    </div>
+    <div>
+        <label for="ddlistProductos">Producto</label>
+        @Html.DropDownListFor(x => x.idProducto, Model.ListProductos, new { @class = "form-control", style = "display: inline", placeholder = "Producto", id = "ddlistProductos" })
+    </div>
+    <div>
+        <label for="ddlistTiposBulto">Tipo Bulto</label>
+        @Html.DropDownListFor(x => x.tipo, Model.ListTiposBulto, new { @class = "form-control", style = "display: inline", placeholder = "Tipo Producto", id = "ddlistTiposBulto" })
+    </div>
+    <br />
+    <div>
+        <div style="float:left;">
+            <button class="btn btn-primary" type="submit" id="btnConsultar">Consultar</button>
+        </div>
+        <div style="float:right;">
+            <button class="btn btn-info" type="button" id="btnGenerarPDF">Generar Reporte PDF</button>
+            <button class="btn btn-info" type="button" id="btnGenerarExcel">Generar Reporte Excel</button>
+        </div>
+    </div>
+    <!-- The Modal PopUp Loading-->
+    <div id="popupModalLoading" class="modal">
+        <!-- Modal content -->
+        <div class="modal-content">
+            <table style="width:100%">
+                <tr>
+                    <th>Cargando..</th>
+                    <th>
+                        <div class="loader" style="float:right;"> </div>
+                    </th>
+                    <th><span class="close">&times;</span></th>
+                </tr>
+            </table>
+        </div>
+    </div>
+    @grid
+}
+
+<script>
+    // Get the modal dialog
+    var modal = document.getElementById("popupModalLoading");
+    // Get the <span> element that closes the modal
+    var span = document.getElementsByClassName("close")[0];
+
+    // When submit accion generate from document , modal is visible
+    document.onsubmit = function () {
+        showModalLoading();
+    }
+    // When the user clicks on <span> (x), close the modal
+    span.onclick = function () {
+        hideModalLoading();
+    }
+    // When the user clicks anywhere outside of the modal, close it
+    window.onclick = function (event) {
+        if (event.target == modal) {
+            hideModalLoading();
+        }
+    }
+    function hideModalLoading() {
+        modal.style.display = "none";
+    }
+
+    function showModalLoading() {
+        modal.style.display = "block";
+    }
+    //AQUI VIENEN LAS FUNCNIONES PARA SACAR LOS REPORTES EN EXCEL Y PDF
+    $(function () {
+        $("#btnGenerarPDF").click(function () {
+            var DateFrom = new Date($("#selectDateFrom").val().replace(/-/g, '/'));
+            var DateTo = new Date($("#selectDateTo").val().replace(/-/g, '/'));
+            var idSector = $("#ddlistSectores").val();
+            var Sector = $("#ddlistSectores option:selected").text();
+            var idProducto = $("#ddlistProductos").val();
+            var Producto = $("#ddlistProductos option:selected").text();
+            var idTipoProducto = $("#ddlistTiposProducto").val();
+            var TipoProducto = $("#ddlistTiposProducto option:selected").text();
+            var tipo = $("#ddlistTiposBulto").val();
+            var TipoBulto = $("#ddlistTiposBulto option:selected").text();
+            $.ajax({
+                type: "POST",
+                url: '@Url.Action("GenerarPDFReport_ProduccionTotalizado", "Report")',
+                data: '{DateFrom:"' + DateFrom.toJSON() + '",DateTo:"' + DateTo.toJSON() + '",idSector:"' + idSector + '",idProducto:"' + idProducto + '",idTipoProducto:"' + idTipoProducto + '",tipo:"' + tipo + '",Sector:"' + Sector + '",Producto:"' + Producto + '",TipoProducto:"' + TipoProducto + '",TipoBulto:"' + TipoBulto + '"}',
+                contentType: 'application/json; charset=utf-8',
+                success: function (response) {
+                    if (response.Success) {
+                        var url = '@Url.Action("Download", "Report")?fileGuid=' + response.FileGuid + '&mimeType=' + response.MimeType + '&filename=' + response.FileName;
+                        window.location.href = url;
+                    }
+                    else {
+                        alert(response.Error);
+                    }
+                    hideModalLoading();
+                },
+                failure: function (response) {
+                    alert(response.d);
+                }
+            });
+            showModalLoading();
+        });
+    });
+
+    $(function () {
+        $("#btnGenerarExcel").click(function () {
+            var DateFrom = new Date($("#selectDateFrom").val().replace(/-/g, '/'));
+            var DateTo = new Date($("#selectDateTo").val().replace(/-/g, '/'));
+            var idSector = $("#ddlistSectores").val();
+            var Sector = $("#ddlistSectores option:selected").text();
+            var idProducto = $("#ddlistProductos").val();
+            var Producto = $("#ddlistProductos option:selected").text();
+            var idTipoProducto = $("#ddlistTiposProducto").val();
+            var TipoProducto = $("#ddlistTiposProducto option:selected").text();
+            var tipo = $("#ddlistTiposBulto").val();
+            var TipoBulto = $("#ddlistTiposBulto option:selected").text();
+            $.ajax({
+                type: "POST",
+                url: '@Url.Action("GenerarExcelReport_ProduccionTotalizado", "Report")',
+                data: '{DateFrom:"' + DateFrom.toJSON() + '",DateTo:"' + DateTo.toJSON() + '",idSector:"' + idSector + '",idProducto:"' + idProducto + '",idTipoProducto:"' + idTipoProducto + '",tipo:"' + tipo + '",Sector:"' + Sector + '",Producto:"' + Producto + '",TipoProducto:"' + TipoProducto + '",TipoBulto:"' + TipoBulto + '"}',
+                contentType: 'application/json; charset=utf-8',
+                success: function (response) {
+                    if (response.Success) {
+                        var url = '@Url.Action("Download", "Report")?fileGuid=' + response.FileGuid + '&mimeType=' + response.MimeType + '&filename=' + response.FileName;
+                        window.location.href = url;
+                    }
+                    else {
+                        alert(response.Error);
+                    }
+                    hideModalLoading();
+                },
+                failure: function (response) {
+                    alert(response.d);
+                }
+            });
+            showModalLoading();
+        });
+    });
+
+    $(document).ready(function () {
+        $('#ddlistTiposProducto').change(function () {
+            var tipoSeleccionado = $(this).val();
+            var listProductos = $('#ddlistProductos');
+
+            //Se hace llamada Ajax al controller para cargar la lista de productos de acuerdo al tipo seleccinado
+            $.ajax({
+                type: "GET",
+                url: '/Report/CargarListProducto',
+                data: { tipoProducto: tipoSeleccionado },
+                success: function (data) {
+                    listProductos.empty();
+                    //Se agregan los productos
+                    $.each(data, function (index, producto) {
+                        listProductos.append($('<option></option>').val(producto.Value).text(producto.Text));
+                    });
+                },
+                error: function () {
+                    console.error('Error al cargar las opciones');
+                }
+            });
+        });
+    });
+</script>
+
+
+<style>
+
+    /* The Modal (background) */
+    .modal {
+        display: none; /* Hidden by default */
+        position: fixed; /* Stay in place */
+        z-index: 1; /* Sit on top */
+        padding-top: 100px; /* Location of the box */
+        left: 0;
+        top: 0;
+        width: 100%; /* Full width */
+        height: 100%; /* Full height */
+        overflow: auto; /* Enable scroll if needed */
+        background-color: rgb(0,0,0); /* Fallback color */
+        background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+    }
+
+    /* Modal Content */
+    .modal-content {
+        background-color: #fefefe;
+        margin: auto;
+        padding: 20px;
+        border: 1px solid #888;
+        width: 60%;
+        word-wrap: break-word;
+    }
+
+    /* The Close Button */
+    .close {
+        color: #aaaaaa;
+        float: right;
+        font-size: 28px;
+        font-weight: bold;
+    }
+
+        .close:hover,
+        .close:focus {
+            color: #000;
+            text-decoration: none;
+            cursor: pointer;
+        }
+
+    .loader {
+        border: 10px solid #f3f3f3;
+        border-radius: 50%;
+        border-top: 10px solid #3498db;
+        width: 50px;
+        height: 50px;
+        -webkit-animation: spin 1s linear infinite; /* Safari */
+        animation: spin 1s linear infinite;
+    }
+
+    @@keyframes spin {
+        0% {
+            transform: rotate(0deg);
+        }
+
+        100% {
+            transform: rotate(360deg);
+        }
+    }
+
+    label {
+        display: inline-block;
+        width: 200px;
+        margin-right: 30px;
+        text-align: right;
+    }
+
+    .webgrid-header th {
+        padding: 6px 5px;
+        text-align: center;
+        background-color: #e8eef4;
+        border-bottom: 2px solid #3966A2;
+        height: 40px;
+        font-weight: bold;
+        border-top: 2px solid #D6E8FF;
+        border-left: 2px solid #D6E8FF;
+        border-right: 2px solid #D6E8FF;
+        font-size: 0.8em;
+    }
+
+    .alt {
+        background-color: #E8E8E8;
+        color: #000;
+    }
+
+    .col-puntoflotante {
+        width: 10%;
+        text-align: center;
+    }
+
+    .col-int {
+        width: 10%;
+        text-align: center;
+    }
+</style>
+
+

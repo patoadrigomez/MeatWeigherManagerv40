@@ -1,0 +1,243 @@
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeighingTruck_Shap\WeighingTruck_Shap\CCommons\bin\Debug\CCommons.dll
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeighingTruck_Shap\WeighingTruck_Shap\CCommons\bin\Debug\CCommons.pdb
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeighingTruck_Shap\WeighingTruck_Shap\CCommons\obj\Debug\CCommons.dll
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeighingTruck_Shap\WeighingTruck_Shap\CCommons\obj\Debug\CCommons.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruck_Shap\WeighingTruck_Shap\CCommons\bin\Debug\CCommons.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruck_Shap\WeighingTruck_Shap\CCommons\bin\Debug\CCommons.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruck_Shap\WeighingTruck_Shap\CCommons\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruck_Shap\WeighingTruck_Shap\CCommons\obj\Debug\CCommons.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruck_Shap\WeighingTruck_Shap\CCommons\obj\Debug\CCommons.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruck_FisMarbel v1.0\WeighingTruck_FisMarbel\CCommons\bin\Debug\CCommons.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruck_FisMarbel v1.0\WeighingTruck_FisMarbel\CCommons\bin\Debug\CCommons.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruck_FisMarbel v1.0\WeighingTruck_FisMarbel\CCommons\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruck_FisMarbel v1.0\WeighingTruck_FisMarbel\CCommons\obj\Debug\CCommons.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruck_FisMarbel v1.0\WeighingTruck_FisMarbel\CCommons\obj\Debug\CCommons.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruckAdu v1.0\WeighingTruck_FisMarbel\CCommons\bin\Debug\CCommons.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruckAdu v1.0\WeighingTruck_FisMarbel\CCommons\bin\Debug\CCommons.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruckAdu v1.0\WeighingTruck_FisMarbel\CCommons\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruckAdu v1.0\WeighingTruck_FisMarbel\CCommons\obj\Debug\CCommons.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruckAdu v1.0\WeighingTruck_FisMarbel\CCommons\obj\Debug\CCommons.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruckAdu v1.0\WeighingTruckAdu\CCommons\bin\Debug\CCommons.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruckAdu v1.0\WeighingTruckAdu\CCommons\bin\Debug\CCommons.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruckAdu v1.0\WeighingTruckAdu\CCommons\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruckAdu v1.0\WeighingTruckAdu\CCommons\obj\Debug\CCommons.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruckAdu v1.0\WeighingTruckAdu\CCommons\obj\Debug\CCommons.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherLaundry v1.0\WeigherLaundry\CCommons\bin\Debug\CCommons.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherLaundry v1.0\WeigherLaundry\CCommons\bin\Debug\CCommons.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherLaundry v1.0\WeigherLaundry\CCommons\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherLaundry v1.0\WeigherLaundry\CCommons\obj\Debug\CCommons.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherLaundry v1.0\WeigherLaundry\CCommons\obj\Debug\CCommons.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.0\MeatWeigherManager\CCommons\bin\Debug\CCommons.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.0\MeatWeigherManager\CCommons\bin\Debug\CCommons.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.0\MeatWeigherManager\CCommons\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.0\MeatWeigherManager\CCommons\obj\Debug\CCommons.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.0\MeatWeigherManager\CCommons\obj\Debug\CCommons.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\CCommons\bin\Debug\CCommons.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\CCommons\bin\Debug\CCommons.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\CCommons\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\CCommons\obj\Debug\CCommons.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\CCommons\obj\Debug\CCommons.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\CCommons\bin\Debug\CCommons.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\CCommons\bin\Debug\CCommons.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\CCommons\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\CCommons\obj\Debug\CCommons.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\CCommons\obj\Debug\CCommons.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\CCommons\bin\Debug\CCommons.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\CCommons\bin\Debug\CCommons.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\CCommons\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\CCommons\obj\Debug\CCommons.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\CCommons\obj\Debug\CCommons.pdb
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.0\MeatWeigherManager\CCommons\bin\Debug\CCommons.dll
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.0\MeatWeigherManager\CCommons\bin\Debug\CCommons.pdb
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.0\MeatWeigherManager\CCommons\obj\Debug\CCommons.csprojResolveAssemblyReference.cache
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.0\MeatWeigherManager\CCommons\obj\Debug\CCommons.csproj.CoreCompileInputs.cache
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.0\MeatWeigherManager\CCommons\obj\Debug\CCommons.dll
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.0\MeatWeigherManager\CCommons\obj\Debug\CCommons.pdb
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.2\MeatWeigherManager\CCommons\bin\Debug\CCommons.dll
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.2\MeatWeigherManager\CCommons\bin\Debug\CCommons.pdb
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.2\MeatWeigherManager\CCommons\obj\Debug\CCommons.csproj.CoreCompileInputs.cache
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.2\MeatWeigherManager\CCommons\obj\Debug\CCommons.dll
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.2\MeatWeigherManager\CCommons\obj\Debug\CCommons.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\CCommons\bin\Debug\CCommons.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\CCommons\bin\Debug\CCommons.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\CCommons\obj\Debug\CCommons.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\CCommons\obj\Debug\CCommons.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\CCommons\obj\Debug\CCommons.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\CCommons\bin\Debug\CCommons.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\CCommons\bin\Debug\CCommons.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\CCommons\obj\Debug\CCommons.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\CCommons\obj\Debug\CCommons.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\CCommons\obj\Debug\CCommons.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\CCommons\obj\Debug\CCommons.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\CCommons\bin\Debug\CCommons.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\CCommons\bin\Debug\CCommons.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\CCommons\obj\Debug\CCommons.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\CCommons\obj\Debug\CCommons.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\CCommons\obj\Debug\CCommons.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\CCommons\bin\Debug\CCommons.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\CCommons\bin\Debug\CCommons.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\CCommons\obj\Debug\CCommons.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\CCommons\obj\Debug\CCommons.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\CCommons\obj\Debug\CCommons.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\CCommons\obj\Debug\CCommons.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\CCommons\bin\Debug\CCommons.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\CCommons\bin\Debug\CCommons.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\CCommons\obj\Debug\CCommons.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\CCommons\obj\Debug\CCommons.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\CCommons\obj\Debug\CCommons.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\CCommons\obj\Debug\CCommons.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.1\MeatWeigherManager\CCommons\bin\Debug\CCommons.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.1\MeatWeigherManager\CCommons\bin\Debug\CCommons.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.1\MeatWeigherManager\CCommons\obj\Debug\CCommons.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.1\MeatWeigherManager\CCommons\obj\Debug\CCommons.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.1\MeatWeigherManager\CCommons\obj\Debug\CCommons.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.1\MeatWeigherManager\CCommons\obj\Debug\CCommons.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\CCommons\bin\Debug\CCommons.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\CCommons\bin\Debug\CCommons.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\CCommons\obj\Debug\CCommons.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\CCommons\obj\Debug\CCommons.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\CCommons\obj\Debug\CCommons.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\CCommons\obj\Debug\CCommons.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.3\MeatWeigherManager\CCommons\bin\Debug\CCommons.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.3\MeatWeigherManager\CCommons\bin\Debug\CCommons.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.3\MeatWeigherManager\CCommons\obj\Debug\CCommons.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.3\MeatWeigherManager\CCommons\obj\Debug\CCommons.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.3\MeatWeigherManager\CCommons\obj\Debug\CCommons.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.3\MeatWeigherManager\CCommons\obj\Debug\CCommons.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.4\MeatWeigherManager\CCommons\bin\Debug\CCommons.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.4\MeatWeigherManager\CCommons\bin\Debug\CCommons.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.4\MeatWeigherManager\CCommons\obj\Debug\CCommons.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.4\MeatWeigherManager\CCommons\obj\Debug\CCommons.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.4\MeatWeigherManager\CCommons\obj\Debug\CCommons.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.4\MeatWeigherManager\CCommons\obj\Debug\CCommons.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.0\MeatWeigherManager\CCommons\bin\Debug\CCommons.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.0\MeatWeigherManager\CCommons\bin\Debug\CCommons.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.0\MeatWeigherManager\CCommons\obj\Debug\CCommons.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.0\MeatWeigherManager\CCommons\obj\Debug\CCommons.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.0\MeatWeigherManager\CCommons\obj\Debug\CCommons.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.0\MeatWeigherManager\CCommons\obj\Debug\CCommons.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.2\MeatWeigherManager\CCommons\bin\Debug\CCommons.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.2\MeatWeigherManager\CCommons\bin\Debug\CCommons.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.2\MeatWeigherManager\CCommons\obj\Debug\CCommons.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.2\MeatWeigherManager\CCommons\obj\Debug\CCommons.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.2\MeatWeigherManager\CCommons\obj\Debug\CCommons.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.2\MeatWeigherManager\CCommons\obj\Debug\CCommons.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.3\MeatWeigherManager\CCommons\bin\Debug\CCommons.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.3\MeatWeigherManager\CCommons\bin\Debug\CCommons.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.3\MeatWeigherManager\CCommons\obj\Debug\CCommons.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.3\MeatWeigherManager\CCommons\obj\Debug\CCommons.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.3\MeatWeigherManager\CCommons\obj\Debug\CCommons.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.7\MeatWeigherManager\CCommons\bin\Debug\CCommons.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.7\MeatWeigherManager\CCommons\bin\Debug\CCommons.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.7\MeatWeigherManager\CCommons\obj\Debug\CCommons.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.7\MeatWeigherManager\CCommons\obj\Debug\CCommons.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.7\MeatWeigherManager\CCommons\obj\Debug\CCommons.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.8\MeatWeigherManager\CCommons\bin\Debug\CCommons.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.8\MeatWeigherManager\CCommons\bin\Debug\CCommons.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.8\MeatWeigherManager\CCommons\obj\Debug\CCommons.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.8\MeatWeigherManager\CCommons\obj\Debug\CCommons.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.8\MeatWeigherManager\CCommons\obj\Debug\CCommons.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.10\MeatWeigherManager\CCommons\bin\Debug\CCommons.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.10\MeatWeigherManager\CCommons\bin\Debug\CCommons.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.10\MeatWeigherManager\CCommons\obj\Debug\CCommons.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.10\MeatWeigherManager\CCommons\obj\Debug\CCommons.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.10\MeatWeigherManager\CCommons\obj\Debug\CCommons.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.13\MeatWeigherManager\CCommons\bin\Debug\CCommons.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.13\MeatWeigherManager\CCommons\bin\Debug\CCommons.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.13\MeatWeigherManager\CCommons\obj\Debug\CCommons.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.13\MeatWeigherManager\CCommons\obj\Debug\CCommons.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.13\MeatWeigherManager\CCommons\obj\Debug\CCommons.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.13\MeatWeigherManager\CCommons\obj\Debug\CCommons.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.14\MeatWeigherManager\CCommons\bin\Debug\CCommons.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.14\MeatWeigherManager\CCommons\bin\Debug\CCommons.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.14\MeatWeigherManager\CCommons\obj\Debug\CCommons.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.14\MeatWeigherManager\CCommons\obj\Debug\CCommons.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.14\MeatWeigherManager\CCommons\obj\Debug\CCommons.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.16\MeatWeigherManager\CCommons\bin\Debug\CCommons.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.16\MeatWeigherManager\CCommons\bin\Debug\CCommons.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.16\MeatWeigherManager\CCommons\obj\Debug\CCommons.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.16\MeatWeigherManager\CCommons\obj\Debug\CCommons.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.16\MeatWeigherManager\CCommons\obj\Debug\CCommons.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.16\MeatWeigherManager\CCommons\obj\Debug\CCommons.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.17\MeatWeigherManager\CCommons\bin\Debug\CCommons.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.17\MeatWeigherManager\CCommons\bin\Debug\CCommons.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.17\MeatWeigherManager\CCommons\obj\Debug\CCommons.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.17\MeatWeigherManager\CCommons\obj\Debug\CCommons.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.17\MeatWeigherManager\CCommons\obj\Debug\CCommons.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\CCommons\bin\Debug\CCommons.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\CCommons\bin\Debug\CCommons.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\CCommons\obj\Debug\CCommons.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\CCommons\obj\Debug\CCommons.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\CCommons\obj\Debug\CCommons.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.21\MeatWeigherManager\CCommons\bin\Debug\CCommons.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.21\MeatWeigherManager\CCommons\bin\Debug\CCommons.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.21\MeatWeigherManager\CCommons\obj\Debug\CCommons.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.21\MeatWeigherManager\CCommons\obj\Debug\CCommons.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.21\MeatWeigherManager\CCommons\obj\Debug\CCommons.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.21\MeatWeigherManager\CCommons\obj\Debug\CCommons.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.22\MeatWeigherManager\CCommons\bin\Debug\CCommons.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.22\MeatWeigherManager\CCommons\bin\Debug\CCommons.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.22\MeatWeigherManager\CCommons\obj\Debug\CCommons.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.22\MeatWeigherManager\CCommons\obj\Debug\CCommons.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.22\MeatWeigherManager\CCommons\obj\Debug\CCommons.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.22\MeatWeigherManager\CCommons\obj\Debug\CCommons.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\CCommons\bin\Debug\CCommons.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\CCommons\bin\Debug\CCommons.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\CCommons\obj\Debug\CCommons.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\CCommons\obj\Debug\CCommons.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\CCommons\obj\Debug\CCommons.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\CCommons\obj\Debug\CCommons.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.1\MeatWeigherManager\CCommons\bin\Debug\CCommons.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.1\MeatWeigherManager\CCommons\bin\Debug\CCommons.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.1\MeatWeigherManager\CCommons\obj\Debug\CCommons.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.1\MeatWeigherManager\CCommons\obj\Debug\CCommons.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.1\MeatWeigherManager\CCommons\obj\Debug\CCommons.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.1\MeatWeigherManager\CCommons\obj\Debug\CCommons.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.2\MeatWeigherManager\CCommons\bin\Debug\CCommons.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.2\MeatWeigherManager\CCommons\bin\Debug\CCommons.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.2\MeatWeigherManager\CCommons\obj\Debug\CCommons.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.2\MeatWeigherManager\CCommons\obj\Debug\CCommons.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.2\MeatWeigherManager\CCommons\obj\Debug\CCommons.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.2\MeatWeigherManager\CCommons\obj\Debug\CCommons.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.3\MeatWeigherManager\CCommons\bin\Debug\CCommons.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.3\MeatWeigherManager\CCommons\bin\Debug\CCommons.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.3\MeatWeigherManager\CCommons\obj\Debug\CCommons.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.3\MeatWeigherManager\CCommons\obj\Debug\CCommons.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.3\MeatWeigherManager\CCommons\obj\Debug\CCommons.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.3\MeatWeigherManager\CCommons\obj\Debug\CCommons.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.4\MeatWeigherManager\CCommons\bin\Debug\CCommons.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.4\MeatWeigherManager\CCommons\bin\Debug\CCommons.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.4\MeatWeigherManager\CCommons\obj\Debug\CCommons.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.4\MeatWeigherManager\CCommons\obj\Debug\CCommons.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.4\MeatWeigherManager\CCommons\obj\Debug\CCommons.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.4\MeatWeigherManager\CCommons\obj\Debug\CCommons.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.0\MeatWeigherManager\CCommons\bin\Debug\CCommons.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.0\MeatWeigherManager\CCommons\bin\Debug\CCommons.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.0\MeatWeigherManager\CCommons\obj\Debug\CCommons.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.0\MeatWeigherManager\CCommons\obj\Debug\CCommons.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.0\MeatWeigherManager\CCommons\obj\Debug\CCommons.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.0\MeatWeigherManager\CCommons\obj\Debug\CCommons.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.2\MeatWeigherManager\CCommons\bin\Debug\CCommons.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.2\MeatWeigherManager\CCommons\bin\Debug\CCommons.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.2\MeatWeigherManager\CCommons\obj\Debug\CCommons.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.2\MeatWeigherManager\CCommons\obj\Debug\CCommons.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.2\MeatWeigherManager\CCommons\obj\Debug\CCommons.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.2\MeatWeigherManager\CCommons\obj\Debug\CCommons.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.0\MeatWeigherManager\CCommons\bin\Debug\CCommons.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.0\MeatWeigherManager\CCommons\bin\Debug\CCommons.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.0\MeatWeigherManager\CCommons\obj\Debug\CCommons.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.0\MeatWeigherManager\CCommons\obj\Debug\CCommons.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.0\MeatWeigherManager\CCommons\obj\Debug\CCommons.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.0\MeatWeigherManager\CCommons\obj\Debug\CCommons.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.1\MeatWeigherManager\CCommons\bin\Debug\CCommons.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.1\MeatWeigherManager\CCommons\bin\Debug\CCommons.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.1\MeatWeigherManager\CCommons\obj\Debug\CCommons.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.1\MeatWeigherManager\CCommons\obj\Debug\CCommons.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.1\MeatWeigherManager\CCommons\obj\Debug\CCommons.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.1\MeatWeigherManager\CCommons\obj\Debug\CCommons.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.2\MeatWeigherManager\CCommons\bin\Debug\CCommons.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.2\MeatWeigherManager\CCommons\bin\Debug\CCommons.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.2\MeatWeigherManager\CCommons\obj\Debug\CCommons.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.2\MeatWeigherManager\CCommons\obj\Debug\CCommons.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.2\MeatWeigherManager\CCommons\obj\Debug\CCommons.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.2\MeatWeigherManager\CCommons\obj\Debug\CCommons.pdb

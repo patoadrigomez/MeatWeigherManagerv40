@@ -1,0 +1,102 @@
+﻿@model IEnumerable<WebReportMWM.Models.Entitys.ProductoGestionInsumos>
+@{
+    ViewBag.Title = "List";
+}
+
+@{ WebGrid webGrid = new WebGrid(source: Model, canPage: false, canSort: false);
+
+    string IdRowSelect = ViewBag.IdRowSelect == null ? "0" : ((int)ViewBag.IdRowSelect).ToString();
+    string filtroProductoNombre = ViewBag.FiltroProductoNombre ?? "";
+    string filtroProductoTipo = ViewBag.FiltroProductoTipo ?? "";
+
+}
+
+<h2>Asignación de Insumos a Productos</h2>
+<div>
+    <form asp-area="List" asp-controller="CrudProductos" asp-action="List" method="get" class="form-inline">
+        <div>
+            <label for="filtroProductoNombre">Nombre</label>
+            <input type="text" id="filtroProductoNombre" name="filtroProductoNombre" value="@filtroProductoNombre" placeholder="Producto" class="form-control" />
+            <label for="filtroProductoTipo">Tipo</label>
+            <input type="text" id="filtroProductoTipo" name="filtroProductoTipo" placeholder="Tipo Producto" value="@filtroProductoTipo" class="form-control" />
+            <input type="submit" value="Filtrar" class="btn btn-info" />
+        </div>
+    </form>
+    <br />
+</div>
+
+@webGrid.GetHtml(htmlAttributes: new { @id = "WebGrid", @class = "Grid" },
+                tableStyle: "table table-bordered",
+                fillEmptyRows: false,
+                alternatingRowStyle: "alt",
+                headerStyle: "webgrid-header",
+                columns: webGrid.Columns(
+                webGrid.Column(columnName: "IdProducto", header: "IdProductoConInsumo", style: "Id"),
+                webGrid.Column(columnName: "NombreProducto", header: "PRODUCTO", style: "Id"),
+                webGrid.Column("", style: "collinks", format:@<span class="link">
+                    @Html.ActionLink(" ", "DetailInsumosPrimarios", new { IdProducto = item.IdProducto, NombreProducto = item.NombreProducto, filtroProductoNombre = filtroProductoNombre, filtroProductoTipo = filtroProductoTipo },
+                    new { @class = "glyphicon glyphicon-list", title = "Ver/Agregar Insumos" }) | 
+                    @Html.ActionLink(" ", "ConfirmDelete", new { IdProducto = item.IdProducto,NombreProducto=item.NombreProducto },
+                    new { @style = "color:#ff0000;", @class = "glyphicon glyphicon-trash", title = "Eliminar todas las asignaciones" })
+                    </span>)))
+
+<style type="text/css">
+    .webgrid-header th {
+        padding: 6px 5px;
+        text-align: center;
+        background-color: #e8eef4;
+        border-bottom: 2px solid #3966A2;
+        height: 40px;
+        font-weight: bold;
+        border-top: 2px solid #D6E8FF;
+        border-left: 2px solid #D6E8FF;
+        border-right: 2px solid #D6E8FF;
+    }
+
+    .alt {
+        background-color: #FBFBFB;
+        color: #000;
+    }
+
+    .label {
+        color: #000;
+        font-weight: normal;
+    }
+
+    .selectedrow {
+        background-color: gold;
+    }
+    .collinks {
+        width: 8%;
+        text-align: center;
+    }
+
+</style>
+
+<script type="text/javascript" src="~/Scripts/jquery-3.4.1.min.js"></script>
+
+<script type="text/javascript">
+
+
+    //Al iniciar la carga del documento selecciono el registro especificado por su valor de Id
+    //Tambien pongo al registro visible controlando el scroll.
+    $(document).ready(function () {
+        $('#WebGrid tr').each(function () {
+            var Id = $(this).find(".Id").html();
+            if (Id == @IdRowSelect)
+            {
+                $(this).click();
+                $(document).scrollTop($(this).position().top);
+            }
+        });
+        //oculto columna ID
+        $("#WebGrid th:nth-child(1),td:nth-child(1)").hide();
+    });
+
+    $("body").on("click", "#WebGrid tr", function () {
+        $("#WebGrid").find("td").removeClass("selectedrow");
+        $(this).find("td").addClass("selectedrow");
+    });
+</script>
+
+

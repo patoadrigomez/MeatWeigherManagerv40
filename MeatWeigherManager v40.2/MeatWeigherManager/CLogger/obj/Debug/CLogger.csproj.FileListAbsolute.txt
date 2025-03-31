@@ -1,0 +1,201 @@
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeighingTruck_Shap\WeighingTruck_Shap\CLogger\bin\Debug\CLogger.dll
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeighingTruck_Shap\WeighingTruck_Shap\CLogger\bin\Debug\CLogger.pdb
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeighingTruck_Shap\WeighingTruck_Shap\CLogger\obj\Debug\CLogger.dll
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeighingTruck_Shap\WeighingTruck_Shap\CLogger\obj\Debug\CLogger.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruck_Shap\WeighingTruck_Shap\CLogger\bin\Debug\CLogger.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruck_Shap\WeighingTruck_Shap\CLogger\bin\Debug\CLogger.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruck_Shap\WeighingTruck_Shap\CLogger\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruck_Shap\WeighingTruck_Shap\CLogger\obj\Debug\CLogger.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruck_Shap\WeighingTruck_Shap\CLogger\obj\Debug\CLogger.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruck_FisMarbel v1.0\WeighingTruck_FisMarbel\CLogger\bin\Debug\CLogger.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruck_FisMarbel v1.0\WeighingTruck_FisMarbel\CLogger\bin\Debug\CLogger.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruck_FisMarbel v1.0\WeighingTruck_FisMarbel\CLogger\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruck_FisMarbel v1.0\WeighingTruck_FisMarbel\CLogger\obj\Debug\CLogger.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruck_FisMarbel v1.0\WeighingTruck_FisMarbel\CLogger\obj\Debug\CLogger.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruckAdu v1.0\WeighingTruck_FisMarbel\CLogger\bin\Debug\CLogger.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruckAdu v1.0\WeighingTruck_FisMarbel\CLogger\bin\Debug\CLogger.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruckAdu v1.0\WeighingTruck_FisMarbel\CLogger\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruckAdu v1.0\WeighingTruck_FisMarbel\CLogger\obj\Debug\CLogger.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruckAdu v1.0\WeighingTruck_FisMarbel\CLogger\obj\Debug\CLogger.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruckAdu v1.0\WeighingTruckAdu\CLogger\bin\Debug\CLogger.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruckAdu v1.0\WeighingTruckAdu\CLogger\bin\Debug\CLogger.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruckAdu v1.0\WeighingTruckAdu\CLogger\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruckAdu v1.0\WeighingTruckAdu\CLogger\obj\Debug\CLogger.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruckAdu v1.0\WeighingTruckAdu\CLogger\obj\Debug\CLogger.pdb
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.2\MeatWeigherManager\CLogger\bin\Debug\CLogger.dll
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.2\MeatWeigherManager\CLogger\bin\Debug\CLogger.pdb
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.2\MeatWeigherManager\CLogger\obj\Debug\CLogger.csproj.CoreCompileInputs.cache
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.2\MeatWeigherManager\CLogger\obj\Debug\CLogger.dll
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.2\MeatWeigherManager\CLogger\obj\Debug\CLogger.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\CLogger\bin\Debug\CLogger.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\CLogger\bin\Debug\CLogger.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\CLogger\obj\Debug\CLogger.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\CLogger\obj\Debug\CLogger.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\CLogger\obj\Debug\CLogger.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\CLogger\bin\Debug\CLogger.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\CLogger\bin\Debug\CLogger.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\CLogger\obj\Debug\CLogger.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\CLogger\obj\Debug\CLogger.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\CLogger\obj\Debug\CLogger.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\CLogger\bin\Debug\CLogger.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\CLogger\bin\Debug\CLogger.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\CLogger\obj\Debug\CLogger.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\CLogger\obj\Debug\CLogger.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\CLogger\obj\Debug\CLogger.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\CLogger\bin\Debug\CLogger.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\CLogger\bin\Debug\CLogger.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\CLogger\obj\Debug\CLogger.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\CLogger\obj\Debug\CLogger.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\CLogger\obj\Debug\CLogger.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\CLogger\bin\Debug\CLogger.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\CLogger\bin\Debug\CLogger.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\CLogger\obj\Debug\CLogger.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\CLogger\obj\Debug\CLogger.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\CLogger\obj\Debug\CLogger.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.1\MeatWeigherManager\CLogger\bin\Debug\CLogger.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.1\MeatWeigherManager\CLogger\bin\Debug\CLogger.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.1\MeatWeigherManager\CLogger\obj\Debug\CLogger.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.1\MeatWeigherManager\CLogger\obj\Debug\CLogger.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.1\MeatWeigherManager\CLogger\obj\Debug\CLogger.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\CLogger\bin\Debug\CLogger.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\CLogger\bin\Debug\CLogger.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\CLogger\obj\Debug\CLogger.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\CLogger\obj\Debug\CLogger.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\CLogger\obj\Debug\CLogger.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.3\MeatWeigherManager\CLogger\bin\Debug\CLogger.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.3\MeatWeigherManager\CLogger\bin\Debug\CLogger.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.3\MeatWeigherManager\CLogger\obj\Debug\CLogger.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.3\MeatWeigherManager\CLogger\obj\Debug\CLogger.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.3\MeatWeigherManager\CLogger\obj\Debug\CLogger.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.4\MeatWeigherManager\CLogger\bin\Debug\CLogger.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.4\MeatWeigherManager\CLogger\bin\Debug\CLogger.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.4\MeatWeigherManager\CLogger\obj\Debug\CLogger.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.4\MeatWeigherManager\CLogger\obj\Debug\CLogger.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.4\MeatWeigherManager\CLogger\obj\Debug\CLogger.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.0\MeatWeigherManager\CLogger\bin\Debug\CLogger.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.0\MeatWeigherManager\CLogger\bin\Debug\CLogger.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.0\MeatWeigherManager\CLogger\obj\Debug\CLogger.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.0\MeatWeigherManager\CLogger\obj\Debug\CLogger.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.0\MeatWeigherManager\CLogger\obj\Debug\CLogger.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.0\MeatWeigherManager\CLogger\obj\Debug\CLogger.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.2\MeatWeigherManager\CLogger\bin\Debug\CLogger.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.2\MeatWeigherManager\CLogger\bin\Debug\CLogger.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.2\MeatWeigherManager\CLogger\obj\Debug\CLogger.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.2\MeatWeigherManager\CLogger\obj\Debug\CLogger.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.2\MeatWeigherManager\CLogger\obj\Debug\CLogger.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.2\MeatWeigherManager\CLogger\obj\Debug\CLogger.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.3\MeatWeigherManager\CLogger\bin\Debug\CLogger.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.3\MeatWeigherManager\CLogger\bin\Debug\CLogger.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.3\MeatWeigherManager\CLogger\obj\Debug\CLogger.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.3\MeatWeigherManager\CLogger\obj\Debug\CLogger.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.3\MeatWeigherManager\CLogger\obj\Debug\CLogger.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.7\MeatWeigherManager\CLogger\bin\Debug\CLogger.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.7\MeatWeigherManager\CLogger\bin\Debug\CLogger.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.7\MeatWeigherManager\CLogger\obj\Debug\CLogger.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.7\MeatWeigherManager\CLogger\obj\Debug\CLogger.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.7\MeatWeigherManager\CLogger\obj\Debug\CLogger.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.8\MeatWeigherManager\CLogger\bin\Debug\CLogger.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.8\MeatWeigherManager\CLogger\bin\Debug\CLogger.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.8\MeatWeigherManager\CLogger\obj\Debug\CLogger.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.8\MeatWeigherManager\CLogger\obj\Debug\CLogger.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.8\MeatWeigherManager\CLogger\obj\Debug\CLogger.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.10\MeatWeigherManager\CLogger\bin\Debug\CLogger.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.10\MeatWeigherManager\CLogger\bin\Debug\CLogger.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.10\MeatWeigherManager\CLogger\obj\Debug\CLogger.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.10\MeatWeigherManager\CLogger\obj\Debug\CLogger.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.10\MeatWeigherManager\CLogger\obj\Debug\CLogger.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.13\MeatWeigherManager\CLogger\bin\Debug\CLogger.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.13\MeatWeigherManager\CLogger\bin\Debug\CLogger.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.13\MeatWeigherManager\CLogger\obj\Debug\CLogger.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.13\MeatWeigherManager\CLogger\obj\Debug\CLogger.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.13\MeatWeigherManager\CLogger\obj\Debug\CLogger.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.14\MeatWeigherManager\CLogger\bin\Debug\CLogger.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.14\MeatWeigherManager\CLogger\bin\Debug\CLogger.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.14\MeatWeigherManager\CLogger\obj\Debug\CLogger.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.14\MeatWeigherManager\CLogger\obj\Debug\CLogger.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.14\MeatWeigherManager\CLogger\obj\Debug\CLogger.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.16\MeatWeigherManager\CLogger\bin\Debug\CLogger.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.16\MeatWeigherManager\CLogger\bin\Debug\CLogger.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.16\MeatWeigherManager\CLogger\obj\Debug\CLogger.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.16\MeatWeigherManager\CLogger\obj\Debug\CLogger.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.16\MeatWeigherManager\CLogger\obj\Debug\CLogger.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.17\MeatWeigherManager\CLogger\bin\Debug\CLogger.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.17\MeatWeigherManager\CLogger\bin\Debug\CLogger.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.17\MeatWeigherManager\CLogger\obj\Debug\CLogger.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.17\MeatWeigherManager\CLogger\obj\Debug\CLogger.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.17\MeatWeigherManager\CLogger\obj\Debug\CLogger.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\CLogger\bin\Debug\CLogger.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\CLogger\bin\Debug\CLogger.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\CLogger\obj\Debug\CLogger.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\CLogger\obj\Debug\CLogger.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\CLogger\obj\Debug\CLogger.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.21\MeatWeigherManager\CLogger\bin\Debug\CLogger.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.21\MeatWeigherManager\CLogger\bin\Debug\CLogger.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.21\MeatWeigherManager\CLogger\obj\Debug\CLogger.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.21\MeatWeigherManager\CLogger\obj\Debug\CLogger.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.21\MeatWeigherManager\CLogger\obj\Debug\CLogger.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.22\MeatWeigherManager\CLogger\bin\Debug\CLogger.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.22\MeatWeigherManager\CLogger\bin\Debug\CLogger.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.22\MeatWeigherManager\CLogger\obj\Debug\CLogger.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.22\MeatWeigherManager\CLogger\obj\Debug\CLogger.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.22\MeatWeigherManager\CLogger\obj\Debug\CLogger.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\CLogger\bin\Debug\CLogger.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\CLogger\bin\Debug\CLogger.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\CLogger\obj\Debug\CLogger.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\CLogger\obj\Debug\CLogger.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\CLogger\obj\Debug\CLogger.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\CLogger\obj\Debug\CLogger.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.1\MeatWeigherManager\CLogger\bin\Debug\CLogger.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.1\MeatWeigherManager\CLogger\bin\Debug\CLogger.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.1\MeatWeigherManager\CLogger\obj\Debug\CLogger.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.1\MeatWeigherManager\CLogger\obj\Debug\CLogger.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.1\MeatWeigherManager\CLogger\obj\Debug\CLogger.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.1\MeatWeigherManager\CLogger\obj\Debug\CLogger.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.2\MeatWeigherManager\CLogger\bin\Debug\CLogger.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.2\MeatWeigherManager\CLogger\bin\Debug\CLogger.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.2\MeatWeigherManager\CLogger\obj\Debug\CLogger.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.2\MeatWeigherManager\CLogger\obj\Debug\CLogger.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.2\MeatWeigherManager\CLogger\obj\Debug\CLogger.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.2\MeatWeigherManager\CLogger\obj\Debug\CLogger.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.3\MeatWeigherManager\CLogger\bin\Debug\CLogger.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.3\MeatWeigherManager\CLogger\bin\Debug\CLogger.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.3\MeatWeigherManager\CLogger\obj\Debug\CLogger.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.3\MeatWeigherManager\CLogger\obj\Debug\CLogger.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.3\MeatWeigherManager\CLogger\obj\Debug\CLogger.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.3\MeatWeigherManager\CLogger\obj\Debug\CLogger.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.4\MeatWeigherManager\CLogger\bin\Debug\CLogger.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.4\MeatWeigherManager\CLogger\bin\Debug\CLogger.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.4\MeatWeigherManager\CLogger\obj\Debug\CLogger.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.4\MeatWeigherManager\CLogger\obj\Debug\CLogger.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.4\MeatWeigherManager\CLogger\obj\Debug\CLogger.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.4\MeatWeigherManager\CLogger\obj\Debug\CLogger.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.0\MeatWeigherManager\CLogger\bin\Debug\CLogger.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.0\MeatWeigherManager\CLogger\bin\Debug\CLogger.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.0\MeatWeigherManager\CLogger\obj\Debug\CLogger.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.0\MeatWeigherManager\CLogger\obj\Debug\CLogger.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.0\MeatWeigherManager\CLogger\obj\Debug\CLogger.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.0\MeatWeigherManager\CLogger\obj\Debug\CLogger.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.2\MeatWeigherManager\CLogger\bin\Debug\CLogger.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.2\MeatWeigherManager\CLogger\bin\Debug\CLogger.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.2\MeatWeigherManager\CLogger\obj\Debug\CLogger.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.2\MeatWeigherManager\CLogger\obj\Debug\CLogger.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.2\MeatWeigherManager\CLogger\obj\Debug\CLogger.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.2\MeatWeigherManager\CLogger\obj\Debug\CLogger.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.0\MeatWeigherManager\CLogger\bin\Debug\CLogger.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.0\MeatWeigherManager\CLogger\bin\Debug\CLogger.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.0\MeatWeigherManager\CLogger\obj\Debug\CLogger.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.0\MeatWeigherManager\CLogger\obj\Debug\CLogger.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.0\MeatWeigherManager\CLogger\obj\Debug\CLogger.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.0\MeatWeigherManager\CLogger\obj\Debug\CLogger.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.1\MeatWeigherManager\CLogger\bin\Debug\CLogger.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.1\MeatWeigherManager\CLogger\bin\Debug\CLogger.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.1\MeatWeigherManager\CLogger\obj\Debug\CLogger.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.1\MeatWeigherManager\CLogger\obj\Debug\CLogger.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.1\MeatWeigherManager\CLogger\obj\Debug\CLogger.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.1\MeatWeigherManager\CLogger\obj\Debug\CLogger.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.2\MeatWeigherManager\CLogger\bin\Debug\CLogger.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.2\MeatWeigherManager\CLogger\bin\Debug\CLogger.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.2\MeatWeigherManager\CLogger\obj\Debug\CLogger.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.2\MeatWeigherManager\CLogger\obj\Debug\CLogger.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.2\MeatWeigherManager\CLogger\obj\Debug\CLogger.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.2\MeatWeigherManager\CLogger\obj\Debug\CLogger.pdb

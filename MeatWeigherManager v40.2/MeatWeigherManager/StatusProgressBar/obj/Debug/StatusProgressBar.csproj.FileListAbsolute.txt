@@ -1,0 +1,423 @@
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\TestStatusProgressBar\TestStatusProgressBar\StatusProgressBar\obj\Debug\StatusProgressBar.CStatusProgressBar.resources
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\TestStatusProgressBar\TestStatusProgressBar\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.GenerateResource.Cache
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\TestStatusProgressBar\TestStatusProgressBar\StatusProgressBar\bin\Debug\StatusProgressBar.dll
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\TestStatusProgressBar\TestStatusProgressBar\StatusProgressBar\bin\Debug\StatusProgressBar.pdb
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\TestStatusProgressBar\TestStatusProgressBar\StatusProgressBar\obj\Debug\StatusProgressBar.Properties.Resources.resources
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\TestStatusProgressBar\TestStatusProgressBar\StatusProgressBar\obj\Debug\StatusProgressBar.dll
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\TestStatusProgressBar\TestStatusProgressBar\StatusProgressBar\obj\Debug\StatusProgressBar.pdb
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\TestStatusProgressBar\TestStatusProgressBar\StatusProgressBar\obj\Debug\StatusProgressBar.csprojResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruck_Marbel v1.0\WeighingTruck_Marbel\StatusProgressBar\bin\Debug\StatusProgressBar.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruck_Marbel v1.0\WeighingTruck_Marbel\StatusProgressBar\bin\Debug\StatusProgressBar.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruck_Marbel v1.0\WeighingTruck_Marbel\StatusProgressBar\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruck_Marbel v1.0\WeighingTruck_Marbel\StatusProgressBar\obj\Debug\StatusProgressBar.Properties.Resources.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruck_Marbel v1.0\WeighingTruck_Marbel\StatusProgressBar\obj\Debug\StatusProgressBar.CStatusProgressBar.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruck_Marbel v1.0\WeighingTruck_Marbel\StatusProgressBar\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruck_Marbel v1.0\WeighingTruck_Marbel\StatusProgressBar\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruck_Marbel v1.0\WeighingTruck_Marbel\StatusProgressBar\obj\Debug\StatusProgressBar.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruck_Marbel v1.0\WeighingTruck_Marbel\StatusProgressBar\obj\Debug\StatusProgressBar.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruck_Marbel v1.2\WeighingTruck_Marbel\StatusProgressBar\bin\Debug\StatusProgressBar.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruck_Marbel v1.2\WeighingTruck_Marbel\StatusProgressBar\bin\Debug\StatusProgressBar.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruck_Marbel v1.2\WeighingTruck_Marbel\StatusProgressBar\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruck_Marbel v1.2\WeighingTruck_Marbel\StatusProgressBar\obj\Debug\StatusProgressBar.Properties.Resources.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruck_Marbel v1.2\WeighingTruck_Marbel\StatusProgressBar\obj\Debug\StatusProgressBar.CStatusProgressBar.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruck_Marbel v1.2\WeighingTruck_Marbel\StatusProgressBar\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruck_Marbel v1.2\WeighingTruck_Marbel\StatusProgressBar\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruck_Marbel v1.2\WeighingTruck_Marbel\StatusProgressBar\obj\Debug\StatusProgressBar.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruck_Marbel v1.2\WeighingTruck_Marbel\StatusProgressBar\obj\Debug\StatusProgressBar.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.0\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.0\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.0\MeatWeigherManager\StatusProgressBar\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.0\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.Properties.Resources.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.0\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.CStatusProgressBar.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.0\MeatWeigherManager\StatusProgressBar\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.0\MeatWeigherManager\StatusProgressBar\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.0\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.0\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\StatusProgressBar\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.Properties.Resources.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.CStatusProgressBar.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\StatusProgressBar\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\StatusProgressBar\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\StatusProgressBar\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.Properties.Resources.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.CStatusProgressBar.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\StatusProgressBar\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\StatusProgressBar\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\StatusProgressBar\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.Properties.Resources.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.CStatusProgressBar.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\StatusProgressBar\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\StatusProgressBar\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\StatusProgressBar\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.Properties.Resources.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.CStatusProgressBar.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\StatusProgressBar\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\StatusProgressBar\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.pdb
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.0\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.dll
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.0\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.pdb
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.0\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csprojResolveAssemblyReference.cache
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.0\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.Properties.Resources.resources
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.0\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.CStatusProgressBar.resources
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.0\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.GenerateResource.cache
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.0\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.CoreCompileInputs.cache
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.0\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.dll
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.0\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.pdb
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.2\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.dll
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.2\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.pdb
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.2\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.Properties.Resources.resources
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.2\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.CStatusProgressBar.resources
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.2\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.GenerateResource.cache
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.2\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.CoreCompileInputs.cache
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.2\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.dll
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.2\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.CStatusProgressBar.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.CStatusProgressBar.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.CStatusProgressBar.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.CStatusProgressBar.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.CStatusProgressBar.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.1\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.1\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.1\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.1\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.1\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.CStatusProgressBar.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.1\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.1\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.1\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.1\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.CStatusProgressBar.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.3\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.3\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.3\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.3\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.3\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.CStatusProgressBar.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.3\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.3\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.3\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.3\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.4\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.4\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.4\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.4\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.CStatusProgressBar.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.4\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.4\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.4\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.4\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.0\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.0\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.0\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.0\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.CStatusProgressBar.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.0\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.0\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.0\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.0\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.0\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.2\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.2\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.2\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.2\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.2\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.CStatusProgressBar.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.2\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.2\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.2\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.2\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.3\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.3\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.3\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.3\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.CStatusProgressBar.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.3\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.3\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.3\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.3\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.7\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.7\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.7\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.7\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.7\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.CStatusProgressBar.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.7\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.7\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.7\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.7\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.8\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.8\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.8\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.8\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.CStatusProgressBar.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.8\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.8\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.8\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.8\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.10\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.10\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.10\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.10\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.CStatusProgressBar.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.10\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.10\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.10\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.10\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.10\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.13\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.13\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.13\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.13\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.13\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.CStatusProgressBar.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.13\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.13\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.13\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.13\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.14\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.14\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.14\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.14\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.14\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.CStatusProgressBar.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.14\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.14\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.14\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.14\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.16\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.16\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.16\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.16\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.16\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.CStatusProgressBar.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.16\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.16\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.16\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.16\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.17\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.17\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.17\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.17\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.17\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.CStatusProgressBar.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.17\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.17\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.17\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.17\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.CStatusProgressBar.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\StatusProgressBar\bin\Debug\LoadCircleCtrl.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\StatusProgressBar\bin\Debug\LoadCircleCtrl.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.CopyComplete
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.20\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.20\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.20\MeatWeigherManager\StatusProgressBar\bin\Debug\LoadCircleCtrl.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.20\MeatWeigherManager\StatusProgressBar\bin\Debug\LoadCircleCtrl.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.20\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.20\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.20\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.CStatusProgressBar.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.20\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.20\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.20\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.CopyComplete
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.20\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.20\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.21\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.21\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.21\MeatWeigherManager\StatusProgressBar\bin\Debug\LoadCircleCtrl.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.21\MeatWeigherManager\StatusProgressBar\bin\Debug\LoadCircleCtrl.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.21\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.21\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.21\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.CStatusProgressBar.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.21\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.21\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.21\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.CopyComplete
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.21\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.21\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.22\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.22\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.22\MeatWeigherManager\StatusProgressBar\bin\Debug\LoadCircleCtrl.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.22\MeatWeigherManager\StatusProgressBar\bin\Debug\LoadCircleCtrl.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.22\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.22\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.22\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.CStatusProgressBar.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.22\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.22\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.22\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.CopyComplete
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.22\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.22\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\StatusProgressBar\bin\Debug\LoadCircleCtrl.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\StatusProgressBar\bin\Debug\LoadCircleCtrl.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.CStatusProgressBar.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.CopyComplete
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.1\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.1\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.1\MeatWeigherManager\StatusProgressBar\bin\Debug\LoadCircleCtrl.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.1\MeatWeigherManager\StatusProgressBar\bin\Debug\LoadCircleCtrl.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.1\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.1\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.1\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.CStatusProgressBar.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.1\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.1\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.1\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.CopyComplete
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.1\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.1\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.2\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.2\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.2\MeatWeigherManager\StatusProgressBar\bin\Debug\LoadCircleCtrl.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.2\MeatWeigherManager\StatusProgressBar\bin\Debug\LoadCircleCtrl.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.2\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.2\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.2\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.CStatusProgressBar.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.2\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.2\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.2\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.CopyComplete
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.2\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.2\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.3\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.3\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.3\MeatWeigherManager\StatusProgressBar\bin\Debug\LoadCircleCtrl.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.3\MeatWeigherManager\StatusProgressBar\bin\Debug\LoadCircleCtrl.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.3\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.3\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.3\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.CStatusProgressBar.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.3\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.3\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.3\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.CopyComplete
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.3\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.3\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.4\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.4\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.4\MeatWeigherManager\StatusProgressBar\bin\Debug\LoadCircleCtrl.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.4\MeatWeigherManager\StatusProgressBar\bin\Debug\LoadCircleCtrl.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.4\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.4\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.4\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.CStatusProgressBar.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.4\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.4\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.4\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.CopyComplete
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.4\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.4\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.0\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.0\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.0\MeatWeigherManager\StatusProgressBar\bin\Debug\LoadCircleCtrl.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.0\MeatWeigherManager\StatusProgressBar\bin\Debug\LoadCircleCtrl.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.0\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.0\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.0\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.CStatusProgressBar.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.0\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.0\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.0\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.CopyComplete
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.0\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.0\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.2\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.2\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.2\MeatWeigherManager\StatusProgressBar\bin\Debug\LoadCircleCtrl.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.2\MeatWeigherManager\StatusProgressBar\bin\Debug\LoadCircleCtrl.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.2\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.2\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.2\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.CStatusProgressBar.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.2\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.2\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.2\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.CopyComplete
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.2\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.2\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.0\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.0\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.0\MeatWeigherManager\StatusProgressBar\bin\Debug\LoadCircleCtrl.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.0\MeatWeigherManager\StatusProgressBar\bin\Debug\LoadCircleCtrl.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.0\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.0\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.0\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.CStatusProgressBar.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.0\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.0\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.0\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.CopyComplete
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.0\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.0\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.1\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.1\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.1\MeatWeigherManager\StatusProgressBar\bin\Debug\LoadCircleCtrl.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.1\MeatWeigherManager\StatusProgressBar\bin\Debug\LoadCircleCtrl.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.1\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.1\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.1\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.CStatusProgressBar.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.1\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.1\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.1\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.1\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.1\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusPr.D73D332F.Up2Date
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.2\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.2\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.2\MeatWeigherManager\StatusProgressBar\bin\Debug\LoadCircleCtrl.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.2\MeatWeigherManager\StatusProgressBar\bin\Debug\LoadCircleCtrl.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.2\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.2\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.2\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.CStatusProgressBar.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.2\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.2\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.2\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusPr.D73D332F.Up2Date
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.2\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.2\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.pdb

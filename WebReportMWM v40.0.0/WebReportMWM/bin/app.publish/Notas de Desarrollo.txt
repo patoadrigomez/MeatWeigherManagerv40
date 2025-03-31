@@ -1,0 +1,44 @@
+﻿**************************
+Version 40.1.0 30-01-25
+*************************
+- Se hereda el proyecto WebReportMWM 20.0.0.0
+
+APLICACION:
+-----------
+
+- Se actualiza el connection string a la base de datos MeatWeigherManagerv40
+- Se incorpora ABM  de Tipificaciones. 
+- Se modifica la entidad Destinos en función de la estrucura de la BBDD actual.
+- Se agregó la columna "VENCIMIENTO" en el Reporte Ingreso a Planta Detallado ya que esta es una nueva propiedad de la tabla Pesadas. 
+- Se quitó en el ABM de Productos, la posibilidad de editar un resgistro desde una vista diferente, quedando solamente la funcionalidad de edición desde el WebGrid. 
+- En el ABM de Productos-Insumo, se resuelve el problema por el cual cuando se regresa a la pantalla de detalle de insumos de un producto luego de agregarle un insumo al mismo, desaparecía
+  de la vista el nombre del producto. 
+- Se incorporó la propiedad "Etiqueta" en la entidad Producto.
+- En el ABM de Productos se incorporó la posibilidad de asignar un formato de etiqueta específico al producto.
+- Se incorporó el reporte "Histórico de Pieza y Contenedor" en el menú Reportes-->Trazabilidad. 
+- Se modificó la vista del Reporte Ingreso a Planta Detallado, agregando las 2 nuevas columnas del reporte(Vencimiento y Manual) y agregando el filtro por tipo de pesada.
+- Se modificaron los reporte PDF y EXCEL de Ingreso a Planta Detallado incorando las 2 nuevas columnas mencionadas en el punto anterior.
+- Se modificó el reporte Ingreso a Planta Detallado agrgando el filtro por Tipo de Pesada(Manual/Balanza).
+- Se modificó la vista del reporte Log de Eventos agregando un select list con los contextos y otro con los eventos.
+- Se modificó el reporte Log de Eventos habiéndose incorporado un nuevo filtro por "contexto" y por "evento".
+- Se modificaron tanto las vistas como los reportes en PDF y Excel de manera tal que en los campos de peso, el valor esté acompañado de la leyenda "Kg", asi como también los campos
+  que indican valores porcentuales estén acompñados del operador "%".
+- Se eliminó la entidad "Parámetro".
+- En las visats de los reportes que tienen filtro por producto, se agregó la funcionalidad que al seleccionar un tipo de producto, el select list de Producto se restrinja con los productos
+  de ese tipo. 
+- En la vista del reporte Existencia en Stock Proxima al vencimiento se agregó un nuevo textbox para indicar los días próximos al vencimiento. 
+
+BASE DE DATOS:
+-----------
+- Se agrega el campo FechaVencimiento DateTime NULL en la tabla Pesadas.
+- Se modificó el stored procedure sp_GetPesada agregando al SELECT principal el campo FECHA_VENCIMIENTO.
+- Se modifica el stored procedure sp_repExistenciaEnStockDetalleOrdenadoPorVencimiento cambiando el campo VENCIMIENTO de manera tal de tomarlo
+  desde el campo FechaVencimiento de la tabla Pesadas.
+- Se modificó el stored procedure sp_repExistenciaEnStockDetalleProximidadVencimiento cambiando el campo VENCIMIENTO de manera tal de tomarlo
+  desde el campo FechaVencimiento de la tabla Pesadas. 
+- Se agrega el cmapo Manual (bit) en la tabla Pesadas que indicará si la pesada fue manual o por balanza.
+- Se modificó el stored procedure [sp_repIngPlantaDetalle] de maneta tal de incorporar los campos "Vencimineto" y "Manual" y el filtro por tipo de pesada.
+- Se modificó el stored procedure [sp_repEventosLog] agregando un nuevo filtro por "contexto" y otro por "evento".
+- Se eliminó la tabla Parametros.
+- Se modificó el stored procedure [sp_repExistenciaEnStockDetalleProximidadVencimiento] de manera tal que los días próximos al vencimiento, los reciba como parámetro y no 
+  desde la tabla Parámetros. 

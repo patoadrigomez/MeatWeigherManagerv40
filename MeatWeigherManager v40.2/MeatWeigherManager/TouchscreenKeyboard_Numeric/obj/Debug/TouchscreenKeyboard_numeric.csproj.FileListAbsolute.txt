@@ -1,0 +1,393 @@
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\touchscreenkeyboard_demo2\TouchscreenKeyboard\TouchscreenKeyboard\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\touchscreenkeyboard_demo2\TouchscreenKeyboard\TouchscreenKeyboard\obj\Debug\KeyboardClassLibrary.Keyboardcontrol_Num.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\touchscreenkeyboard_demo2\TouchscreenKeyboard\TouchscreenKeyboard\obj\Debug\KeyboardClassLibrary.Properties.Resources.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\touchscreenkeyboard_demo2\TouchscreenKeyboard\TouchscreenKeyboard\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\touchscreenkeyboard_demo2\TouchscreenKeyboard\TouchscreenKeyboard\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\touchscreenkeyboard_demo2\TouchscreenKeyboard\TouchscreenKeyboard\obj\Debug\TouchscreenKeyboard.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\touchscreenkeyboard_demo2\TouchscreenKeyboard\TouchscreenKeyboard\bin\Debug\TouchscreenKeyboard.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\touchscreenkeyboard_demo2\TouchscreenKeyboard\TouchscreenKeyboard\bin\Debug\TouchscreenKeyboard.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\touchscreenkeyboard_demo2\TouchscreenKeyboard\TouchscreenKeyboard\obj\Debug\TouchscreenKeyboard.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\touchscreenkeyboard_demo3\TouchscreenKeyboard\TouchscreenKeyboard\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\touchscreenkeyboard_demo3\TouchscreenKeyboard\TouchscreenKeyboard\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\touchscreenkeyboard_demo3\TouchscreenKeyboard\TouchscreenKeyboard\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\touchscreenkeyboard_demo3\TouchscreenKeyboard\TouchscreenKeyboard\bin\Debug\TouchscreenKeyNumeric.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\touchscreenkeyboard_demo3\TouchscreenKeyboard\TouchscreenKeyboard\bin\Debug\TouchscreenKeyNumeric.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\touchscreenkeyboard_demo3\TouchscreenKeyboard\TouchscreenKeyboard\obj\Debug\KeyboardClassLibrarySjf.Keyboardcontrol_Num.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\touchscreenkeyboard_demo3\TouchscreenKeyboard\TouchscreenKeyboard\obj\Debug\KeyboardClassLibrarySjf.Properties.Resources.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\touchscreenkeyboard_demo3\TouchscreenKeyboard\TouchscreenKeyboard\obj\Debug\TouchscreenKeyNumeric.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\touchscreenkeyboard_demo3\TouchscreenKeyboard\TouchscreenKeyboard\obj\Debug\TouchscreenKeyNumeric.pdb
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\EtReg_40WNet\EtReg_40WNet\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.dll
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\EtReg_40WNet\EtReg_40WNet\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.pdb
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\EtReg_40WNet\EtReg_40WNet\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Keyboardcontrol_Num.resources
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\EtReg_40WNet\EtReg_40WNet\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Properties.Resources.resources
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\EtReg_40WNet\EtReg_40WNet\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csproj.GenerateResource.Cache
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\EtReg_40WNet\EtReg_40WNet\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.dll
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\EtReg_40WNet\EtReg_40WNet\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtReg_40WNet\EtReg_40WNet\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtReg_40WNet\EtReg_40WNet\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtReg_40WNet\EtReg_40WNet\TouchscreenKeyboard_Numeric\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtReg_40WNet\EtReg_40WNet\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Keyboardcontrol_Num.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtReg_40WNet\EtReg_40WNet\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Properties.Resources.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtReg_40WNet\EtReg_40WNet\TouchscreenKeyboard_Numeric\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtReg_40WNet\EtReg_40WNet\TouchscreenKeyboard_Numeric\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtReg_40WNet\EtReg_40WNet\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtReg_40WNet\EtReg_40WNet\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtReg_40WNet v1.4\EtReg_40WNet\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtReg_40WNet v1.4\EtReg_40WNet\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtReg_40WNet v1.4\EtReg_40WNet\TouchscreenKeyboard_Numeric\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtReg_40WNet v1.4\EtReg_40WNet\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Keyboardcontrol_Num.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtReg_40WNet v1.4\EtReg_40WNet\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Properties.Resources.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtReg_40WNet v1.4\EtReg_40WNet\TouchscreenKeyboard_Numeric\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtReg_40WNet v1.4\EtReg_40WNet\TouchscreenKeyboard_Numeric\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtReg_40WNet v1.4\EtReg_40WNet\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtReg_40WNet v1.4\EtReg_40WNet\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherLaundry v1.0\WeigherLaundry\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherLaundry v1.0\WeigherLaundry\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherLaundry v1.0\WeigherLaundry\TouchscreenKeyboard_Numeric\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherLaundry v1.0\WeigherLaundry\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Keyboardcontrol_Num.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherLaundry v1.0\WeigherLaundry\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Properties.Resources.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherLaundry v1.0\WeigherLaundry\TouchscreenKeyboard_Numeric\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherLaundry v1.0\WeigherLaundry\TouchscreenKeyboard_Numeric\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherLaundry v1.0\WeigherLaundry\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherLaundry v1.0\WeigherLaundry\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.0\MeatWeigherManager\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.0\MeatWeigherManager\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.0\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.0\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Keyboardcontrol_Num.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.0\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Properties.Resources.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.0\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.0\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.0\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.0\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Keyboardcontrol_Num.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Properties.Resources.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Keyboardcontrol_Num.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Properties.Resources.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Keyboardcontrol_Num.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Properties.Resources.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Keyboardcontrol_Num.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Properties.Resources.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.pdb
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.0\MeatWeigherManager\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.dll
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.0\MeatWeigherManager\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.pdb
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.0\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csprojResolveAssemblyReference.cache
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.0\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Keyboardcontrol_Num.resources
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.0\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Properties.Resources.resources
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.0\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csproj.GenerateResource.cache
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.0\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csproj.CoreCompileInputs.cache
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.0\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.dll
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.0\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.pdb
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.2\MeatWeigherManager\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.dll
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.2\MeatWeigherManager\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.pdb
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.2\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Keyboardcontrol_Num.resources
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.2\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Properties.Resources.resources
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.2\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csproj.GenerateResource.cache
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.2\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csproj.CoreCompileInputs.cache
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.2\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.dll
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.2\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Keyboardcontrol_Num.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Keyboardcontrol_Num.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Keyboardcontrol_Num.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Keyboardcontrol_Num.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Keyboardcontrol_Num.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.1\MeatWeigherManager\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.1\MeatWeigherManager\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.1\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.1\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Keyboardcontrol_Num.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.1\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.1\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.1\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.1\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.1\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Keyboardcontrol_Num.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.3\MeatWeigherManager\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.3\MeatWeigherManager\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.3\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.3\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Keyboardcontrol_Num.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.3\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.3\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.3\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.3\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.3\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.4\MeatWeigherManager\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.4\MeatWeigherManager\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.4\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Keyboardcontrol_Num.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.4\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.4\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.4\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.4\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.4\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.0\MeatWeigherManager\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.0\MeatWeigherManager\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.0\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Keyboardcontrol_Num.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.0\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.0\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.0\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.0\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.0\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.2\MeatWeigherManager\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.2\MeatWeigherManager\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.2\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.2\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Keyboardcontrol_Num.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.2\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.2\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.2\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.2\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.2\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.3\MeatWeigherManager\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.3\MeatWeigherManager\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.3\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Keyboardcontrol_Num.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.3\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.3\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.3\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.3\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.3\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.3\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.7\MeatWeigherManager\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.7\MeatWeigherManager\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.7\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Keyboardcontrol_Num.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.7\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.7\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.7\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.7\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.7\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.8\MeatWeigherManager\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.8\MeatWeigherManager\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.8\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Keyboardcontrol_Num.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.8\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.8\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.8\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.8\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.8\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.10\MeatWeigherManager\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.10\MeatWeigherManager\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.10\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Keyboardcontrol_Num.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.10\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.10\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.10\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.10\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.10\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.13\MeatWeigherManager\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.13\MeatWeigherManager\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.13\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.13\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Keyboardcontrol_Num.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.13\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.13\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.13\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.13\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.13\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.14\MeatWeigherManager\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.14\MeatWeigherManager\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.14\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Keyboardcontrol_Num.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.14\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.14\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.14\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.14\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.14\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.16\MeatWeigherManager\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.16\MeatWeigherManager\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.16\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Keyboardcontrol_Num.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.16\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.16\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.16\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.16\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.16\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.17\MeatWeigherManager\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.17\MeatWeigherManager\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.17\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Keyboardcontrol_Num.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.17\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.17\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.17\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.17\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.17\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Keyboardcontrol_Num.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.21\MeatWeigherManager\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.21\MeatWeigherManager\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.21\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.21\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Keyboardcontrol_Num.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.21\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.21\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.21\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.21\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.21\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.22\MeatWeigherManager\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.22\MeatWeigherManager\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.22\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.22\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Keyboardcontrol_Num.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.22\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.22\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.22\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.22\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.22\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Keyboardcontrol_Num.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.1\MeatWeigherManager\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.1\MeatWeigherManager\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.1\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.1\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Keyboardcontrol_Num.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.1\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.1\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.1\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.1\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.1\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.2\MeatWeigherManager\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.2\MeatWeigherManager\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.2\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.2\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Keyboardcontrol_Num.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.2\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.2\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.2\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.2\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.2\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.3\MeatWeigherManager\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.3\MeatWeigherManager\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.3\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.3\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Keyboardcontrol_Num.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.3\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.3\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.3\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.3\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.3\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.4\MeatWeigherManager\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.4\MeatWeigherManager\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.4\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.4\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Keyboardcontrol_Num.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.4\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.4\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.4\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.4\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.4\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.0\MeatWeigherManager\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.0\MeatWeigherManager\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.0\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.0\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Keyboardcontrol_Num.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.0\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.0\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.0\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.0\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.0\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.2\MeatWeigherManager\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.2\MeatWeigherManager\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.2\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.2\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Keyboardcontrol_Num.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.2\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.2\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.2\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.2\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.2\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.0\MeatWeigherManager\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.0\MeatWeigherManager\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.0\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.0\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Keyboardcontrol_Num.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.0\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.0\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.0\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.0\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.0\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.1\MeatWeigherManager\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.1\MeatWeigherManager\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.1\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.1\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Keyboardcontrol_Num.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.1\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.1\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.1\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.1\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.1\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.2\MeatWeigherManager\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.2\MeatWeigherManager\TouchscreenKeyboard_Numeric\bin\Debug\TouchscreenKeyNumeric.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.2\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.2\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Keyboardcontrol_Num.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.2\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\KeyboardClassLibrarySjf.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.2\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.2\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyboard_numeric.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.2\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.2\MeatWeigherManager\TouchscreenKeyboard_Numeric\obj\Debug\TouchscreenKeyNumeric.pdb

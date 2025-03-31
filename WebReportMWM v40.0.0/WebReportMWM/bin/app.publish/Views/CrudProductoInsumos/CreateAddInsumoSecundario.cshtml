@@ -1,0 +1,81 @@
+﻿@model WebReportMWM.Models.Entitys.ProductoInsumo
+@using WebReportMWM.services;
+
+@{
+    ViewBag.Title = "CreateInsumoSecundario";
+
+    var ReqConfirmacion = new List<SelectListItem>();
+    ReqConfirmacion.Add(new SelectListItem { Text = "NO", Value = "false" });
+    ReqConfirmacion.Add(new SelectListItem { Text = "SI", Value = "true" });
+
+    var ListInsumos = DbServices.GetInsumosToListSelectListItem();
+
+}
+
+<h2>Asignar Insumo Secundario a Producto</h2>
+
+@using (Html.BeginForm("CreateAddInsumoSecundario", "CrudProductoInsumos", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        @Html.HiddenFor(model => model.IdProducto)
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        @Html.HiddenFor(model => model.IdInsumoPrimario)
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+        <div class="form-group">
+            @Html.Label("Insumo Secundario", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownListFor(m => m.IdInsumoSecundario, ListInsumos, new { @class = "form-control", style = "Width:50%", id = "iddropdownlist" })
+                @Html.ValidationMessageFor(model => model.IdInsumoSecundario, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Unidades, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Unidades, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Unidades, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.Label("Requiere Confirmación?", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownListFor(model => model.RequiereConfirmacion, ReqConfirmacion, new { htmlAttributes = new { @class = "form-control", id = "iddropdownlistdisponible" } })
+                @Html.ValidationMessageFor(model => model.RequiereConfirmacion, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Agregar" class="btn btn-danger" />
+                @Html.ActionLink("Volver", "DetailInsumosSecundarios", new
+           {
+               IdProducto = Model.IdProducto,
+               NombreProducto = Model.NombreProducto,
+               IdInsumoPrimario = Model.IdInsumoPrimario,
+               InsumoPrimario = Model.NombreInsumoPrimario
+           }, new { @class = "btn btn-info" })
+                @ViewBag.Message
+            </div>
+        </div>
+
+    </div>
+
+
+    if (TempData["MessagesError"] != null && ((List<string>)TempData["MessagesError"]).Count > 0)
+    {
+        foreach (string msg in (List<string>)TempData["MessagesError"])
+        {
+            <p style="color:red;">@msg</p>
+        }
+    }
+}
+
+

@@ -1,0 +1,243 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{F5C78F1F-1451-4CFF-9D8B-AC7B93497B2C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WeigherLaundry</RootNamespace>
+    <AssemblyName>WeigherLaundry</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Stampa">
+      <HintPath>Stampa Report\Stampa.DLL</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CABM_OperadoresDlg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CABM_OperadoresDlg.designer.cs">
+      <DependentUpon>CABM_OperadoresDlg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CABM_ClientePrendasDlg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CABM_ClientePrendasDlg.designer.cs">
+      <DependentUpon>CABM_ClientePrendasDlg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CConfigApp.cs" />
+    <Compile Include="CConfigAppDlg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CDatEstacion.cs" />
+    <Compile Include="CDb.cs" />
+    <Compile Include="CEditStringTouchDlg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CEditStringTouchDlg.designer.cs">
+      <DependentUpon>CEditStringTouchDlg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CEditValueTouchDlg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CEditValueTouchDlg.designer.cs">
+      <DependentUpon>CEditValueTouchDlg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CInfoProducto.cs" />
+    <Compile Include="CLogDlg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CLogDlg.Designer.cs">
+      <DependentUpon>CLogDlg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CABM_ClientesDlg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CABM_ClientesDlg.designer.cs">
+      <DependentUpon>CABM_ClientesDlg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CABM_PrendasDlg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CABM_PrendasDlg.designer.cs">
+      <DependentUpon>CABM_PrendasDlg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CABM_CarrosDlg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CABM_CarrosDlg.designer.cs">
+      <DependentUpon>CABM_CarrosDlg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CReporteDlg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CReporteDlg.designer.cs">
+      <DependentUpon>CReporteDlg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CSetPortDlg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CViewHCCreadasDlg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CViewHCCreadasDlg.Designer.cs">
+      <DependentUpon>CViewHCCreadasDlg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CViewConsultaHCDlg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CViewConsultaHCDlg.designer.cs">
+      <DependentUpon>CViewConsultaHCDlg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_WeigherLaundry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_WeigherLaundry.Designer.cs">
+      <DependentUpon>Form_WeigherLaundry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="CABM_OperadoresDlg.resx">
+      <DependentUpon>CABM_OperadoresDlg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CABM_ClientePrendasDlg.resx">
+      <DependentUpon>CABM_ClientePrendasDlg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CConfigAppDlg.resx">
+      <DependentUpon>CConfigAppDlg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CEditStringTouchDlg.resx">
+      <DependentUpon>CEditStringTouchDlg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CEditValueTouchDlg.resx">
+      <DependentUpon>CEditValueTouchDlg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CLogDlg.resx">
+      <DependentUpon>CLogDlg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CABM_ClientesDlg.resx">
+      <DependentUpon>CABM_ClientesDlg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CABM_PrendasDlg.resx">
+      <DependentUpon>CABM_PrendasDlg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CABM_CarrosDlg.resx">
+      <DependentUpon>CABM_CarrosDlg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CReporteDlg.resx">
+      <DependentUpon>CReporteDlg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CSetPortDlg.resx">
+      <DependentUpon>CSetPortDlg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CViewHCCreadasDlg.resx">
+      <DependentUpon>CViewHCCreadasDlg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CViewConsultaHCDlg.resx">
+      <DependentUpon>CViewConsultaHCDlg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_WeigherLaundry.resx">
+      <DependentUpon>Form_WeigherLaundry.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="CBalanzaSerialPort\CBalanzaSerialPort.csproj">
+      <Project>{3095858B-B6AA-4D36-A4A9-A0D0EEE7B45C}</Project>
+      <Name>CBalanzaSerialPort</Name>
+    </ProjectReference>
+    <ProjectReference Include="CCommons\CCommons.csproj">
+      <Project>{8C054FDA-B6D4-4913-BB43-80099C2B486F}</Project>
+      <Name>CCommons</Name>
+    </ProjectReference>
+    <ProjectReference Include="CExelLib\CExelLib.csproj">
+      <Project>{A69507FC-8033-4401-B9A7-6B0E431C08CE}</Project>
+      <Name>CExelLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="CIniRW1\CIniRW1.csproj">
+      <Project>{97E70105-3CEE-4124-A5E9-D3025F0B7A12}</Project>
+      <Name>CIniRW1</Name>
+    </ProjectReference>
+    <ProjectReference Include="CSerializerClass\CSerializerClass.csproj">
+      <Project>{DA76A307-24CA-4BA1-ADA1-9C353A2128F1}</Project>
+      <Name>CSerializerClass</Name>
+    </ProjectReference>
+    <ProjectReference Include="TouchscreenKeyboard\TouchscreenKeyboard.csproj">
+      <Project>{94070B1D-6DE4-4D45-B2B9-5DA09D0E15C9}</Project>
+      <Name>TouchscreenKeyboard</Name>
+    </ProjectReference>
+    <ProjectReference Include="TouchscreenKeyboard_Numeric\TouchscreenKeyboard_numeric.csproj">
+      <Project>{22E1903B-6034-4263-B39E-8AC4308E6A34}</Project>
+      <Name>TouchscreenKeyboard_numeric</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="FormatoRepMovPesadas.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,21 @@
+FLabel es un componente que deriva de Label y que posee la personalizacion de parpadear con velocidad y color programable.
+Para colocarlo en el dialogo hay que primero hacer una referencia a FLabel en el proyecto , luego en el form insertar un Label comun y luego en el codigo hay que cambiarle la asignacion en vez de derivar de Label a FLabel:
+
+this.Label1 = new FLabel.FsLabel();
+
+
+private void button1_Click(object sender, EventArgs e)
+        {
+            state ^= 1;
+            if (state == 1)
+            {
+                label1.Text = "CONECTADO";
+                label1.FlasherButtonColor(Color.Red, Color.GreenYellow);
+                label1.FlasherButtonStart(FButton.FlashIntervalSpeed.BlipMid);
+            }
+            else
+            {
+                label1.Text = "DESCONECTADO";
+                label1.FlasherButtonColor(Color.Gray, Color.Gray);
+                label1.FlasherButtonStop();
+            }

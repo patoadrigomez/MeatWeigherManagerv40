@@ -1,0 +1,46 @@
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtRegR_27WNet_v1\EtRegR_27WNet_v1\bin\Debug\EtRegR_27WNet_v1.exe
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtRegR_27WNet_v1\EtRegR_27WNet_v1\bin\Debug\EtRegR_27WNet_v1.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtRegR_27WNet_v1\EtRegR_27WNet_v1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtRegR_27WNet_v1\EtRegR_27WNet_v1\obj\x86\Debug\EtRegR_27WNet_v1.Properties.Resources.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtRegR_27WNet_v1\EtRegR_27WNet_v1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtRegR_27WNet_v1\EtRegR_27WNet_v1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtRegR_27WNet_v1\EtRegR_27WNet_v1\obj\x86\Debug\EtRegR_27WNet_v1.exe
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtRegR_27WNet_v1\EtRegR_27WNet_v1\obj\x86\Debug\EtRegR_27WNet_v1.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtRegR_27WNet_v1\EtRegR_27WNet_v1\obj\x86\Debug\EtRegR_27WNet_v1.Form_EtReg_27WNet_v1.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtRegR_27WNet_v1\EtRegR_27WNet_v1\obj\x86\Debug\EtRegR_27WNet_v1.CConfigAppDlg.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtRegR_27WNet_v1\EtRegR_27WNet_v1\bin\Debug\CExelLib.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtRegR_27WNet_v1\EtRegR_27WNet_v1\bin\Debug\CIniRW1.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtRegR_27WNet_v1\EtRegR_27WNet_v1\bin\Debug\CExelLib.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtRegR_27WNet_v1\EtRegR_27WNet_v1\bin\Debug\CIniRW1.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtRegR_27WNet_v1\EtRegR_27WNet_v1\obj\x86\Debug\EtRegR_27WNet_v1.CLogDlg.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtRegR_27WNet_v1\EtRegR_27WNet_v1\obj\x86\Debug\EtRegR_27WNet_v1.CViewInfoCajasPesadasDlg.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtRegR_27WNet_v1\EtRegR_27WNet_v1\obj\x86\Debug\EtRegR_27WNet_v1.CAbmPedidoRemitoDlg.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtRegR_27WNet_v1\EtRegR_27WNet_v1\bin\Debug\CPrintEtiEpl2_Net.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtRegR_27WNet_v1\EtRegR_27WNet_v1\bin\Debug\CTcpClientSync.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtRegR_27WNet_v1\EtRegR_27WNet_v1\bin\Debug\CPrintEtiEpl2_Net.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtRegR_27WNet_v1\EtRegR_27WNet_v1\bin\Debug\CTcpClientSync.pdb
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\EtRegR_27WNet_v1\EtRegR_27WNet_v1\obj\x86\Debug\EtRegR_27WNet_v1.exe
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\EtRegR_27WNet_v1\EtRegR_27WNet_v1\obj\x86\Debug\EtRegR_27WNet_v1.pdb
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\EtRegR_27WNet_v1\EtRegR_27WNet_v1\bin\Debug\EtRegR_27WNet_v1.exe
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\EtRegR_27WNet_v1\EtRegR_27WNet_v1\bin\Debug\EtRegR_27WNet_v1.pdb
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\EtRegR_27WNet_v1\EtRegR_27WNet_v1\bin\Debug\CExelLib.dll
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\EtRegR_27WNet_v1\EtRegR_27WNet_v1\bin\Debug\CIniRW1.dll
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\EtRegR_27WNet_v1\EtRegR_27WNet_v1\bin\Debug\CPrintEtiEpl2_Net.dll
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\EtRegR_27WNet_v1\EtRegR_27WNet_v1\bin\Debug\CTcpClientSync.dll
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\EtRegR_27WNet_v1\EtRegR_27WNet_v1\bin\Debug\CExelLib.pdb
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\EtRegR_27WNet_v1\EtRegR_27WNet_v1\bin\Debug\CIniRW1.pdb
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\EtRegR_27WNet_v1\EtRegR_27WNet_v1\bin\Debug\CPrintEtiEpl2_Net.pdb
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\EtRegR_27WNet_v1\EtRegR_27WNet_v1\bin\Debug\CTcpClientSync.pdb
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\EtRegR_27WNet_v1\EtRegR_27WNet_v1\obj\x86\Debug\EtRegR_27WNet_v1.csprojResolveAssemblyReference.cache
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\EtRegR_27WNet_v1\EtRegR_27WNet_v1\obj\x86\Debug\EtRegR_27WNet_v1.CAbmPedidoRemitoDlg.resources
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\EtRegR_27WNet_v1\EtRegR_27WNet_v1\obj\x86\Debug\EtRegR_27WNet_v1.CConfigAppDlg.resources
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\EtRegR_27WNet_v1\EtRegR_27WNet_v1\obj\x86\Debug\EtRegR_27WNet_v1.CLogDlg.resources
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\EtRegR_27WNet_v1\EtRegR_27WNet_v1\obj\x86\Debug\EtRegR_27WNet_v1.CViewInfoCajasPesadasDlg.resources
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\EtRegR_27WNet_v1\EtRegR_27WNet_v1\obj\x86\Debug\EtRegR_27WNet_v1.Form_EtReg_27WNet_v1.resources
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\EtRegR_27WNet_v1\EtRegR_27WNet_v1\obj\x86\Debug\EtRegR_27WNet_v1.Properties.Resources.resources
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\EtRegR_27WNet_v1\EtRegR_27WNet_v1\obj\x86\Debug\EtRegR_27WNet_v1.csproj.GenerateResource.Cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtRegR_27WNet_v1\EtRegR_27WNet_v1\bin\Debug\CSerializerClass.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtRegR_27WNet_v1\EtRegR_27WNet_v1\bin\Debug\CSerializerClass.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtRegR_27WNet_v1\EtRegR_27WNet_v1\bin\Debug\CBalanzaNetAsy.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtRegR_27WNet_v1\EtRegR_27WNet_v1\bin\Debug\CBalanzaNetAsy.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtRegR_27WNet_v1\EtRegR_27WNet_v1\obj\x86\Debug\EtRegR_27WNet_v1.CReporteDlg.resources

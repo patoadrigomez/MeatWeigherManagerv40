@@ -1,0 +1,3 @@
+LedCtrl.
+Es un control con forma de led que permite definir el color en estado on y en estado off, permite activar o desactivar el parpadeo y si el parpadeo no esta activo permite ordenar encender o apagar el led.
+Tambien se podra definir el color del circulo de contorno y el ancho de su trazo.

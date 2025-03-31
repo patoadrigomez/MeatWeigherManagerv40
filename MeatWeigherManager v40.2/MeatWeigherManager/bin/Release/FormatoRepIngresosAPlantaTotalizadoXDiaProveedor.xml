@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- DTD official validation 
+  <!DOCTYPE stampa SYSTEM "http://www.e-dynamica.com/stampa.dtd">
+-->
+
+<stampa name="" papersize="Letter" layout="Landscape" customUnit="Inch" customWidth="8.5" customHeight="11">
+  <margins left="25" top="50" right="25" bottom="50" />
+
+  <startInfo>
+    <preloadData value="False" />
+    <ignorePreloadExceptions value="False" />
+  </startInfo>
+
+  <connection>
+    <name value="dbConnection" />
+    <assembly value="System.Data" />
+    <type value="System.Data.Odbc.OdbcConnection" />
+    <connectionString value="" />
+  </connection>
+
+  <sections>
+
+    <section>
+      <flow value="" />
+      <content>
+
+
+        <pictureBox name="LogoEmpresa" x="30" y="30" width="100" height="100" horAlignment="Left" verAlignment="Center" Layout="Landscape" Selectable="True">
+          <stretch value="True" />
+          <border width="0" color="Black"/>
+        </pictureBox>
+
+        <textField name="CampoTexto_Empresa" x="125" y="12" width="900" height="30" horAlignment="Center" verAlignment="None" Layout="EveryPage" Selectable="True">
+          <text horAlignment="Center" verAlignment="Top" value="" />
+          <font family="Tahoma" size="14" underline="False" />
+          <textPadding value="2" />
+          <textSpacing value="3" />
+          <overflowTextDisplay value="False" />
+          <textOrientation value="Horizontal" />
+          <foregroundColor color="Black" />
+          <backgroundColor color="Transparent" />
+          <border width="0" color="Black" />
+        </textField>
+
+        <textField name="CampoTexto_Titulo" x="125" y="32" width="900" height="30" horAlignment="Center" verAlignment="None" Layout="EveryPage" Selectable="True">
+          <text horAlignment="Center" verAlignment="Top" value="" />
+          <font family="Tahoma" size="14" underline="False" />
+          <textPadding value="2" />
+          <textSpacing value="3" />
+          <overflowTextDisplay value="False" />
+          <textOrientation value="Horizontal" />
+          <foregroundColor color="Black" />
+          <backgroundColor color="Transparent" />
+          <border width="0" color="Black" />
+        </textField>
+
+        <textField name="CampoTexto_InfoLine1" x="125" y="65" width="900" height="52" horAlignment="Center" verAlignment="None" Layout="EveryPage" Selectable="True">
+          <text horAlignment="Center" verAlignment="Top" value="" />
+          <font family="Tahoma" size="10" underline="False" />
+          <textPadding value="2" />
+          <textSpacing value="3" />
+          <overflowTextDisplay value="False" />
+          <textOrientation value="Horizontal" />
+          <foregroundColor color="Black" />
+          <backgroundColor color="Transparent" />
+          <border width="0" color="Black" />
+        </textField>
+
+        <textField name="CampoTexto_InfoLine2" x="125" y="95" width="900" height="52" horAlignment="Center" verAlignment="None" Layout="EveryPage" Selectable="True">
+          <text horAlignment="Center" verAlignment="Top" value="" />
+          <font family="Tahoma" size="10" underline="False" />
+          <textPadding value="2" />
+          <textSpacing value="3" />
+          <overflowTextDisplay value="False" />
+          <textOrientation value="Horizontal" />
+          <foregroundColor color="Black" />
+          <backgroundColor color="Transparent" />
+          <border width="0" color="Black" />
+        </textField>
+
+        <table name="" x="110" y="136" width="1000" height="636"  dataSource="MOV_ACUMULADOS" drawEmptyRows="False" showHeader="True" cellHeight="18" horAlignment="None" verAlignment="None" Layout="EveryPage" Selectable="True">
+          <header headerColor="Black" headerFontColor="White">
+            <font family="Tahoma" size="8" style="Bold" underline="False" />
+          </header>
+          <dataRows dataFontColor="Black" backgroundColor="White" alterDataCondition="" alterDataColor="Red" alterDataBackColor="AntiqueWhite" subtotalsColor="Black">
+            <font family="Tahoma" size="8" underline="False" />
+            <alternateBackColor value="False" />
+            <alternatingBackColor color="Gainsboro" />
+            <filterExpression value="" />
+            <sortExpression value="" />
+          </dataRows>
+          <columns>
+            <column name="DIA" label="DIA" FormatMask="dd-MM-yyyy" subtotalType="None" prefix="" width="160" align="Center" />
+            <column name="PROVEEDOR" label="PROVEEDOR" FormatMask="" subtotalType="None" prefix="" width="360" align="Left" />
+            <column name="UNDS" label="TOTAL UNDS" FormatMask="" subtotalType="None" prefix="" width="90" align="Center" />
+            <column name="NETO" label="TOTAL NETO" FormatMask="0.##" subtotalType="None" prefix="" width="90" align="Center" />
+            <column name="TARA" label="TOTAL TARA" FormatMask="0.##" subtotalType="None" prefix="" width="90" align="Center" />
+            <column name="REMITIDO" label="TOTAL REMITIDO" FormatMask="0.##" subtotalType="None" prefix="" width="90" align="Center" />
+          </columns>
+          <border color="Black" />
+        </table>
+
+
+        <textField name="" x="25" y="800" width="900" height="20" horAlignment="Center" verAlignment="None" Layout="EveryPage" Selectable="True">
+          <text horAlignment="Center" verAlignment="Bottom" value="Sistema de Registracion de Pesajes Modelo: MeatWeigherManager - Desarrollado por Ingenieria MCR   Paguina $P{pageNumber} de $P{totalPages}" />
+          <font family="Tahoma" size="8" style="Bold" underline="False" />
+          <textPadding value="2" />
+          <textSpacing value="3" />
+          <overflowTextDisplay value="False" />
+          <textOrientation value="Horizontal" />
+          <foregroundColor color="Black" />
+          <backgroundColor color="Transparent" />
+          <border width="0" color="Black" />
+        </textField>
+
+      </content>
+    </section>
+
+  </sections>
+</stampa>

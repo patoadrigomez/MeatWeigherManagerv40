@@ -1,0 +1,283 @@
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\EtReg_40WNet\EtReg_40WNet\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.dll
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\EtReg_40WNet\EtReg_40WNet\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.pdb
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\EtReg_40WNet\EtReg_40WNet\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.dll
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\EtReg_40WNet\EtReg_40WNet\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtReg_40WNet\EtReg_40WNet\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtReg_40WNet\EtReg_40WNet\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtReg_40WNet\EtReg_40WNet\CBalanzaSerialPort\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtReg_40WNet\EtReg_40WNet\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtReg_40WNet\EtReg_40WNet\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtReg_41WNet\EtReg_41WNet\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtReg_41WNet\EtReg_41WNet\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtReg_41WNet\EtReg_41WNet\CBalanzaSerialPort\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtReg_41WNet\EtReg_41WNet\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtReg_41WNet\EtReg_41WNet\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.pdb
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\EtReg_41WNet\EtReg_41WNet\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.dll
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\EtReg_41WNet\EtReg_41WNet\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.pdb
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\EtReg_41WNet\EtReg_41WNet\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.csprojResolveAssemblyReference.cache
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\EtReg_41WNet\EtReg_41WNet\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.dll
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\EtReg_41WNet\EtReg_41WNet\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis\WeigherFis\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis\WeigherFis\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis\WeigherFis\CBalanzaSerialPort\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis\WeigherFis\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis\WeigherFis\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.pdb
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis\WeigherFis\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.dll
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis\WeigherFis\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.pdb
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis\WeigherFis\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.dll
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis\WeigherFis\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\CBalanzaSerialPort\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.pdb
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis v1.2\WeigherFis\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.dll
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis v1.2\WeigherFis\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.pdb
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis v1.2\WeigherFis\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.dll
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis v1.2\WeigherFis\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.2\WeigherFis\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.2\WeigherFis\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.2\WeigherFis\CBalanzaSerialPort\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.2\WeigherFis\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.2\WeigherFis\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.3\WeigherFis\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.3\WeigherFis\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.3\WeigherFis\CBalanzaSerialPort\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.3\WeigherFis\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.3\WeigherFis\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.pdb
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis v1.3\WeigherFis\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.dll
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis v1.3\WeigherFis\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.pdb
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis v1.3\WeigherFis\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.dll
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis v1.3\WeigherFis\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.pdb
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis v1.4\WeigherFis\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.dll
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis v1.4\WeigherFis\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.pdb
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis v1.4\WeigherFis\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.dll
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis v1.4\WeigherFis\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.5\WeigherFis\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.5\WeigherFis\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.5\WeigherFis\CBalanzaSerialPort\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.5\WeigherFis\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.5\WeigherFis\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherLaundry v1.0\WeigherLaundry\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherLaundry v1.0\WeigherLaundry\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherLaundry v1.0\WeigherLaundry\CBalanzaSerialPort\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherLaundry v1.0\WeigherLaundry\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherLaundry v1.0\WeigherLaundry\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.0\MeatWeigherManager\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.0\MeatWeigherManager\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.0\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.0\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.0\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.pdb
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.0\MeatWeigherManager\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.dll
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.0\MeatWeigherManager\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.pdb
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.0\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.csprojResolveAssemblyReference.cache
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.0\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.csproj.CoreCompileInputs.cache
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.0\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.dll
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.0\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.pdb
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.2\MeatWeigherManager\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.dll
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.2\MeatWeigherManager\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.pdb
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.2\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.csproj.CoreCompileInputs.cache
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.2\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.dll
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.2\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.1\MeatWeigherManager\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.1\MeatWeigherManager\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.1\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.1\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.1\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.1\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.3\MeatWeigherManager\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.3\MeatWeigherManager\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.3\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.3\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.3\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.3\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.4\MeatWeigherManager\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.4\MeatWeigherManager\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.4\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.4\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.4\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.4\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.0\MeatWeigherManager\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.0\MeatWeigherManager\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.0\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.0\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.0\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.0\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.2\MeatWeigherManager\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.2\MeatWeigherManager\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.2\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.2\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.2\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.2\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.3\MeatWeigherManager\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.3\MeatWeigherManager\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.3\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.3\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.3\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.7\MeatWeigherManager\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.7\MeatWeigherManager\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.7\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.7\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.7\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.7\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.8\MeatWeigherManager\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.8\MeatWeigherManager\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.8\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.8\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.8\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.10\MeatWeigherManager\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.10\MeatWeigherManager\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.10\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.10\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.10\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.10\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.13\MeatWeigherManager\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.13\MeatWeigherManager\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.13\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.13\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.13\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.13\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.14\MeatWeigherManager\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.14\MeatWeigherManager\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.14\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.14\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.14\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.14\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.16\MeatWeigherManager\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.16\MeatWeigherManager\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.16\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.16\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.16\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.16\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.17\MeatWeigherManager\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.17\MeatWeigherManager\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.17\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.17\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.17\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.21\MeatWeigherManager\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.21\MeatWeigherManager\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.21\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.21\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.21\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.22\MeatWeigherManager\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.22\MeatWeigherManager\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.22\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.22\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.22\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.1\MeatWeigherManager\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.1\MeatWeigherManager\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.1\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.1\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.1\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.1\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.2\MeatWeigherManager\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.2\MeatWeigherManager\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.2\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.2\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.2\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.2\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.3\MeatWeigherManager\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.3\MeatWeigherManager\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.3\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.3\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.3\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.3\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.4\MeatWeigherManager\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.4\MeatWeigherManager\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.4\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.4\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.4\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.4\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.0\MeatWeigherManager\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.0\MeatWeigherManager\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.0\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.0\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.0\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.0\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.2\MeatWeigherManager\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.2\MeatWeigherManager\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.2\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.2\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.2\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.2\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.0\MeatWeigherManager\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.0\MeatWeigherManager\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.0\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.0\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.0\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.0\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.1\MeatWeigherManager\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.1\MeatWeigherManager\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.1\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.1\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.1\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.1\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.2\MeatWeigherManager\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.2\MeatWeigherManager\CBalanzaSerialPort\bin\Debug\CBalanzaSerialPort.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.2\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.2\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.2\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.2\MeatWeigherManager\CBalanzaSerialPort\obj\Debug\CBalanzaSerialPort.pdb

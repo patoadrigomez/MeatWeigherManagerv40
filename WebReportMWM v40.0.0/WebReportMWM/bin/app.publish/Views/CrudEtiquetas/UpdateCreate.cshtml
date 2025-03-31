@@ -1,0 +1,83 @@
+﻿@model WebReportMWM.Models.Entitys.Etiqueta
+@using WebReportMWM.services
+@{
+    ViewBag.Title = "create";
+
+    var ListTipoBultos = DbServices.GetBultosToListSelectListItem();
+
+    bool modeCreate = (bool)ViewBag.ModeCreate;
+    string textAction = modeCreate ? "Crear" : "Actualizar";
+}
+
+<h2>@textAction</h2>
+
+@using (Html.BeginForm(modeCreate ? "Create" : "Update", "CrudEtiquetas", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <h4>Etiqueta</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        @Html.HiddenFor(model => model.Id)
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Nombre, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Nombre, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Nombre, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Descripcion, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Descripcion, new { htmlAttributes = new { @class = "form-control", style = "max-width:60%;" } })
+                @Html.ValidationMessageFor(model => model.Descripcion, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.TipoBulto, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownListFor(model => model.IdTipoBulto, ListTipoBultos, new { htmlAttributes = new { @class = "form-control", style = "Width:50%", id = "iddropdownlistTipoBultos" } })
+                @Html.ValidationMessageFor(model => model.IdTipoBulto, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value=@textAction class="btn btn-danger" />
+                @Html.ActionLink("Listar", "List", "CrudEtiquetas", new { @class = "btn btn-info" })
+                @ViewBag.Message
+            </div>
+        </div>
+    </div>
+    if (TempData["MessagesError"] != null && ((List<string>)TempData["MessagesError"]).Count > 0)
+    {
+        foreach (string msg in (List<string>)TempData["MessagesError"])
+        {
+            <p style="color:red;">@msg</p>
+        }
+    }
+}
+
+@section scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+
+    <script type="text/javascript">
+        /*Esta funcion captura el evento de cambio del dropdownlist para asignar el nuevo id
+                 seleccionado al idTipo del modelo. Esto se debe hacer por jquery porque si no el
+                 modelo no se actualiza cuando se realiza una seleccion del dropdownlist*/
+        $(document).ready(function () {
+            $('#iddropdownlistTipoBultos').change(function () {
+                $('#idTipoBulto').val($('#iddropdownlistTipoBultos option:selected').val());
+            });
+        });
+    </script>
+
+}
+
+
+

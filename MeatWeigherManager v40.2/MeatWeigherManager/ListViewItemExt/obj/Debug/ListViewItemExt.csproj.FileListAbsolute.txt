@@ -1,0 +1,24 @@
+C:\Users\Admin\Downloads\ListViewExtendedItem\ListViewExtendedItem\ListViewItemExt\bin\Debug\ListViewItemExt.dll
+C:\Users\Admin\Downloads\ListViewExtendedItem\ListViewExtendedItem\ListViewItemExt\bin\Debug\ListViewItemExt.pdb
+C:\Users\Admin\Downloads\ListViewExtendedItem\ListViewExtendedItem\ListViewItemExt\obj\Debug\ListViewItemExt.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\ListViewExtendedItem\ListViewExtendedItem\ListViewItemExt\obj\Debug\ListViewItemExt.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\ListViewExtendedItem\ListViewExtendedItem\ListViewItemExt\obj\Debug\ListViewItemExt.dll
+C:\Users\Admin\Downloads\ListViewExtendedItem\ListViewExtendedItem\ListViewItemExt\obj\Debug\ListViewItemExt.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.0\MeatWeigherManager\ListViewItemExt\bin\Debug\ListViewItemExt.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.0\MeatWeigherManager\ListViewItemExt\bin\Debug\ListViewItemExt.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.0\MeatWeigherManager\ListViewItemExt\obj\Debug\ListViewItemExt.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.0\MeatWeigherManager\ListViewItemExt\obj\Debug\ListViewItemExt.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.0\MeatWeigherManager\ListViewItemExt\obj\Debug\ListViewItemExt.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.0\MeatWeigherManager\ListViewItemExt\obj\Debug\ListViewItemExt.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.1\MeatWeigherManager\ListViewItemExt\bin\Debug\ListViewItemExt.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.1\MeatWeigherManager\ListViewItemExt\bin\Debug\ListViewItemExt.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.1\MeatWeigherManager\ListViewItemExt\obj\Debug\ListViewItemExt.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.1\MeatWeigherManager\ListViewItemExt\obj\Debug\ListViewItemExt.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.1\MeatWeigherManager\ListViewItemExt\obj\Debug\ListViewItemExt.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.1\MeatWeigherManager\ListViewItemExt\obj\Debug\ListViewItemExt.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.2\MeatWeigherManager\ListViewItemExt\bin\Debug\ListViewItemExt.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.2\MeatWeigherManager\ListViewItemExt\bin\Debug\ListViewItemExt.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.2\MeatWeigherManager\ListViewItemExt\obj\Debug\ListViewItemExt.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.2\MeatWeigherManager\ListViewItemExt\obj\Debug\ListViewItemExt.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.2\MeatWeigherManager\ListViewItemExt\obj\Debug\ListViewItemExt.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.2\MeatWeigherManager\ListViewItemExt\obj\Debug\ListViewItemExt.pdb

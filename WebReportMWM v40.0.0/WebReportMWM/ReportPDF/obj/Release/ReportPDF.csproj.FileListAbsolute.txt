@@ -1,0 +1,353 @@
+C:\Desarrollo\Software\C#\WebReportAMG\WebReportAMG\ReportPDF\bin\Release\ReportPDF.dll
+C:\Desarrollo\Software\C#\WebReportAMG\WebReportAMG\ReportPDF\bin\Release\ReportPDF.pdb
+C:\Desarrollo\Software\C#\WebReportAMG\WebReportAMG\ReportPDF\bin\Release\BouncyCastle.Crypto.dll
+C:\Desarrollo\Software\C#\WebReportAMG\WebReportAMG\ReportPDF\bin\Release\Common.Logging.Core.dll
+C:\Desarrollo\Software\C#\WebReportAMG\WebReportAMG\ReportPDF\bin\Release\Common.Logging.dll
+C:\Desarrollo\Software\C#\WebReportAMG\WebReportAMG\ReportPDF\bin\Release\itext.barcodes.dll
+C:\Desarrollo\Software\C#\WebReportAMG\WebReportAMG\ReportPDF\bin\Release\itext.forms.dll
+C:\Desarrollo\Software\C#\WebReportAMG\WebReportAMG\ReportPDF\bin\Release\itext.html2pdf.dll
+C:\Desarrollo\Software\C#\WebReportAMG\WebReportAMG\ReportPDF\bin\Release\itext.io.dll
+C:\Desarrollo\Software\C#\WebReportAMG\WebReportAMG\ReportPDF\bin\Release\itext.kernel.dll
+C:\Desarrollo\Software\C#\WebReportAMG\WebReportAMG\ReportPDF\bin\Release\itext.layout.dll
+C:\Desarrollo\Software\C#\WebReportAMG\WebReportAMG\ReportPDF\bin\Release\itext.pdfa.dll
+C:\Desarrollo\Software\C#\WebReportAMG\WebReportAMG\ReportPDF\bin\Release\itext.sign.dll
+C:\Desarrollo\Software\C#\WebReportAMG\WebReportAMG\ReportPDF\bin\Release\itext.styledxmlparser.dll
+C:\Desarrollo\Software\C#\WebReportAMG\WebReportAMG\ReportPDF\bin\Release\itext.svg.dll
+C:\Desarrollo\Software\C#\WebReportAMG\WebReportAMG\ReportPDF\bin\Release\BouncyCastle.Crypto.xml
+C:\Desarrollo\Software\C#\WebReportAMG\WebReportAMG\ReportPDF\bin\Release\Common.Logging.pdb
+C:\Desarrollo\Software\C#\WebReportAMG\WebReportAMG\ReportPDF\bin\Release\Common.Logging.xml
+C:\Desarrollo\Software\C#\WebReportAMG\WebReportAMG\ReportPDF\bin\Release\Common.Logging.Core.pdb
+C:\Desarrollo\Software\C#\WebReportAMG\WebReportAMG\ReportPDF\bin\Release\Common.Logging.Core.xml
+C:\Desarrollo\Software\C#\WebReportAMG\WebReportAMG\ReportPDF\bin\Release\itext.barcodes.xml
+C:\Desarrollo\Software\C#\WebReportAMG\WebReportAMG\ReportPDF\bin\Release\itext.forms.xml
+C:\Desarrollo\Software\C#\WebReportAMG\WebReportAMG\ReportPDF\bin\Release\itext.html2pdf.xml
+C:\Desarrollo\Software\C#\WebReportAMG\WebReportAMG\ReportPDF\bin\Release\itext.io.xml
+C:\Desarrollo\Software\C#\WebReportAMG\WebReportAMG\ReportPDF\bin\Release\itext.kernel.xml
+C:\Desarrollo\Software\C#\WebReportAMG\WebReportAMG\ReportPDF\bin\Release\itext.layout.xml
+C:\Desarrollo\Software\C#\WebReportAMG\WebReportAMG\ReportPDF\bin\Release\itext.pdfa.xml
+C:\Desarrollo\Software\C#\WebReportAMG\WebReportAMG\ReportPDF\bin\Release\itext.sign.xml
+C:\Desarrollo\Software\C#\WebReportAMG\WebReportAMG\ReportPDF\bin\Release\itext.styledxmlparser.xml
+C:\Desarrollo\Software\C#\WebReportAMG\WebReportAMG\ReportPDF\bin\Release\itext.svg.xml
+C:\Desarrollo\Software\C#\WebReportAMG\WebReportAMG\ReportPDF\obj\Release\ReportPDF.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\WebReportAMG\WebReportAMG\ReportPDF\obj\Release\ReportPDF.csproj.CopyComplete
+C:\Desarrollo\Software\C#\WebReportAMG\WebReportAMG\ReportPDF\obj\Release\ReportPDF.dll
+C:\Desarrollo\Software\C#\WebReportAMG\WebReportAMG\ReportPDF\obj\Release\ReportPDF.pdb
+C:\Desarrollo\Software\C#\WebReportAMG\WebReportAMG\ReportPDF\obj\Release\ReportPDF.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v10.0\WebReportAMG\ReportPDF\bin\Release\ReportPDF.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v10.0\WebReportAMG\ReportPDF\bin\Release\ReportPDF.pdb
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v10.0\WebReportAMG\ReportPDF\bin\Release\BouncyCastle.Crypto.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v10.0\WebReportAMG\ReportPDF\bin\Release\Common.Logging.Core.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v10.0\WebReportAMG\ReportPDF\bin\Release\Common.Logging.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v10.0\WebReportAMG\ReportPDF\bin\Release\itext.barcodes.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v10.0\WebReportAMG\ReportPDF\bin\Release\itext.forms.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v10.0\WebReportAMG\ReportPDF\bin\Release\itext.html2pdf.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v10.0\WebReportAMG\ReportPDF\bin\Release\itext.io.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v10.0\WebReportAMG\ReportPDF\bin\Release\itext.kernel.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v10.0\WebReportAMG\ReportPDF\bin\Release\itext.layout.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v10.0\WebReportAMG\ReportPDF\bin\Release\itext.pdfa.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v10.0\WebReportAMG\ReportPDF\bin\Release\itext.sign.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v10.0\WebReportAMG\ReportPDF\bin\Release\itext.styledxmlparser.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v10.0\WebReportAMG\ReportPDF\bin\Release\itext.svg.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v10.0\WebReportAMG\ReportPDF\bin\Release\BouncyCastle.Crypto.xml
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v10.0\WebReportAMG\ReportPDF\bin\Release\Common.Logging.pdb
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v10.0\WebReportAMG\ReportPDF\bin\Release\Common.Logging.xml
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v10.0\WebReportAMG\ReportPDF\bin\Release\Common.Logging.Core.pdb
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v10.0\WebReportAMG\ReportPDF\bin\Release\Common.Logging.Core.xml
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v10.0\WebReportAMG\ReportPDF\bin\Release\itext.barcodes.xml
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v10.0\WebReportAMG\ReportPDF\bin\Release\itext.forms.xml
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v10.0\WebReportAMG\ReportPDF\bin\Release\itext.html2pdf.xml
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v10.0\WebReportAMG\ReportPDF\bin\Release\itext.io.xml
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v10.0\WebReportAMG\ReportPDF\bin\Release\itext.kernel.xml
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v10.0\WebReportAMG\ReportPDF\bin\Release\itext.layout.xml
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v10.0\WebReportAMG\ReportPDF\bin\Release\itext.pdfa.xml
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v10.0\WebReportAMG\ReportPDF\bin\Release\itext.sign.xml
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v10.0\WebReportAMG\ReportPDF\bin\Release\itext.styledxmlparser.xml
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v10.0\WebReportAMG\ReportPDF\bin\Release\itext.svg.xml
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v10.0\WebReportAMG\ReportPDF\obj\Release\ReportPDF.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v10.0\WebReportAMG\ReportPDF\obj\Release\ReportPDF.csproj.CopyComplete
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v10.0\WebReportAMG\ReportPDF\obj\Release\ReportPDF.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v10.0\WebReportAMG\ReportPDF\obj\Release\ReportPDF.pdb
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v10.0\WebReportAMG\ReportPDF\obj\Release\ReportPDF.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v1.1\WebReportAMG\ReportPDF\bin\Release\ReportPDF.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v1.1\WebReportAMG\ReportPDF\bin\Release\ReportPDF.pdb
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v1.1\WebReportAMG\ReportPDF\bin\Release\BouncyCastle.Crypto.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v1.1\WebReportAMG\ReportPDF\bin\Release\Common.Logging.Core.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v1.1\WebReportAMG\ReportPDF\bin\Release\Common.Logging.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v1.1\WebReportAMG\ReportPDF\bin\Release\itext.barcodes.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v1.1\WebReportAMG\ReportPDF\bin\Release\itext.forms.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v1.1\WebReportAMG\ReportPDF\bin\Release\itext.html2pdf.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v1.1\WebReportAMG\ReportPDF\bin\Release\itext.io.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v1.1\WebReportAMG\ReportPDF\bin\Release\itext.kernel.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v1.1\WebReportAMG\ReportPDF\bin\Release\itext.layout.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v1.1\WebReportAMG\ReportPDF\bin\Release\itext.pdfa.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v1.1\WebReportAMG\ReportPDF\bin\Release\itext.sign.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v1.1\WebReportAMG\ReportPDF\bin\Release\itext.styledxmlparser.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v1.1\WebReportAMG\ReportPDF\bin\Release\itext.svg.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v1.1\WebReportAMG\ReportPDF\bin\Release\BouncyCastle.Crypto.xml
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v1.1\WebReportAMG\ReportPDF\bin\Release\Common.Logging.pdb
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v1.1\WebReportAMG\ReportPDF\bin\Release\Common.Logging.xml
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v1.1\WebReportAMG\ReportPDF\bin\Release\Common.Logging.Core.pdb
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v1.1\WebReportAMG\ReportPDF\bin\Release\Common.Logging.Core.xml
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v1.1\WebReportAMG\ReportPDF\bin\Release\itext.barcodes.xml
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v1.1\WebReportAMG\ReportPDF\bin\Release\itext.forms.xml
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v1.1\WebReportAMG\ReportPDF\bin\Release\itext.html2pdf.xml
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v1.1\WebReportAMG\ReportPDF\bin\Release\itext.io.xml
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v1.1\WebReportAMG\ReportPDF\bin\Release\itext.kernel.xml
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v1.1\WebReportAMG\ReportPDF\bin\Release\itext.layout.xml
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v1.1\WebReportAMG\ReportPDF\bin\Release\itext.pdfa.xml
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v1.1\WebReportAMG\ReportPDF\bin\Release\itext.sign.xml
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v1.1\WebReportAMG\ReportPDF\bin\Release\itext.styledxmlparser.xml
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v1.1\WebReportAMG\ReportPDF\bin\Release\itext.svg.xml
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v1.1\WebReportAMG\ReportPDF\obj\Release\ReportPDF.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v1.1\WebReportAMG\ReportPDF\obj\Release\ReportPDF.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v1.1\WebReportAMG\ReportPDF\obj\Release\ReportPDF.csproj.CopyComplete
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v1.1\WebReportAMG\ReportPDF\obj\Release\ReportPDF.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v1.1\WebReportAMG\ReportPDF\obj\Release\ReportPDF.pdb
+C:\Desarrollo\Software\C#\WebReportAMG v1.2\WebReportAMG\ReportPDF\bin\Release\ReportPDF.dll
+C:\Desarrollo\Software\C#\WebReportAMG v1.2\WebReportAMG\ReportPDF\bin\Release\ReportPDF.pdb
+C:\Desarrollo\Software\C#\WebReportAMG v1.2\WebReportAMG\ReportPDF\bin\Release\BouncyCastle.Crypto.dll
+C:\Desarrollo\Software\C#\WebReportAMG v1.2\WebReportAMG\ReportPDF\bin\Release\Common.Logging.Core.dll
+C:\Desarrollo\Software\C#\WebReportAMG v1.2\WebReportAMG\ReportPDF\bin\Release\Common.Logging.dll
+C:\Desarrollo\Software\C#\WebReportAMG v1.2\WebReportAMG\ReportPDF\bin\Release\itext.barcodes.dll
+C:\Desarrollo\Software\C#\WebReportAMG v1.2\WebReportAMG\ReportPDF\bin\Release\itext.forms.dll
+C:\Desarrollo\Software\C#\WebReportAMG v1.2\WebReportAMG\ReportPDF\bin\Release\itext.html2pdf.dll
+C:\Desarrollo\Software\C#\WebReportAMG v1.2\WebReportAMG\ReportPDF\bin\Release\itext.io.dll
+C:\Desarrollo\Software\C#\WebReportAMG v1.2\WebReportAMG\ReportPDF\bin\Release\itext.kernel.dll
+C:\Desarrollo\Software\C#\WebReportAMG v1.2\WebReportAMG\ReportPDF\bin\Release\itext.layout.dll
+C:\Desarrollo\Software\C#\WebReportAMG v1.2\WebReportAMG\ReportPDF\bin\Release\itext.pdfa.dll
+C:\Desarrollo\Software\C#\WebReportAMG v1.2\WebReportAMG\ReportPDF\bin\Release\itext.sign.dll
+C:\Desarrollo\Software\C#\WebReportAMG v1.2\WebReportAMG\ReportPDF\bin\Release\itext.styledxmlparser.dll
+C:\Desarrollo\Software\C#\WebReportAMG v1.2\WebReportAMG\ReportPDF\bin\Release\itext.svg.dll
+C:\Desarrollo\Software\C#\WebReportAMG v1.2\WebReportAMG\ReportPDF\bin\Release\BouncyCastle.Crypto.xml
+C:\Desarrollo\Software\C#\WebReportAMG v1.2\WebReportAMG\ReportPDF\bin\Release\Common.Logging.pdb
+C:\Desarrollo\Software\C#\WebReportAMG v1.2\WebReportAMG\ReportPDF\bin\Release\Common.Logging.xml
+C:\Desarrollo\Software\C#\WebReportAMG v1.2\WebReportAMG\ReportPDF\bin\Release\Common.Logging.Core.pdb
+C:\Desarrollo\Software\C#\WebReportAMG v1.2\WebReportAMG\ReportPDF\bin\Release\Common.Logging.Core.xml
+C:\Desarrollo\Software\C#\WebReportAMG v1.2\WebReportAMG\ReportPDF\bin\Release\itext.barcodes.xml
+C:\Desarrollo\Software\C#\WebReportAMG v1.2\WebReportAMG\ReportPDF\bin\Release\itext.forms.xml
+C:\Desarrollo\Software\C#\WebReportAMG v1.2\WebReportAMG\ReportPDF\bin\Release\itext.html2pdf.xml
+C:\Desarrollo\Software\C#\WebReportAMG v1.2\WebReportAMG\ReportPDF\bin\Release\itext.io.xml
+C:\Desarrollo\Software\C#\WebReportAMG v1.2\WebReportAMG\ReportPDF\bin\Release\itext.kernel.xml
+C:\Desarrollo\Software\C#\WebReportAMG v1.2\WebReportAMG\ReportPDF\bin\Release\itext.layout.xml
+C:\Desarrollo\Software\C#\WebReportAMG v1.2\WebReportAMG\ReportPDF\bin\Release\itext.pdfa.xml
+C:\Desarrollo\Software\C#\WebReportAMG v1.2\WebReportAMG\ReportPDF\bin\Release\itext.sign.xml
+C:\Desarrollo\Software\C#\WebReportAMG v1.2\WebReportAMG\ReportPDF\bin\Release\itext.styledxmlparser.xml
+C:\Desarrollo\Software\C#\WebReportAMG v1.2\WebReportAMG\ReportPDF\bin\Release\itext.svg.xml
+C:\Desarrollo\Software\C#\WebReportAMG v1.2\WebReportAMG\ReportPDF\obj\Release\ReportPDF.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\WebReportAMG v1.2\WebReportAMG\ReportPDF\obj\Release\ReportPDF.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\WebReportAMG v1.2\WebReportAMG\ReportPDF\obj\Release\ReportPDF.csproj.CopyComplete
+C:\Desarrollo\Software\C#\WebReportAMG v1.2\WebReportAMG\ReportPDF\obj\Release\ReportPDF.dll
+C:\Desarrollo\Software\C#\WebReportAMG v1.2\WebReportAMG\ReportPDF\obj\Release\ReportPDF.pdb
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.3\WebReportAMG\ReportPDF\bin\Release\ReportPDF.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.3\WebReportAMG\ReportPDF\bin\Release\ReportPDF.pdb
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.3\WebReportAMG\ReportPDF\bin\Release\BouncyCastle.Crypto.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.3\WebReportAMG\ReportPDF\bin\Release\Common.Logging.Core.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.3\WebReportAMG\ReportPDF\bin\Release\Common.Logging.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.3\WebReportAMG\ReportPDF\bin\Release\itext.barcodes.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.3\WebReportAMG\ReportPDF\bin\Release\itext.forms.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.3\WebReportAMG\ReportPDF\bin\Release\itext.html2pdf.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.3\WebReportAMG\ReportPDF\bin\Release\itext.io.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.3\WebReportAMG\ReportPDF\bin\Release\itext.kernel.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.3\WebReportAMG\ReportPDF\bin\Release\itext.layout.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.3\WebReportAMG\ReportPDF\bin\Release\itext.pdfa.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.3\WebReportAMG\ReportPDF\bin\Release\itext.sign.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.3\WebReportAMG\ReportPDF\bin\Release\itext.styledxmlparser.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.3\WebReportAMG\ReportPDF\bin\Release\itext.svg.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.3\WebReportAMG\ReportPDF\bin\Release\BouncyCastle.Crypto.xml
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.3\WebReportAMG\ReportPDF\bin\Release\Common.Logging.pdb
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.3\WebReportAMG\ReportPDF\bin\Release\Common.Logging.xml
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.3\WebReportAMG\ReportPDF\bin\Release\Common.Logging.Core.pdb
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.3\WebReportAMG\ReportPDF\bin\Release\Common.Logging.Core.xml
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.3\WebReportAMG\ReportPDF\bin\Release\itext.barcodes.xml
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.3\WebReportAMG\ReportPDF\bin\Release\itext.forms.xml
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.3\WebReportAMG\ReportPDF\bin\Release\itext.html2pdf.xml
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.3\WebReportAMG\ReportPDF\bin\Release\itext.io.xml
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.3\WebReportAMG\ReportPDF\bin\Release\itext.kernel.xml
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.3\WebReportAMG\ReportPDF\bin\Release\itext.layout.xml
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.3\WebReportAMG\ReportPDF\bin\Release\itext.pdfa.xml
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.3\WebReportAMG\ReportPDF\bin\Release\itext.sign.xml
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.3\WebReportAMG\ReportPDF\bin\Release\itext.styledxmlparser.xml
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.3\WebReportAMG\ReportPDF\bin\Release\itext.svg.xml
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.3\WebReportAMG\ReportPDF\obj\Release\ReportPDF.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.3\WebReportAMG\ReportPDF\obj\Release\ReportPDF.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.3\WebReportAMG\ReportPDF\obj\Release\ReportPDF.csproj.CopyComplete
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.3\WebReportAMG\ReportPDF\obj\Release\ReportPDF.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.3\WebReportAMG\ReportPDF\obj\Release\ReportPDF.pdb
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.4\WebReportAMG\ReportPDF\bin\Release\ReportPDF.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.4\WebReportAMG\ReportPDF\bin\Release\ReportPDF.pdb
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.4\WebReportAMG\ReportPDF\bin\Release\BouncyCastle.Crypto.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.4\WebReportAMG\ReportPDF\bin\Release\Common.Logging.Core.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.4\WebReportAMG\ReportPDF\bin\Release\Common.Logging.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.4\WebReportAMG\ReportPDF\bin\Release\itext.barcodes.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.4\WebReportAMG\ReportPDF\bin\Release\itext.forms.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.4\WebReportAMG\ReportPDF\bin\Release\itext.html2pdf.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.4\WebReportAMG\ReportPDF\bin\Release\itext.io.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.4\WebReportAMG\ReportPDF\bin\Release\itext.kernel.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.4\WebReportAMG\ReportPDF\bin\Release\itext.layout.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.4\WebReportAMG\ReportPDF\bin\Release\itext.pdfa.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.4\WebReportAMG\ReportPDF\bin\Release\itext.sign.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.4\WebReportAMG\ReportPDF\bin\Release\itext.styledxmlparser.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.4\WebReportAMG\ReportPDF\bin\Release\itext.svg.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.4\WebReportAMG\ReportPDF\bin\Release\BouncyCastle.Crypto.xml
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.4\WebReportAMG\ReportPDF\bin\Release\Common.Logging.pdb
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.4\WebReportAMG\ReportPDF\bin\Release\Common.Logging.xml
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.4\WebReportAMG\ReportPDF\bin\Release\Common.Logging.Core.pdb
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.4\WebReportAMG\ReportPDF\bin\Release\Common.Logging.Core.xml
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.4\WebReportAMG\ReportPDF\bin\Release\itext.barcodes.xml
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.4\WebReportAMG\ReportPDF\bin\Release\itext.forms.xml
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.4\WebReportAMG\ReportPDF\bin\Release\itext.html2pdf.xml
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.4\WebReportAMG\ReportPDF\bin\Release\itext.io.xml
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.4\WebReportAMG\ReportPDF\bin\Release\itext.kernel.xml
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.4\WebReportAMG\ReportPDF\bin\Release\itext.layout.xml
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.4\WebReportAMG\ReportPDF\bin\Release\itext.pdfa.xml
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.4\WebReportAMG\ReportPDF\bin\Release\itext.sign.xml
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.4\WebReportAMG\ReportPDF\bin\Release\itext.styledxmlparser.xml
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.4\WebReportAMG\ReportPDF\bin\Release\itext.svg.xml
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.4\WebReportAMG\ReportPDF\obj\Release\ReportPDF.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.4\WebReportAMG\ReportPDF\obj\Release\ReportPDF.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.4\WebReportAMG\ReportPDF\obj\Release\ReportPDF.csproj.CopyComplete
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.4\WebReportAMG\ReportPDF\obj\Release\ReportPDF.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.4\WebReportAMG\ReportPDF\obj\Release\ReportPDF.pdb
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.5\WebReportAMG\ReportPDF\bin\Release\ReportPDF.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.5\WebReportAMG\ReportPDF\bin\Release\ReportPDF.pdb
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.5\WebReportAMG\ReportPDF\bin\Release\BouncyCastle.Crypto.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.5\WebReportAMG\ReportPDF\bin\Release\Common.Logging.Core.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.5\WebReportAMG\ReportPDF\bin\Release\Common.Logging.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.5\WebReportAMG\ReportPDF\bin\Release\itext.barcodes.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.5\WebReportAMG\ReportPDF\bin\Release\itext.forms.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.5\WebReportAMG\ReportPDF\bin\Release\itext.html2pdf.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.5\WebReportAMG\ReportPDF\bin\Release\itext.io.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.5\WebReportAMG\ReportPDF\bin\Release\itext.kernel.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.5\WebReportAMG\ReportPDF\bin\Release\itext.layout.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.5\WebReportAMG\ReportPDF\bin\Release\itext.pdfa.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.5\WebReportAMG\ReportPDF\bin\Release\itext.sign.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.5\WebReportAMG\ReportPDF\bin\Release\itext.styledxmlparser.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.5\WebReportAMG\ReportPDF\bin\Release\itext.svg.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.5\WebReportAMG\ReportPDF\bin\Release\BouncyCastle.Crypto.xml
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.5\WebReportAMG\ReportPDF\bin\Release\Common.Logging.pdb
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.5\WebReportAMG\ReportPDF\bin\Release\Common.Logging.xml
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.5\WebReportAMG\ReportPDF\bin\Release\Common.Logging.Core.pdb
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.5\WebReportAMG\ReportPDF\bin\Release\Common.Logging.Core.xml
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.5\WebReportAMG\ReportPDF\bin\Release\itext.barcodes.xml
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.5\WebReportAMG\ReportPDF\bin\Release\itext.forms.xml
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.5\WebReportAMG\ReportPDF\bin\Release\itext.html2pdf.xml
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.5\WebReportAMG\ReportPDF\bin\Release\itext.io.xml
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.5\WebReportAMG\ReportPDF\bin\Release\itext.kernel.xml
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.5\WebReportAMG\ReportPDF\bin\Release\itext.layout.xml
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.5\WebReportAMG\ReportPDF\bin\Release\itext.pdfa.xml
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.5\WebReportAMG\ReportPDF\bin\Release\itext.sign.xml
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.5\WebReportAMG\ReportPDF\bin\Release\itext.styledxmlparser.xml
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.5\WebReportAMG\ReportPDF\bin\Release\itext.svg.xml
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.5\WebReportAMG\ReportPDF\obj\Release\ReportPDF.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.5\WebReportAMG\ReportPDF\obj\Release\ReportPDF.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.5\WebReportAMG\ReportPDF\obj\Release\ReportPDF.csproj.CopyComplete
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.5\WebReportAMG\ReportPDF\obj\Release\ReportPDF.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.5\WebReportAMG\ReportPDF\obj\Release\ReportPDF.pdb
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\ReportPDF\bin\Release\ReportPDF.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\ReportPDF\bin\Release\ReportPDF.pdb
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\ReportPDF\bin\Release\BouncyCastle.Crypto.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\ReportPDF\bin\Release\Common.Logging.Core.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\ReportPDF\bin\Release\Common.Logging.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\ReportPDF\bin\Release\DocumentFormat.OpenXml.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\ReportPDF\bin\Release\ExcelNumberFormat.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\ReportPDF\bin\Release\Glimpse.Core.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\ReportPDF\bin\Release\itext.barcodes.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\ReportPDF\bin\Release\itext.forms.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\ReportPDF\bin\Release\itext.html2pdf.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\ReportPDF\bin\Release\itext.io.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\ReportPDF\bin\Release\itext.kernel.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\ReportPDF\bin\Release\itext.layout.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\ReportPDF\bin\Release\itext.pdfa.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\ReportPDF\bin\Release\itext.sign.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\ReportPDF\bin\Release\itext.styledxmlparser.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\ReportPDF\bin\Release\itext.svg.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\ReportPDF\bin\Release\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\ReportPDF\bin\Release\Newtonsoft.Json.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\ReportPDF\bin\Release\Newtonsoft.Json.Glimpse.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\ReportPDF\bin\Release\System.Buffers.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\ReportPDF\bin\Release\System.Memory.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\ReportPDF\bin\Release\System.Numerics.Vectors.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\ReportPDF\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\ReportPDF\bin\Release\BouncyCastle.Crypto.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\ReportPDF\bin\Release\Common.Logging.pdb
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\ReportPDF\bin\Release\Common.Logging.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\ReportPDF\bin\Release\Common.Logging.Core.pdb
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\ReportPDF\bin\Release\Common.Logging.Core.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\ReportPDF\bin\Release\DocumentFormat.OpenXml.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\ReportPDF\bin\Release\ExcelNumberFormat.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\ReportPDF\bin\Release\itext.barcodes.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\ReportPDF\bin\Release\itext.forms.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\ReportPDF\bin\Release\itext.html2pdf.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\ReportPDF\bin\Release\itext.io.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\ReportPDF\bin\Release\itext.kernel.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\ReportPDF\bin\Release\itext.layout.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\ReportPDF\bin\Release\itext.pdfa.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\ReportPDF\bin\Release\itext.sign.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\ReportPDF\bin\Release\itext.styledxmlparser.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\ReportPDF\bin\Release\itext.svg.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\ReportPDF\bin\Release\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\ReportPDF\bin\Release\Newtonsoft.Json.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\ReportPDF\bin\Release\Newtonsoft.Json.Glimpse.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\ReportPDF\bin\Release\System.Buffers.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\ReportPDF\bin\Release\System.Memory.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\ReportPDF\bin\Release\System.Numerics.Vectors.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\ReportPDF\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\ReportPDF\obj\Release\ReportPDF.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\ReportPDF\obj\Release\ReportPDF.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\ReportPDF\obj\Release\ReportPDF.csproj.CopyComplete
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\ReportPDF\obj\Release\ReportPDF.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.9\WebReportMWM\ReportPDF\obj\Release\ReportPDF.pdb
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\ReportPDF\bin\Release\ReportPDF.dll
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\ReportPDF\bin\Release\ReportPDF.pdb
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\ReportPDF\bin\Release\BouncyCastle.Crypto.dll
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\ReportPDF\bin\Release\Common.Logging.Core.dll
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\ReportPDF\bin\Release\Common.Logging.dll
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\ReportPDF\bin\Release\DocumentFormat.OpenXml.dll
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\ReportPDF\bin\Release\ExcelNumberFormat.dll
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\ReportPDF\bin\Release\Glimpse.Core.dll
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\ReportPDF\bin\Release\itext.barcodes.dll
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\ReportPDF\bin\Release\itext.forms.dll
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\ReportPDF\bin\Release\itext.html2pdf.dll
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\ReportPDF\bin\Release\itext.io.dll
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\ReportPDF\bin\Release\itext.kernel.dll
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\ReportPDF\bin\Release\itext.layout.dll
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\ReportPDF\bin\Release\itext.pdfa.dll
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\ReportPDF\bin\Release\itext.sign.dll
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\ReportPDF\bin\Release\itext.styledxmlparser.dll
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\ReportPDF\bin\Release\itext.svg.dll
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\ReportPDF\bin\Release\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\ReportPDF\bin\Release\Newtonsoft.Json.dll
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\ReportPDF\bin\Release\Newtonsoft.Json.Glimpse.dll
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\ReportPDF\bin\Release\System.Buffers.dll
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\ReportPDF\bin\Release\System.Memory.dll
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\ReportPDF\bin\Release\System.Numerics.Vectors.dll
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\ReportPDF\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\ReportPDF\bin\Release\BouncyCastle.Crypto.xml
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\ReportPDF\bin\Release\Common.Logging.pdb
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\ReportPDF\bin\Release\Common.Logging.xml
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\ReportPDF\bin\Release\Common.Logging.Core.pdb
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\ReportPDF\bin\Release\Common.Logging.Core.xml
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\ReportPDF\bin\Release\DocumentFormat.OpenXml.xml
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\ReportPDF\bin\Release\ExcelNumberFormat.xml
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\ReportPDF\bin\Release\itext.barcodes.xml
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\ReportPDF\bin\Release\itext.forms.xml
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\ReportPDF\bin\Release\itext.html2pdf.xml
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\ReportPDF\bin\Release\itext.io.xml
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\ReportPDF\bin\Release\itext.kernel.xml
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\ReportPDF\bin\Release\itext.layout.xml
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\ReportPDF\bin\Release\itext.pdfa.xml
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\ReportPDF\bin\Release\itext.sign.xml
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\ReportPDF\bin\Release\itext.styledxmlparser.xml
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\ReportPDF\bin\Release\itext.svg.xml
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\ReportPDF\bin\Release\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\ReportPDF\bin\Release\Newtonsoft.Json.xml
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\ReportPDF\bin\Release\Newtonsoft.Json.Glimpse.xml
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\ReportPDF\bin\Release\System.Buffers.xml
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\ReportPDF\bin\Release\System.Memory.xml
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\ReportPDF\bin\Release\System.Numerics.Vectors.xml
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\ReportPDF\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\ReportPDF\obj\Release\ReportPDF.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\ReportPDF\obj\Release\ReportPDF.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\ReportPDF\obj\Release\ReportPDF.csproj.Up2Date
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\ReportPDF\obj\Release\ReportPDF.dll
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\ReportPDF\obj\Release\ReportPDF.pdb

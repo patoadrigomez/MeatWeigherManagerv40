@@ -1,0 +1,254 @@
+﻿@model IEnumerable<WebReportMWM.Models.Entitys.StockInsumo>
+@using WebReportMWM.HelperMethodsRepository;
+@{
+    ViewBag.Title = "List";
+}
+
+@{ WebGrid webGrid = new WebGrid(source: Model, canPage: false, canSort: false);
+
+    string IdRowSelect = ViewBag.IdRowSelect == null ? "0" : ((int)ViewBag.IdRowSelect).ToString();
+}
+
+<h2>Insumos en Stock</h2>
+
+<p style="float:right;">
+    <button type="button" class="btn btn-default btn-sm" id="UpdateAll" style="margin-left:8px;">
+        <span class="glyphicon glyphicon-save" aria-hidden="true" style="color: green;"></span> Actualizar Todo
+    </button>
+    <br />
+</p>
+<br />
+
+@webGrid.GetHtml(htmlAttributes: new { @id = "WebGrid", @class = "Grid" },
+                tableStyle: "table table-bordered",
+                fillEmptyRows: false,
+                alternatingRowStyle: "alt",
+                headerStyle: "webgrid-header",
+                columns: webGrid.Columns(
+webGrid.Column(columnName: "Id", header: "ID", style: "Id", format:@<span><span class="label" id="Id">@item.Id</span></span>),
+webGrid.Column(columnName: "Insumo", header:"INSUMO", format:@<span><span class="label" style="width: 500px; display: inline-block; text-align:left;"  id="Insumo">@item.Insumo</span></span>),
+webGrid.Column(columnName: "Unds", header: "", style: "col-Unidades", format:@<span><span class="label" id="Unidades">@item.Unds</span></span>),
+webGrid.Column(columnName: "Unds", header: "UNIDADES", style: "col-Ajustar",
+format: @<span>
+            <span class="label" id="label-Unidades"> @String.Format("{0:0.00}", item.Unds)</span>
+            <input class="text" id="edited-Unidades" type="number" value="@String.Format("{0:0.00}", item.Unds)" style="font-size: 10px; border-radius: 4px; background-color: #f8f8f8; display: none;" />
+        </span>),
+webGrid.Column(format:@<span class="link">
+                    <a class="glyphicon glyphicon-pencil" id="Edit" title="Ajustar Stock" href="javascript:;"></a>
+                    <a class="glyphicon glyphicon-retweet" id="Cancel" href="javascript:;" style="display:none;color:red" title="Cancelar Cambios"></a>
+                    <a class="glyphicon glyphicon-save" style="color:green;display:none;" id="Update" title="Ajustar" href="javascript:;"></a>
+                </span>)))
+
+<style type="text/css">
+    .webgrid-header th {
+        padding: 6px 5px;
+        text-align: center;
+        background-color: #e8eef4;
+        border-bottom: 2px solid #3966A2;
+        height: 40px;
+        font-weight: bold;
+        border-top: 2px solid #D6E8FF;
+        border-left: 2px solid #D6E8FF;
+        border-right: 2px solid #D6E8FF;
+    }
+
+    .alt {
+        background-color: #FBFBFB;
+        color: #000;
+    }
+
+    .label {
+        color: #000;
+        font-weight: normal;
+    }
+
+    .selectedrow {
+        background-color: gold;
+    }
+
+    .colunidades,
+    .collinkajustar {
+        width: 8%;
+        text-align: center;
+    }
+
+    #edited-Unidades {
+        font-size: 10px;
+        border-radius: 4px;
+        background-color: #f8f8f8;
+    }
+</style>
+
+@Scripts.Render("~/Plugins/tools.js")
+<script type="text/javascript" src="~/Scripts/jquery-3.4.1.min.js"></script>
+<script type="text/javascript">
+
+    //Al iniciar la carga del documento selecciono el registro especificado por su valor de Id
+    //Tambien pongo al registro visible controlando el scroll.
+    $(document).ready(function () {
+        $('#WebGrid tr').each(function () {
+            var Id = $(this).find(".Id").html();
+            if (Id == @IdRowSelect)
+            {
+                $(this).click();
+                $(document).scrollTop($(this).position().top);
+            }
+        });
+        //oculto columna ID
+        $("#WebGrid th:nth-child(1),td:nth-child(1)").hide();
+        $("#WebGrid th:nth-child(3),td:nth-child(3)").hide();
+    });
+
+    $("body").on("click", "#WebGrid tr", function () {
+        $("#WebGrid").find("td").removeClass("selectedrow");
+        $(this).find("td").addClass("selectedrow");
+    });
+
+    //Edit event handler.
+    //Pone a la celda editable en modo Input
+    $("body").on("click", "#WebGrid TBODY #Edit", function () {
+        var row = $(this).closest("tr");
+        $("td", row).each(function () {
+            $(this).find(".label").hide();
+            $(this).find(".text").show();
+            $(this).find("#Insumo").show();
+        });
+        row.find("#Cancel").show();
+        row.find("#Update").show();
+        $(this).hide();
+    });
+
+    //Cancel event handler.
+    $("body").on("click", "#WebGrid TBODY #Cancel", function () {
+        var row = $(this).closest("tr");
+
+        $("td", row).each(function () {
+
+            var label = $(this).find(".label");
+            var input = $(this).find(".text");
+            input.val(label.text());
+            label.show();
+            input.hide();
+        });
+        row.find("#Edit").show();
+        row.find("#Update").hide();
+        $(this).hide();
+    });
+
+    $("body").on("click", "#WebGrid TBODY #Update", function () {
+        var row = $(this).closest("tr");
+
+        var StockInsumo = getProductoForRow(row);
+        if (!StockInsumo) return;
+
+
+         $.ajax({
+            type: "POST",
+            url: "@Url.Action("Ajustar", "CrudMovInsumos")",
+            data: JSON.stringify(StockInsumo),
+            contentType: "application/json; charset=utf-8",
+            success: function (response) {
+                if (response.Success) {
+                    $("td", row).each(function () {
+                        var label = $(this).find(".label");
+                        var input = $(this).find(".text");
+                        label.html(input.val());
+                        label.show();
+                        input.hide();
+                    });
+                    row.find("#Edit").show();
+                    row.find("#Cancel").hide();
+                    row.find("#Update").hide();
+                    $(this).hide();
+                    alertMB("Se han actualizado los stocks", "Ajuste Stock Insumos");
+                } else {
+                    alertMB(response.error, "Ajuste Stock Insumos");
+                }
+            },
+            failure: function (response) {
+                alert(response.d);
+            }
+        });
+
+    });
+
+
+    /**************************************************************
+     * Evento clic boton Actualizar todo.
+     *************************************************************/
+    $("body").on("click", "#UpdateAll", function () {
+      
+        $("#WebGrid tbody tr").each(function () {
+            var input = $(this).find("#edited-Unidades");
+            if (input.is(":visible")) {
+                AjustarStockInsumo($(this));
+            }
+        });
+    });
+
+    function AjustarStockInsumo(row)
+    {
+        var StockInsumo = getProductoForRow(row);
+        if (!StockInsumo) return;
+        $.ajax({
+            type: "POST",
+            url: "@Url.Action("Ajustar", "CrudMovInsumos")",
+            data: JSON.stringify(StockInsumo),
+            contentType: "application/json; charset=utf-8",
+            success: function (response) {
+                if (response.Success) {
+                    $("td", row).each(function () {
+                        var label = $(this).find(".label");
+                        var input = $(this).find(".text");
+                        label.html(input.val());
+                        label.show();
+                        input.hide();
+                    });
+                    row.find("#Edit").show();
+                    row.find("#Cancel").hide();
+                    row.find("#Update").hide();
+                    $(this).hide();
+                } else {
+                    alertMB(response.error, "Ajuste Stock Insumos");
+                }
+            },
+            failure: function (response) {
+                alert(response.d);
+            }
+        });
+    }
+
+    /*Crea el objeto StockInsumo con los datos de la fila pasada como parámetro. 
+     * En caso que el valor ingresado para ajustar sea inválido, devuelve dalse*/
+
+    function getProductoForRow(row) {
+
+        var StockInsumo = {};
+
+        StockInsumo["Id"] = row.find(".Id").find("#Id").html();
+        StockInsumo["Insumo"] = row.find(".Insumo").find("#Insumo").html();
+        StockInsumo["Unds"] = row.find(".col-Unidades").find("#Unidades").html();
+        var ajustar = row.find(".col-Ajustar").find("#edited-Unidades").val().replace('.', ',');
+        //Valido que el input del usuario en el número a ajustar sea válido
+        if (isNaN(ajustar.replace(',', '.')) || ajustar == "") {
+            alertMB("El número a ajustar en " + StockInsumo.Insumo + " es incorrecto", "Validación de Ajuste");
+            $("td", row).each(function () {
+
+                var label = $(this).find(".label");
+                var input = $(this).find(".text");
+                input.val(label.text());
+                label.show();
+                input.hide();
+            });
+            row.find("#Edit").show();
+            row.find("#Update").hide();
+            row.find("#Cancel").hide();
+            return false;
+        }
+        StockInsumo["Ajustar"] = ajustar;
+
+        return StockInsumo;
+    }
+
+</script>
+

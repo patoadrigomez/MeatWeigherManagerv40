@@ -1,0 +1,12 @@
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\PdfStampaGridsReport\bin\Debug\PdfStampaGridsReport.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\PdfStampaGridsReport\bin\Debug\PdfStampaGridsReport.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\PdfStampaGridsReport\bin\Debug\PdfStampa.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\PdfStampaGridsReport\bin\Debug\Stampa.DLL
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\PdfStampaGridsReport\bin\Debug\StatusProgressBar.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\PdfStampaGridsReport\bin\Debug\PdfStampa.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\PdfStampaGridsReport\bin\Debug\StatusProgressBar.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\PdfStampaGridsReport\obj\Debug\PdfStampaGridsReport.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\PdfStampaGridsReport\obj\Debug\PdfStampaGridsReport.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\PdfStampaGridsReport\obj\Debug\PdfStampaGridsReport.csproj.CopyComplete
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\PdfStampaGridsReport\obj\Debug\PdfStampaGridsReport.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\PdfStampaGridsReport\obj\Debug\PdfStampaGridsReport.pdb

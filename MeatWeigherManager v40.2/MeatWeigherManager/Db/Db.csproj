@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{47EBA4E5-4FE2-4702-8150-C428FBC926B7}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Db</RootNamespace>
+    <AssemblyName>Db</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CDb.Egresos.cs" />
+    <Compile Include="CDb.Fraccionamiento.cs" />
+    <Compile Include="CDb.Inventario.cs" />
+    <Compile Include="CDb.IP.cs" />
+    <Compile Include="CDb.OI.cs" />
+    <Compile Include="CDb.PC.cs" />
+    <Compile Include="CDb.PEP.cs" />
+    <Compile Include="CDb.MOVINSUMOS.cs" />
+    <Compile Include="CDb.RCOMBOS.cs" />
+    <Compile Include="Entities\Bulto.cs" />
+    <Compile Include="Entities\BultosTransferidos.cs" />
+    <Compile Include="Entities\BultoTransferido.cs" />
+    <Compile Include="Entities\CAcumulado.cs" />
+    <Compile Include="Entities\CClienteSAC.cs" />
+    <Compile Include="Entities\CContenedor.cs" />
+    <Compile Include="Entities\CDbException.cs" />
+    <Compile Include="Entities\CEtiqueta.cs" />
+    <Compile Include="Entities\CTropa.cs" />
+    <Compile Include="Entities\Tipificacion.cs" />
+    <Compile Include="Entities\CDestino.cs" />
+    <Compile Include="Entities\CItemCBoxProducto.cs" />
+    <Compile Include="Entities\CItemCBoxTable.cs" />
+    <Compile Include="Entities\CItemIdTextCBoxTable.cs" />
+    <Compile Include="Entities\CItemInsumoPedido.cs" />
+    <Compile Include="Entities\CItemInsumoProducto.cs" />
+    <Compile Include="Entities\CItemInsumoProductoEnProceso.cs" />
+    <Compile Include="Entities\CItemProductoCombo.cs" />
+    <Compile Include="Entities\COi.cs" />
+    <Compile Include="Entities\COperador.cs" />
+    <Compile Include="Entities\CPedido.cs" />
+    <Compile Include="Entities\CPEgreso.cs" />
+    <Compile Include="Entities\CPesada.cs" />
+    <Compile Include="Entities\CPIP.cs" />
+    <Compile Include="Entities\CProducto.cs" />
+    <Compile Include="Entities\CProductoSAC.cs" />
+    <Compile Include="Entities\CProveedorSAC.cs" />
+    <Compile Include="Entities\CResultInventario.cs" />
+    <Compile Include="Entities\CSector.cs" />
+    <Compile Include="Entities\CTipoProducto.cs" />
+    <Compile Include="Entities\CTotalesBultos.cs" />
+    <Compile Include="Db.cs" />
+    <Compile Include="Entities\IngresoConPesoEditado.cs" />
+    <Compile Include="Entities\TipoBulto.cs" />
+    <Compile Include="Entities\TYPE_EVENT_DBLOG.cs" />
+    <Compile Include="Entities\TYPE_MOV_INSUMO.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Entities\STATUS_PEDIDO.cs" />
+    <Compile Include="Entities\TYPE_OPERATOR.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Extensions\Extensions.csproj">
+      <Project>{5924d211-6193-434d-b224-7fcfa2f528e1}</Project>
+      <Name>Extensions</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ListViewItemExt\ListViewItemExt.csproj">
+      <Project>{B28FF67F-03A6-49AF-8B7F-90CA1468B290}</Project>
+      <Name>ListViewItemExt</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,329 @@
+C:\Desarrollo\Torres\Botonera\Dashboard\bin\Debug\TW.Dashboard.dll
+C:\Desarrollo\Torres\Botonera\Dashboard\bin\Debug\TW.Dashboard.pdb
+C:\Desarrollo\Torres\Botonera\Dashboard\obj\Debug\ResolveAssemblyReference.cache
+C:\Desarrollo\Torres\Botonera\Dashboard\obj\Debug\TW.Dashboard.DashboardControl.resources
+C:\Desarrollo\Torres\Botonera\Dashboard\obj\Debug\TW.Dashboard.Properties.Resources.resources
+C:\Desarrollo\Torres\Botonera\Dashboard\obj\Debug\TW.Dashboard.Resource.resources
+C:\Desarrollo\Torres\Botonera\Dashboard\obj\Debug\ResGen.read.1.tlog
+C:\Desarrollo\Torres\Botonera\Dashboard\obj\Debug\ResGen.write.1.tlog
+C:\Desarrollo\Torres\Botonera\Dashboard\obj\Debug\TW.Dashboard.dll
+C:\Desarrollo\Torres\Botonera\Dashboard\obj\Debug\TW.Dashboard.pdb
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\EtReg_40WNet\EtReg_40WNet\Dashboard\bin\Debug\TW.Dashboard.dll
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\EtReg_40WNet\EtReg_40WNet\Dashboard\bin\Debug\TW.Dashboard.pdb
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\EtReg_40WNet\EtReg_40WNet\Dashboard\obj\Debug\TW.Dashboard.DashboardControl.resources
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\EtReg_40WNet\EtReg_40WNet\Dashboard\obj\Debug\TW.Dashboard.Properties.Resources.resources
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\EtReg_40WNet\EtReg_40WNet\Dashboard\obj\Debug\TW.Dashboard.Resource.resources
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\EtReg_40WNet\EtReg_40WNet\Dashboard\obj\Debug\Dashboard.csproj.GenerateResource.Cache
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\EtReg_40WNet\EtReg_40WNet\Dashboard\obj\Debug\TW.Dashboard.dll
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\EtReg_40WNet\EtReg_40WNet\Dashboard\obj\Debug\TW.Dashboard.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtReg_40WNet\EtReg_40WNet\Dashboard\bin\Debug\TW.Dashboard.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtReg_40WNet\EtReg_40WNet\Dashboard\bin\Debug\TW.Dashboard.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtReg_40WNet\EtReg_40WNet\Dashboard\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtReg_40WNet\EtReg_40WNet\Dashboard\obj\Debug\TW.Dashboard.DashboardControl.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtReg_40WNet\EtReg_40WNet\Dashboard\obj\Debug\TW.Dashboard.Properties.Resources.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtReg_40WNet\EtReg_40WNet\Dashboard\obj\Debug\TW.Dashboard.Resource.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtReg_40WNet\EtReg_40WNet\Dashboard\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtReg_40WNet\EtReg_40WNet\Dashboard\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtReg_40WNet\EtReg_40WNet\Dashboard\obj\Debug\TW.Dashboard.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtReg_40WNet\EtReg_40WNet\Dashboard\obj\Debug\TW.Dashboard.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtReg_40WNet v1.4\EtReg_40WNet\Dashboard\bin\Debug\TW.Dashboard.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtReg_40WNet v1.4\EtReg_40WNet\Dashboard\bin\Debug\TW.Dashboard.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtReg_40WNet v1.4\EtReg_40WNet\Dashboard\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtReg_40WNet v1.4\EtReg_40WNet\Dashboard\obj\Debug\TW.Dashboard.DashboardControl.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtReg_40WNet v1.4\EtReg_40WNet\Dashboard\obj\Debug\TW.Dashboard.Properties.Resources.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtReg_40WNet v1.4\EtReg_40WNet\Dashboard\obj\Debug\TW.Dashboard.Resource.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtReg_40WNet v1.4\EtReg_40WNet\Dashboard\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtReg_40WNet v1.4\EtReg_40WNet\Dashboard\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtReg_40WNet v1.4\EtReg_40WNet\Dashboard\obj\Debug\TW.Dashboard.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtReg_40WNet v1.4\EtReg_40WNet\Dashboard\obj\Debug\TW.Dashboard.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.0\MeatWeigherManager\Dashboard\bin\Debug\TW.Dashboard.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.0\MeatWeigherManager\Dashboard\bin\Debug\TW.Dashboard.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.0\MeatWeigherManager\Dashboard\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.0\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.DashboardControl.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.0\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.Properties.Resources.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.0\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.Resource.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.0\MeatWeigherManager\Dashboard\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.0\MeatWeigherManager\Dashboard\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.0\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.0\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\Dashboard\bin\Debug\TW.Dashboard.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\Dashboard\bin\Debug\TW.Dashboard.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\Dashboard\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.DashboardControl.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.Properties.Resources.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.Resource.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\Dashboard\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\Dashboard\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\Dashboard\bin\Debug\TW.Dashboard.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\Dashboard\bin\Debug\TW.Dashboard.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\Dashboard\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.DashboardControl.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.Properties.Resources.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.Resource.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\Dashboard\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\Dashboard\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\Dashboard\bin\Debug\TW.Dashboard.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\Dashboard\bin\Debug\TW.Dashboard.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\Dashboard\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.DashboardControl.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.Properties.Resources.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.Resource.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\Dashboard\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\Dashboard\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\Dashboard\bin\Debug\TW.Dashboard.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\Dashboard\bin\Debug\TW.Dashboard.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\Dashboard\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.DashboardControl.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.Properties.Resources.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.Resource.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\Dashboard\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\Dashboard\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.pdb
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.0\MeatWeigherManager\Dashboard\bin\Debug\TW.Dashboard.dll
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.0\MeatWeigherManager\Dashboard\bin\Debug\TW.Dashboard.pdb
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.0\MeatWeigherManager\Dashboard\obj\Debug\Dashboard.csprojResolveAssemblyReference.cache
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.0\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.DashboardControl.resources
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.0\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.Properties.Resources.resources
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.0\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.Resource.resources
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.0\MeatWeigherManager\Dashboard\obj\Debug\Dashboard.csproj.GenerateResource.cache
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.0\MeatWeigherManager\Dashboard\obj\Debug\Dashboard.csproj.CoreCompileInputs.cache
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.0\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.dll
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.0\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.pdb
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.2\MeatWeigherManager\Dashboard\bin\Debug\TW.Dashboard.dll
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.2\MeatWeigherManager\Dashboard\bin\Debug\TW.Dashboard.pdb
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.2\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.DashboardControl.resources
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.2\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.Properties.Resources.resources
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.2\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.Resource.resources
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.2\MeatWeigherManager\Dashboard\obj\Debug\Dashboard.csproj.GenerateResource.cache
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.2\MeatWeigherManager\Dashboard\obj\Debug\Dashboard.csproj.CoreCompileInputs.cache
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.2\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.dll
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.2\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\Dashboard\bin\Debug\TW.Dashboard.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\Dashboard\bin\Debug\TW.Dashboard.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.DashboardControl.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.Resource.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\Dashboard\obj\Debug\Dashboard.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\Dashboard\obj\Debug\Dashboard.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\Dashboard\obj\Debug\Dashboard.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\Dashboard\bin\Debug\TW.Dashboard.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\Dashboard\bin\Debug\TW.Dashboard.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\Dashboard\obj\Debug\Dashboard.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.DashboardControl.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.Resource.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\Dashboard\obj\Debug\Dashboard.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\Dashboard\obj\Debug\Dashboard.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\Dashboard\bin\Debug\TW.Dashboard.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\Dashboard\bin\Debug\TW.Dashboard.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\Dashboard\obj\Debug\Dashboard.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.DashboardControl.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.Resource.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\Dashboard\obj\Debug\Dashboard.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\Dashboard\obj\Debug\Dashboard.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\Dashboard\bin\Debug\TW.Dashboard.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\Dashboard\bin\Debug\TW.Dashboard.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\Dashboard\obj\Debug\Dashboard.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.DashboardControl.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.Resource.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\Dashboard\obj\Debug\Dashboard.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\Dashboard\obj\Debug\Dashboard.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\Dashboard\bin\Debug\TW.Dashboard.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\Dashboard\bin\Debug\TW.Dashboard.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\Dashboard\obj\Debug\Dashboard.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.DashboardControl.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.Resource.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\Dashboard\obj\Debug\Dashboard.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\Dashboard\obj\Debug\Dashboard.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.1\MeatWeigherManager\Dashboard\bin\Debug\TW.Dashboard.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.1\MeatWeigherManager\Dashboard\bin\Debug\TW.Dashboard.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.1\MeatWeigherManager\Dashboard\obj\Debug\Dashboard.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.1\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.DashboardControl.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.1\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.1\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.Resource.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.1\MeatWeigherManager\Dashboard\obj\Debug\Dashboard.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.1\MeatWeigherManager\Dashboard\obj\Debug\Dashboard.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.1\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.1\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\Dashboard\bin\Debug\TW.Dashboard.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\Dashboard\bin\Debug\TW.Dashboard.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.DashboardControl.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.Resource.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\Dashboard\obj\Debug\Dashboard.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\Dashboard\obj\Debug\Dashboard.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\Dashboard\obj\Debug\Dashboard.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.3\MeatWeigherManager\Dashboard\bin\Debug\TW.Dashboard.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.3\MeatWeigherManager\Dashboard\bin\Debug\TW.Dashboard.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.3\MeatWeigherManager\Dashboard\obj\Debug\Dashboard.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.3\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.DashboardControl.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.3\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.3\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.Resource.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.3\MeatWeigherManager\Dashboard\obj\Debug\Dashboard.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.3\MeatWeigherManager\Dashboard\obj\Debug\Dashboard.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.3\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.3\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.4\MeatWeigherManager\Dashboard\bin\Debug\TW.Dashboard.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.4\MeatWeigherManager\Dashboard\bin\Debug\TW.Dashboard.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.4\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.DashboardControl.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.4\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.4\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.Resource.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.4\MeatWeigherManager\Dashboard\obj\Debug\Dashboard.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.4\MeatWeigherManager\Dashboard\obj\Debug\Dashboard.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.4\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.4\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.4\MeatWeigherManager\Dashboard\obj\Debug\Dashboard.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.0\MeatWeigherManager\Dashboard\bin\Debug\TW.Dashboard.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.0\MeatWeigherManager\Dashboard\bin\Debug\TW.Dashboard.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.0\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.DashboardControl.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.0\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.0\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.Resource.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.0\MeatWeigherManager\Dashboard\obj\Debug\Dashboard.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.0\MeatWeigherManager\Dashboard\obj\Debug\Dashboard.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.0\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.0\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.0\MeatWeigherManager\Dashboard\obj\Debug\Dashboard.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.2\MeatWeigherManager\Dashboard\bin\Debug\TW.Dashboard.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.2\MeatWeigherManager\Dashboard\bin\Debug\TW.Dashboard.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.2\MeatWeigherManager\Dashboard\obj\Debug\Dashboard.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.2\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.DashboardControl.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.2\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.2\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.Resource.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.2\MeatWeigherManager\Dashboard\obj\Debug\Dashboard.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.2\MeatWeigherManager\Dashboard\obj\Debug\Dashboard.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.2\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.2\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.3\MeatWeigherManager\Dashboard\bin\Debug\TW.Dashboard.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.3\MeatWeigherManager\Dashboard\bin\Debug\TW.Dashboard.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.3\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.DashboardControl.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.3\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.3\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.Resource.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.3\MeatWeigherManager\Dashboard\obj\Debug\Dashboard.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.3\MeatWeigherManager\Dashboard\obj\Debug\Dashboard.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.3\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.3\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.7\MeatWeigherManager\Dashboard\bin\Debug\TW.Dashboard.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.7\MeatWeigherManager\Dashboard\bin\Debug\TW.Dashboard.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.7\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.DashboardControl.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.7\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.7\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.Resource.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.7\MeatWeigherManager\Dashboard\obj\Debug\Dashboard.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.7\MeatWeigherManager\Dashboard\obj\Debug\Dashboard.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.7\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.7\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.8\MeatWeigherManager\Dashboard\bin\Debug\TW.Dashboard.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.8\MeatWeigherManager\Dashboard\bin\Debug\TW.Dashboard.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.8\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.DashboardControl.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.8\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.8\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.Resource.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.8\MeatWeigherManager\Dashboard\obj\Debug\Dashboard.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.8\MeatWeigherManager\Dashboard\obj\Debug\Dashboard.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.8\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.8\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.10\MeatWeigherManager\Dashboard\bin\Debug\TW.Dashboard.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.10\MeatWeigherManager\Dashboard\bin\Debug\TW.Dashboard.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.10\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.DashboardControl.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.10\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.10\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.Resource.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.10\MeatWeigherManager\Dashboard\obj\Debug\Dashboard.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.10\MeatWeigherManager\Dashboard\obj\Debug\Dashboard.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.10\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.10\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.13\MeatWeigherManager\Dashboard\bin\Debug\TW.Dashboard.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.13\MeatWeigherManager\Dashboard\bin\Debug\TW.Dashboard.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.13\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.DashboardControl.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.13\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.13\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.Resource.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.13\MeatWeigherManager\Dashboard\obj\Debug\Dashboard.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.13\MeatWeigherManager\Dashboard\obj\Debug\Dashboard.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.13\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.13\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.14\MeatWeigherManager\Dashboard\bin\Debug\TW.Dashboard.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.14\MeatWeigherManager\Dashboard\bin\Debug\TW.Dashboard.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.14\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.DashboardControl.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.14\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.14\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.Resource.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.14\MeatWeigherManager\Dashboard\obj\Debug\Dashboard.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.14\MeatWeigherManager\Dashboard\obj\Debug\Dashboard.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.14\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.14\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.16\MeatWeigherManager\Dashboard\bin\Debug\TW.Dashboard.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.16\MeatWeigherManager\Dashboard\bin\Debug\TW.Dashboard.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.16\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.DashboardControl.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.16\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.16\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.Resource.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.16\MeatWeigherManager\Dashboard\obj\Debug\Dashboard.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.16\MeatWeigherManager\Dashboard\obj\Debug\Dashboard.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.16\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.16\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.17\MeatWeigherManager\Dashboard\bin\Debug\TW.Dashboard.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.17\MeatWeigherManager\Dashboard\bin\Debug\TW.Dashboard.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.17\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.DashboardControl.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.17\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.17\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.Resource.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.17\MeatWeigherManager\Dashboard\obj\Debug\Dashboard.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.17\MeatWeigherManager\Dashboard\obj\Debug\Dashboard.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.17\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.17\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\Dashboard\bin\Debug\TW.Dashboard.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\Dashboard\bin\Debug\TW.Dashboard.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\Dashboard\obj\Debug\Dashboard.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.DashboardControl.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.Resource.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\Dashboard\obj\Debug\Dashboard.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\Dashboard\obj\Debug\Dashboard.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.21\MeatWeigherManager\Dashboard\bin\Debug\TW.Dashboard.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.21\MeatWeigherManager\Dashboard\bin\Debug\TW.Dashboard.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.21\MeatWeigherManager\Dashboard\obj\Debug\Dashboard.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.21\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.DashboardControl.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.21\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.21\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.Resource.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.21\MeatWeigherManager\Dashboard\obj\Debug\Dashboard.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.21\MeatWeigherManager\Dashboard\obj\Debug\Dashboard.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.21\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.21\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.22\MeatWeigherManager\Dashboard\bin\Debug\TW.Dashboard.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.22\MeatWeigherManager\Dashboard\bin\Debug\TW.Dashboard.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.22\MeatWeigherManager\Dashboard\obj\Debug\Dashboard.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.22\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.DashboardControl.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.22\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.22\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.Resource.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.22\MeatWeigherManager\Dashboard\obj\Debug\Dashboard.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.22\MeatWeigherManager\Dashboard\obj\Debug\Dashboard.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.22\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.22\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\Dashboard\bin\Debug\TW.Dashboard.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\Dashboard\bin\Debug\TW.Dashboard.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\Dashboard\obj\Debug\Dashboard.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.DashboardControl.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.Resource.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\Dashboard\obj\Debug\Dashboard.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\Dashboard\obj\Debug\Dashboard.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\Dashboard\obj\Debug\TW.Dashboard.pdb

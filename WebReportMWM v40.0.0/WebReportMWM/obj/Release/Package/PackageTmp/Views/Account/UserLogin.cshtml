@@ -1,0 +1,58 @@
+﻿
+@{
+    ViewBag.Title = "UserLogin";
+    if (!String.IsNullOrEmpty((string)TempData["MessageStatus"]))
+    {
+        <p style="color:red;" class="alert alert-warning">@TempData["MessageStatus"]</p>
+    }
+}
+
+<style type="text/css">
+
+    /* Center the image and position the close button */
+    .imgcontainer {
+        text-align: left;
+        margin: 14px 0 6px 0;
+        position: relative;
+    }
+
+    img.avatar {
+        width: 40%;
+        border-radius: 50%;
+    }
+
+    label {
+        display: inline-block;
+        width: 80px;
+        margin-right: 10px;
+        text-align: left;
+    }
+</style>
+
+@using (Html.BeginForm("UserValidation", "Account", FormMethod.Post))
+{
+    <h2>Login de Usuario</h2>
+    <div class="imgcontainer">
+        <img src="~/images/operator_login.png" alt="Avatar" class="avatar" style="width: 10%;">
+    </div>
+    <div style="float:left;">
+        <div>
+            <label for="userName"><b>Usuario</b></label>
+            <input type="text" placeholder="Usuario" name="userName" required style="display: inline">
+        </div>
+        <div>
+            <label for="userPassword"><b>Password</b></label>
+            <input type="password" placeholder="Password" name="userPassword" required>
+        </div>
+    </div>
+    <br />
+    <br />
+    <br />
+    <div>
+        <button type="submit" class="btn btn-info">Login</button>
+        <button type="button" class="btn btn-info">Cancel</button>
+    </div>
+}
+
+
+

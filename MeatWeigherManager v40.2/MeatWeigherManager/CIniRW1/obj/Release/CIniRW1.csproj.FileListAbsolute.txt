@@ -1,0 +1,365 @@
+C:\Documents and Settings\sergio\Mis documentos\Dropbox\DELTA-WTCUB3\DELTA-WTCUB3_Capture\DELTA-WTCUB3_Capture\CIniRW1\bin\Release\CIniRW1.dll
+C:\Documents and Settings\sergio\Mis documentos\Dropbox\DELTA-WTCUB3\DELTA-WTCUB3_Capture\DELTA-WTCUB3_Capture\CIniRW1\bin\Release\CIniRW1.pdb
+C:\Documents and Settings\sergio\Mis documentos\Dropbox\DELTA-WTCUB3\DELTA-WTCUB3_Capture\DELTA-WTCUB3_Capture\CIniRW1\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Dropbox\DELTA-WTCUB3\DELTA-WTCUB3_Capture\DELTA-WTCUB3_Capture\CIniRW1\obj\Release\CIniRW1.dll
+C:\Documents and Settings\sergio\Mis documentos\Dropbox\DELTA-WTCUB3\DELTA-WTCUB3_Capture\DELTA-WTCUB3_Capture\CIniRW1\obj\Release\CIniRW1.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtRegR_27WNet_v1\EtRegR_27WNet_v1\CIniRW1\bin\Release\CIniRW1.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtRegR_27WNet_v1\EtRegR_27WNet_v1\CIniRW1\bin\Release\CIniRW1.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtRegR_27WNet_v1\EtRegR_27WNet_v1\CIniRW1\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtRegR_27WNet_v1\EtRegR_27WNet_v1\CIniRW1\obj\Release\CIniRW1.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtRegR_27WNet_v1\EtRegR_27WNet_v1\CIniRW1\obj\Release\CIniRW1.pdb
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeighingFis\EtRegR_27WNet_v1\CIniRW1\bin\Release\CIniRW1.dll
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeighingFis\EtRegR_27WNet_v1\CIniRW1\bin\Release\CIniRW1.pdb
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeighingFis\EtRegR_27WNet_v1\CIniRW1\obj\Release\CIniRW1.dll
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeighingFis\EtRegR_27WNet_v1\CIniRW1\obj\Release\CIniRW1.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis\WeigherFis\CIniRW1\bin\Release\CIniRW1.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis\WeigherFis\CIniRW1\bin\Release\CIniRW1.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis\WeigherFis\CIniRW1\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis\WeigherFis\CIniRW1\obj\Release\CIniRW1.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis\WeigherFis\CIniRW1\obj\Release\CIniRW1.pdb
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis\WeigherFis\CIniRW1\bin\Release\CIniRW1.dll
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis\WeigherFis\CIniRW1\bin\Release\CIniRW1.pdb
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis\WeigherFis\CIniRW1\obj\Release\CIniRW1.dll
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis\WeigherFis\CIniRW1\obj\Release\CIniRW1.pdb
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\CIniRW1\bin\Release\CIniRW1.dll
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\CIniRW1\bin\Release\CIniRW1.pdb
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\CIniRW1\obj\Release\CIniRW1.dll
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\CIniRW1\obj\Release\CIniRW1.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\CIniRW1\bin\Release\CIniRW1.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\CIniRW1\bin\Release\CIniRW1.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\CIniRW1\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\CIniRW1\obj\Release\CIniRW1.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\CIniRW1\obj\Release\CIniRW1.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.2\WeigherFis\CIniRW1\bin\Release\CIniRW1.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.2\WeigherFis\CIniRW1\bin\Release\CIniRW1.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.2\WeigherFis\CIniRW1\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.2\WeigherFis\CIniRW1\obj\Release\CIniRW1.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.2\WeigherFis\CIniRW1\obj\Release\CIniRW1.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.3\WeigherFis\CIniRW1\bin\Release\CIniRW1.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.3\WeigherFis\CIniRW1\bin\Release\CIniRW1.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.3\WeigherFis\CIniRW1\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.3\WeigherFis\CIniRW1\obj\Release\CIniRW1.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.3\WeigherFis\CIniRW1\obj\Release\CIniRW1.pdb
+C:\Users\Sergio\Dropbox\WeigherFis v1.3\WeigherFis\CIniRW1\bin\Release\CIniRW1.dll
+C:\Users\Sergio\Dropbox\WeigherFis v1.3\WeigherFis\CIniRW1\bin\Release\CIniRW1.pdb
+C:\Users\Sergio\Dropbox\WeigherFis v1.3\WeigherFis\CIniRW1\obj\Release\CIniRW1.dll
+C:\Users\Sergio\Dropbox\WeigherFis v1.3\WeigherFis\CIniRW1\obj\Release\CIniRW1.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.4\WeigherFis\CIniRW1\bin\Release\CIniRW1.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.4\WeigherFis\CIniRW1\bin\Release\CIniRW1.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.4\WeigherFis\CIniRW1\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.4\WeigherFis\CIniRW1\obj\Release\CIniRW1.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.4\WeigherFis\CIniRW1\obj\Release\CIniRW1.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.5\WeigherFis\CIniRW1\bin\Release\CIniRW1.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.5\WeigherFis\CIniRW1\bin\Release\CIniRW1.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.5\WeigherFis\CIniRW1\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.5\WeigherFis\CIniRW1\obj\Release\CIniRW1.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.5\WeigherFis\CIniRW1\obj\Release\CIniRW1.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherLaundry v1.0\WeigherLaundry\CIniRW1\bin\Release\CIniRW1.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherLaundry v1.0\WeigherLaundry\CIniRW1\bin\Release\CIniRW1.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherLaundry v1.0\WeigherLaundry\CIniRW1\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherLaundry v1.0\WeigherLaundry\CIniRW1\obj\Release\CIniRW1.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherLaundry v1.0\WeigherLaundry\CIniRW1\obj\Release\CIniRW1.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.0\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.0\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.0\MeatWeigherManager\CIniRW1\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.0\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.0\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\CIniRW1\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\CIniRW1\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\CIniRW1\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\CIniRW1\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\CIniRW1\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.pdb
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.0\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.dll
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.0\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.pdb
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.0\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csproj.CoreCompileInputs.cache
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.0\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.dll
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.0\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.pdb
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.0\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csprojResolveAssemblyReference.cache
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.1\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.dll
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.1\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.pdb
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.1\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csproj.CoreCompileInputs.cache
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.1\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.dll
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.1\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.pdb
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.2\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.dll
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.2\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.pdb
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.2\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csprojAssemblyReference.cache
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.2\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csproj.CoreCompileInputs.cache
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.2\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.dll
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.2\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.1\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.1\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.1\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.1\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.1\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.1\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.3\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.3\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.3\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.3\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.3\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.3\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.4\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.4\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.4\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.4\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.4\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.4\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.5\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.5\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.5\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.5\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.5\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.5\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.0\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.0\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.0\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.0\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.0\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.0\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.1\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.1\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.1\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.1\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.1\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.1\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.2\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.2\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.2\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.2\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.2\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.2\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.3\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.3\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.3\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.3\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.3\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.3\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.4\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.4\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.4\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.4\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.4\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.4\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.5\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.5\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.5\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.5\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.5\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.5\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.6\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.6\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.6\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.6\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.6\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.6\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.7\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.7\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.7\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.7\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.7\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.7\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.8\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.8\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.8\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.8\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.8\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.8\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.9\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.9\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.9\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.9\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.9\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.9\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.10\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.10\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.10\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.10\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.10\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.10\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.11\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.11\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.11\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.11\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.11\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.11\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.12\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.12\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.12\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.12\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.12\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.12\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.14\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.14\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.14\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.14\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.14\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.15\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.15\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.15\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.15\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.15\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.15\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.16\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.16\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.16\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.16\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.16\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.16\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.17\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.17\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.17\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.17\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.17\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.17\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.20\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.20\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.20\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.20\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.20\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.21\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.21\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.21\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.21\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.21\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.21\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.22\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.22\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.22\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.22\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.22\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.22\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.23\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.23\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.23\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.23\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.23\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.23\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.1\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.1\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.1\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.1\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.1\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.1\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.2\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.2\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.2\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.2\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.2\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.2\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.3\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.3\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.3\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.3\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.3\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.3\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.4\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.4\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.4\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.4\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.4\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.4\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.0\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.0\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.0\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.0\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.0\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.0\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.1\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.1\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.1\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.1\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.1\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.1\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.2\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.2\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.2\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.2\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.2\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.2\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.0\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.0\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.0\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.0\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.0\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.0\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.1\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.1\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.1\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.1\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.1\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.1\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.2\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.2\MeatWeigherManager\CIniRW1\bin\Release\CIniRW1.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.2\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.2\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.2\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.2\MeatWeigherManager\CIniRW1\obj\Release\CIniRW1.pdb

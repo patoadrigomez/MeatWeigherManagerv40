@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- DTD official validation 
+  <!DOCTYPE stampa SYSTEM "http://www.e-dynamica.com/stampa.dtd">
+-->
+
+<stampa name="" papersize="Letter" layout="Landscape" customUnit="Inch" customWidth="8.5" customHeight="11">
+<margins left="25" top="50" right="25" bottom="50" />
+
+<startInfo>
+   <preloadData value="False" />
+   <ignorePreloadExceptions value="False" />
+</startInfo>
+
+<connection>
+   <name value="dbConnection" />
+   <assembly value="System.Data" />
+   <type value="System.Data.Odbc.OdbcConnection" />
+   <connectionString value="" />
+</connection>
+
+<sections>
+
+<section>
+<flow value="" />
+<content>
+
+
+<pictureBox name="LogoEmpresa" x="30" y="30" width="100" height="100" horAlignment="Left" verAlignment="Center" Layout="Landscape" Selectable="True">
+  <stretch value="True" />
+  <border width="0" color="Black"/>
+</pictureBox>
+
+<textField name="CampoTexto_Empresa" x="125" y="12" width="900" height="30" horAlignment="Center" verAlignment="None" Layout="EveryPage" Selectable="True">
+  <text horAlignment="Center" verAlignment="Top" value="" />
+  <font family="Tahoma" size="14" underline="False" />
+  <textPadding value="2" />
+  <textSpacing value="3" />
+  <overflowTextDisplay value="False" />
+  <textOrientation value="Horizontal" />
+  <foregroundColor color="Black" />
+  <backgroundColor color="Transparent" />
+  <border width="0" color="Black" />
+</textField>
+
+<textField name="CampoTexto_Titulo" x="125" y="32" width="900" height="30" horAlignment="Center" verAlignment="None" Layout="EveryPage" Selectable="True">
+  <text horAlignment="Center" verAlignment="Top" value="" />
+  <font family="Tahoma" size="14" underline="False" />
+  <textPadding value="2" />
+  <textSpacing value="3" />
+  <overflowTextDisplay value="False" />
+  <textOrientation value="Horizontal" />
+  <foregroundColor color="Black" />
+  <backgroundColor color="Transparent" />
+  <border width="0" color="Black" />
+</textField>
+
+<textField name="CampoTexto_InfoLine1" x="125" y="65" width="900" height="52" horAlignment="Center" verAlignment="None" Layout="EveryPage" Selectable="True">
+  <text horAlignment="Center" verAlignment="Top" value="" />
+  <font family="Tahoma" size="10" underline="False" />
+  <textPadding value="2" />
+  <textSpacing value="3" />
+  <overflowTextDisplay value="False" />
+  <textOrientation value="Horizontal" />
+  <foregroundColor color="Black" />
+  <backgroundColor color="Transparent" />
+  <border width="0" color="Black" />
+</textField>
+
+<textField name="CampoTexto_InfoLine2" x="125" y="95" width="900" height="52" horAlignment="Center" verAlignment="None" Layout="EveryPage" Selectable="True">
+  <text horAlignment="Center" verAlignment="Top" value="" />
+  <font family="Tahoma" size="10" underline="False" />
+  <textPadding value="2" />
+  <textSpacing value="3" />
+  <overflowTextDisplay value="False" />
+  <textOrientation value="Horizontal" />
+  <foregroundColor color="Black" />
+  <backgroundColor color="Transparent" />
+  <border width="0" color="Black" />
+</textField>
+
+<textField name="CampoTextoColumna_FechaProduccion" x="75" y="136" width="190" height="52" horAlignment="None" verAlignment="None" Layout="EveryPage" Selectable="True">
+  <text horAlignment="Center" verAlignment="Top" value="FECHA DE PRODUCCION" />
+  <font family="Tahoma" size="9" underline="False" />
+  <textPadding value="2" />
+  <textSpacing value="3" />
+  <overflowTextDisplay value="False" />
+  <textOrientation value="Horizontal" />
+  <foregroundColor color="Black" />
+  <backgroundColor color="Transparent" />
+  <border width="1" color="Black" />
+</textField>
+
+<textField name="CampoTextoColumna_Sector" x="265" y="136" width="190" height="52" horAlignment="None" verAlignment="None" Layout="EveryPage" Selectable="True">
+  <text horAlignment="Center" verAlignment="Top" value="SECTOR" />
+  <font family="Tahoma" size="9" underline="False" />
+  <textPadding value="2" />
+  <textSpacing value="3" />
+  <overflowTextDisplay value="False" />
+  <textOrientation value="Horizontal" />
+  <foregroundColor color="Black" />
+  <backgroundColor color="Transparent" />
+  <border width="1" color="Black" />
+</textField>
+
+<textField name="CampoTextoColumna_Ingresado" x="455" y="136" width="190" height="52" horAlignment="None" verAlignment="None" Layout="EveryPage" Selectable="True">
+  <text horAlignment="Center" verAlignment="Top" value="INGRESADO" />
+  <font family="Tahoma" size="9" underline="False" />
+  <textPadding value="2" />
+  <textSpacing value="3" />
+  <overflowTextDisplay value="False" />
+  <textOrientation value="Horizontal" />
+  <foregroundColor color="Black" />
+  <backgroundColor color="Transparent" />
+  <border width="1" color="Black" />
+</textField>
+
+<textField name="CampoTextoColumna_Producido" x="645" y="136" width="190" height="52" horAlignment="None" verAlignment="None" Layout="EveryPage" Selectable="True">
+  <text horAlignment="Center" verAlignment="Top" value="PRODUCIDO" />
+  <font family="Tahoma" size="9" underline="False" />
+  <textPadding value="2" />
+  <textSpacing value="3" />
+  <overflowTextDisplay value="False" />
+  <textOrientation value="Horizontal" />
+  <foregroundColor color="Black" />
+  <backgroundColor color="Transparent" />
+  <border width="1" color="Black" />
+</textField>
+
+  <textField name="CampoTextoColumna_Rendimiento" x="835" y="136" width="190" height="52" horAlignment="None" verAlignment="None" Layout="EveryPage" Selectable="True">
+  <text horAlignment="Center" verAlignment="Top" value="RENDIMIENTO" />
+  <font family="Tahoma" size="9" underline="False" />
+  <textPadding value="2" />
+  <textSpacing value="3" />
+  <overflowTextDisplay value="False" />
+  <textOrientation value="Horizontal" />
+  <foregroundColor color="Black" />
+  <backgroundColor color="Transparent" />
+  <border width="1" color="Black" />
+</textField>
+
+
+<textField name="CampoTextoValor_FechaProduccion" x="75" y="156" width="190" height="22" horAlignment="None" verAlignment="None" Layout="EveryPage" Selectable="True">
+  <text horAlignment="Center" verAlignment="Top" value="" />
+  <font family="Tahoma" size="9" underline="False" style="Bold" />
+  <textPadding value="2" />
+  <textSpacing value="3" />
+  <overflowTextDisplay value="False" />
+  <textOrientation value="Horizontal" />
+  <foregroundColor color="White" />
+  <backgroundColor color="Gray" />
+  <border width="0" color="Black" />
+</textField>
+
+<textField name="CampoTextoValor_Sector" x="265" y="156" width="190" height="22" horAlignment="None" verAlignment="None" Layout="EveryPage" Selectable="True">
+  <text horAlignment="Center" verAlignment="Top" value="" />
+  <font family="Tahoma" size="10" underline="False" style="Bold" />
+  <textPadding value="2" />
+  <textSpacing value="3" />
+  <overflowTextDisplay value="False" />
+  <textOrientation value="Horizontal" />
+  <foregroundColor color="White" />
+  <backgroundColor color="Gray" />
+  <border width="0" color="Black" />
+</textField>
+
+<textField name="CampoTextoValor_Ingresado" x="455" y="156" width="190" height="22" horAlignment="None" verAlignment="None" Layout="EveryPage" Selectable="True">
+  <text horAlignment="Center" verAlignment="Top" value="" />
+  <font family="Tahoma" size="10" underline="False" style="Bold" />
+  <textPadding value="2" />
+  <textSpacing value="3" />
+  <overflowTextDisplay value="False" />
+  <textOrientation value="Horizontal" />
+  <foregroundColor color="White" />
+  <backgroundColor color="Gray" />
+  <border width="0" color="Black" />
+</textField>
+
+<textField name="CampoTextoValor_Producido" x="645" y="156" width="190" height="22" horAlignment="None" verAlignment="None" Layout="EveryPage" Selectable="True">
+  <text horAlignment="Center" verAlignment="Top" value="" />
+  <font family="Tahoma" size="10" underline="False" style="Bold" />
+  <textPadding value="2" />
+  <textSpacing value="3" />
+  <overflowTextDisplay value="False" />
+  <textOrientation value="Horizontal" />
+  <foregroundColor color="White" />
+  <backgroundColor color="Gray" />
+  <border width="0" color="Black" />
+</textField>
+
+  <textField name="CampoTextoValor_Rendimiento" x="835" y="156" width="190" height="22" horAlignment="None" verAlignment="None" Layout="EveryPage" Selectable="True">
+  <text horAlignment="Center" verAlignment="Top" value="" />
+  <font family="Tahoma" size="10" underline="False" style="Bold" />
+  <textPadding value="2" />
+  <textSpacing value="3" />
+  <overflowTextDisplay value="False" />
+  <textOrientation value="Horizontal" />
+  <foregroundColor color="White" />
+  <backgroundColor color="Gray" />
+  <border width="0" color="Black" />
+</textField>
+
+  <table name="" x="25" y="200" width="900" height="570"  dataSource="REND_PRODUCCION_PRODUCIDO" drawEmptyRows="False" showHeader="True" cellHeight="18" horAlignment="Center" verAlignment="None" Layout="EveryPage" Selectable="True">
+  <header headerColor="Black" headerFontColor="White">
+    <font family="Tahoma" size="6" underline="False" />
+  </header>
+  <dataRows dataFontColor="Black" backgroundColor="White" alterDataCondition="" alterDataColor="Red" alterDataBackColor="AntiqueWhite" subtotalsColor="Black">
+    <font family="Tahoma" size="8" underline="False" />
+    <alternateBackColor value="False" />
+    <alternatingBackColor color="Gainsboro" />
+    <filterExpression value="" />
+    <sortExpression value="" />
+  </dataRows>
+  <columns>
+    <column name="COD_PRODUCTO" label="CODIGO" FormatMask="" subtotalType="None" prefix="" width="110" align="Center" />
+    <column name="PRODUCTO" label="PRODUCTO" FormatMask="" subtotalType="None" prefix="" width="300" align="Left" />
+    <column name="CANTIDAD" label="TOTAL UNDS" FormatMask="" subtotalType="None" prefix="" width="80" align="Center" />
+    <column name="PESO_TOTAL" label="TOTAL KG" FormatMask="0.## kg" subtotalType="None" prefix="" width="80" align="Center" />
+    <column name="PESO_PROM" label="PESO PROMEDIO" FormatMask="0.## kg" subtotalType="None" prefix="" width="80" align="Center" />
+    <column name="INCIDENTE" label="INCIDENTE (%)" FormatMask="0.##" subtotalType="None" prefix="" width="80" align="Center" />
+    <column name="RENDIMIENTO_STD" label="RENDIMIENTO STD (%)" FormatMask="0.##" subtotalType="None" prefix="" width="80" align="Center" />
+    <column name="DESVIO" label="DESVIO (%)" FormatMask="0.##" subtotalType="None" prefix="" width="80" align="Center" />
+  </columns>
+  <border color="Black" />
+</table>
+
+
+<textField name="" x="25" y="800" width="900" height="20" horAlignment="Center" verAlignment="None" Layout="EveryPage" Selectable="True">
+  <text horAlignment="Center" verAlignment="Bottom" value="Sistema de Registracion de Pesajes Modelo: MeatWeigherManager - Desarrollado por Ingenieria MCR   Paguina $P{pageNumber} de $P{totalPages}" />
+  <font family="Tahoma" size="8" style="Bold" underline="False" />
+  <textPadding value="2" />
+  <textSpacing value="3" />
+  <overflowTextDisplay value="False" />
+  <textOrientation value="Horizontal" />
+  <foregroundColor color="Black" />
+  <backgroundColor color="Transparent" />
+  <border width="0" color="Black" />
+</textField>
+
+</content>
+</section>
+
+</sections>
+</stampa>

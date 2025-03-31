@@ -1,0 +1,465 @@
+C:\Desarrollo\Software\C#\WebReportAMG\WebReportAMG\Tools\bin\Debug\Tools.dll
+C:\Desarrollo\Software\C#\WebReportAMG\WebReportAMG\Tools\bin\Debug\Tools.pdb
+C:\Desarrollo\Software\C#\WebReportAMG\WebReportAMG\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\WebReportAMG\WebReportAMG\Tools\obj\Debug\Tools.dll
+C:\Desarrollo\Software\C#\WebReportAMG\WebReportAMG\Tools\obj\Debug\Tools.pdb
+C:\Desarrollo\Software\C#\WebReportAMG\WebReportAMG\Tools\obj\Debug\Tools.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v10.0\WebReportAMG\Tools\bin\Debug\Tools.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v10.0\WebReportAMG\Tools\bin\Debug\Tools.pdb
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v10.0\WebReportAMG\Tools\obj\Debug\Tools.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v10.0\WebReportAMG\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v10.0\WebReportAMG\Tools\obj\Debug\Tools.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v10.0\WebReportAMG\Tools\obj\Debug\Tools.pdb
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v1.1\WebReportAMG\Tools\bin\Debug\Tools.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v1.1\WebReportAMG\Tools\bin\Debug\Tools.pdb
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v1.1\WebReportAMG\Tools\obj\Debug\Tools.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v1.1\WebReportAMG\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v1.1\WebReportAMG\Tools\obj\Debug\Tools.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG v1.1\WebReportAMG\Tools\obj\Debug\Tools.pdb
+C:\Desarrollo\Software\C#\WebReportAMG v1.2\WebReportAMG\Tools\bin\Debug\Tools.dll
+C:\Desarrollo\Software\C#\WebReportAMG v1.2\WebReportAMG\Tools\bin\Debug\Tools.pdb
+C:\Desarrollo\Software\C#\WebReportAMG v1.2\WebReportAMG\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\WebReportAMG v1.2\WebReportAMG\Tools\obj\Debug\Tools.dll
+C:\Desarrollo\Software\C#\WebReportAMG v1.2\WebReportAMG\Tools\obj\Debug\Tools.pdb
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.4\WebReportAMG\Tools\bin\Debug\Tools.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.4\WebReportAMG\Tools\bin\Debug\Tools.pdb
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.4\WebReportAMG\Tools\obj\Debug\Tools.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.4\WebReportAMG\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.4\WebReportAMG\Tools\obj\Debug\Tools.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.4\WebReportAMG\Tools\obj\Debug\Tools.pdb
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.5\WebReportAMG\Tools\bin\Debug\Tools.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.5\WebReportAMG\Tools\bin\Debug\Tools.pdb
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.5\WebReportAMG\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.5\WebReportAMG\Tools\obj\Debug\Tools.dll
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.5\WebReportAMG\Tools\obj\Debug\Tools.pdb
+C:\Desarrollo\Software\C#\WebReportAMG v1.5\WebReportAMG\Tools\bin\Debug\Tools.dll
+C:\Desarrollo\Software\C#\WebReportAMG v1.5\WebReportAMG\Tools\bin\Debug\Tools.pdb
+C:\Desarrollo\Software\C#\WebReportAMG v1.5\WebReportAMG\Tools\obj\Debug\Tools.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\WebReportAMG v1.5\WebReportAMG\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\WebReportAMG v1.5\WebReportAMG\Tools\obj\Debug\Tools.dll
+C:\Desarrollo\Software\C#\WebReportAMG v1.5\WebReportAMG\Tools\obj\Debug\Tools.pdb
+C:\Desarrollo\Software\C#\AMG\Aplicaciones\WebReportAMG\WebReportAMG v1.5\WebReportAMG\Tools\obj\Debug\Tools.csproj.AssemblyReference.cache
+C:\Users\usuario\OneDrive\Escritorio\Proyectos Asp.Net\WebReportAMG v1.5\WebReportAMG v1.5\WebReportAMG\Tools\bin\Debug\Tools.dll
+C:\Users\usuario\OneDrive\Escritorio\Proyectos Asp.Net\WebReportAMG v1.5\WebReportAMG v1.5\WebReportAMG\Tools\bin\Debug\Tools.pdb
+C:\Users\usuario\OneDrive\Escritorio\Proyectos Asp.Net\WebReportAMG v1.5\WebReportAMG v1.5\WebReportAMG\Tools\obj\Debug\Tools.csproj.AssemblyReference.cache
+C:\Users\usuario\OneDrive\Escritorio\Proyectos Asp.Net\WebReportAMG v1.5\WebReportAMG v1.5\WebReportAMG\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+C:\Users\usuario\OneDrive\Escritorio\Proyectos Asp.Net\WebReportAMG v1.5\WebReportAMG v1.5\WebReportAMG\Tools\obj\Debug\Tools.dll
+C:\Users\usuario\OneDrive\Escritorio\Proyectos Asp.Net\WebReportAMG v1.5\WebReportAMG v1.5\WebReportAMG\Tools\obj\Debug\Tools.pdb
+C:\Users\usuario\OneDrive\Escritorio\Proyectos Asp.Net\MVCPrototipo\WebReportMeatWeigher\Tools\bin\Debug\Tools.dll
+C:\Users\usuario\OneDrive\Escritorio\Proyectos Asp.Net\MVCPrototipo\WebReportMeatWeigher\Tools\bin\Debug\Tools.pdb
+C:\Users\usuario\OneDrive\Escritorio\Proyectos Asp.Net\MVCPrototipo\WebReportMeatWeigher\Tools\bin\Debug\Common.Logging.Core.dll
+C:\Users\usuario\OneDrive\Escritorio\Proyectos Asp.Net\MVCPrototipo\WebReportMeatWeigher\Tools\bin\Debug\Common.Logging.dll
+C:\Users\usuario\OneDrive\Escritorio\Proyectos Asp.Net\MVCPrototipo\WebReportMeatWeigher\Tools\bin\Debug\Common.Logging.pdb
+C:\Users\usuario\OneDrive\Escritorio\Proyectos Asp.Net\MVCPrototipo\WebReportMeatWeigher\Tools\bin\Debug\Common.Logging.xml
+C:\Users\usuario\OneDrive\Escritorio\Proyectos Asp.Net\MVCPrototipo\WebReportMeatWeigher\Tools\bin\Debug\Common.Logging.Core.pdb
+C:\Users\usuario\OneDrive\Escritorio\Proyectos Asp.Net\MVCPrototipo\WebReportMeatWeigher\Tools\bin\Debug\Common.Logging.Core.xml
+C:\Users\usuario\OneDrive\Escritorio\Proyectos Asp.Net\MVCPrototipo\WebReportMeatWeigher\Tools\obj\Debug\Tools.csproj.AssemblyReference.cache
+C:\Users\usuario\OneDrive\Escritorio\Proyectos Asp.Net\MVCPrototipo\WebReportMeatWeigher\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+C:\Users\usuario\OneDrive\Escritorio\Proyectos Asp.Net\MVCPrototipo\WebReportMeatWeigher\Tools\obj\Debug\Tools.csproj.CopyComplete
+C:\Users\usuario\OneDrive\Escritorio\Proyectos Asp.Net\MVCPrototipo\WebReportMeatWeigher\Tools\obj\Debug\Tools.dll
+C:\Users\usuario\OneDrive\Escritorio\Proyectos Asp.Net\MVCPrototipo\WebReportMeatWeigher\Tools\obj\Debug\Tools.pdb
+C:\Users\usuario\OneDrive\Escritorio\Proyectos Asp.Net\MVCPrototipo\WebReportMeatWeigher\Tools\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\usuario\OneDrive\Escritorio\Proyectos Asp.Net\MVCPrototipo\WebReportMeatWeigher\Tools\bin\Debug\ExcelNumberFormat.dll
+C:\Users\usuario\OneDrive\Escritorio\Proyectos Asp.Net\MVCPrototipo\WebReportMeatWeigher\Tools\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\usuario\OneDrive\Escritorio\Proyectos Asp.Net\MVCPrototipo\WebReportMeatWeigher\Tools\bin\Debug\System.Buffers.dll
+C:\Users\usuario\OneDrive\Escritorio\Proyectos Asp.Net\MVCPrototipo\WebReportMeatWeigher\Tools\bin\Debug\System.Memory.dll
+C:\Users\usuario\OneDrive\Escritorio\Proyectos Asp.Net\MVCPrototipo\WebReportMeatWeigher\Tools\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\usuario\OneDrive\Escritorio\Proyectos Asp.Net\MVCPrototipo\WebReportMeatWeigher\Tools\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\usuario\OneDrive\Escritorio\Proyectos Asp.Net\MVCPrototipo\WebReportMeatWeigher\Tools\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\usuario\OneDrive\Escritorio\Proyectos Asp.Net\MVCPrototipo\WebReportMeatWeigher\Tools\bin\Debug\ExcelNumberFormat.xml
+C:\Users\usuario\OneDrive\Escritorio\Proyectos Asp.Net\MVCPrototipo\WebReportMeatWeigher\Tools\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\usuario\OneDrive\Escritorio\Proyectos Asp.Net\MVCPrototipo\WebReportMeatWeigher\Tools\bin\Debug\System.Buffers.xml
+C:\Users\usuario\OneDrive\Escritorio\Proyectos Asp.Net\MVCPrototipo\WebReportMeatWeigher\Tools\bin\Debug\System.Memory.xml
+C:\Users\usuario\OneDrive\Escritorio\Proyectos Asp.Net\MVCPrototipo\WebReportMeatWeigher\Tools\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\usuario\OneDrive\Escritorio\Proyectos Asp.Net\MVCPrototipo\WebReportMeatWeigher\Tools\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Desarrollo\Software\C#\MeatWeigherManagerV20.1\WebReportMeatWeigher\Tools\bin\Debug\Tools.dll
+C:\Desarrollo\Software\C#\MeatWeigherManagerV20.1\WebReportMeatWeigher\Tools\bin\Debug\Tools.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManagerV20.1\WebReportMeatWeigher\Tools\bin\Debug\Common.Logging.Core.dll
+C:\Desarrollo\Software\C#\MeatWeigherManagerV20.1\WebReportMeatWeigher\Tools\bin\Debug\Common.Logging.dll
+C:\Desarrollo\Software\C#\MeatWeigherManagerV20.1\WebReportMeatWeigher\Tools\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Desarrollo\Software\C#\MeatWeigherManagerV20.1\WebReportMeatWeigher\Tools\bin\Debug\ExcelNumberFormat.dll
+C:\Desarrollo\Software\C#\MeatWeigherManagerV20.1\WebReportMeatWeigher\Tools\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Desarrollo\Software\C#\MeatWeigherManagerV20.1\WebReportMeatWeigher\Tools\bin\Debug\System.Buffers.dll
+C:\Desarrollo\Software\C#\MeatWeigherManagerV20.1\WebReportMeatWeigher\Tools\bin\Debug\System.Memory.dll
+C:\Desarrollo\Software\C#\MeatWeigherManagerV20.1\WebReportMeatWeigher\Tools\bin\Debug\System.Numerics.Vectors.dll
+C:\Desarrollo\Software\C#\MeatWeigherManagerV20.1\WebReportMeatWeigher\Tools\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Desarrollo\Software\C#\MeatWeigherManagerV20.1\WebReportMeatWeigher\Tools\bin\Debug\Common.Logging.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManagerV20.1\WebReportMeatWeigher\Tools\bin\Debug\Common.Logging.xml
+C:\Desarrollo\Software\C#\MeatWeigherManagerV20.1\WebReportMeatWeigher\Tools\bin\Debug\Common.Logging.Core.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManagerV20.1\WebReportMeatWeigher\Tools\bin\Debug\Common.Logging.Core.xml
+C:\Desarrollo\Software\C#\MeatWeigherManagerV20.1\WebReportMeatWeigher\Tools\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Desarrollo\Software\C#\MeatWeigherManagerV20.1\WebReportMeatWeigher\Tools\bin\Debug\ExcelNumberFormat.xml
+C:\Desarrollo\Software\C#\MeatWeigherManagerV20.1\WebReportMeatWeigher\Tools\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Desarrollo\Software\C#\MeatWeigherManagerV20.1\WebReportMeatWeigher\Tools\bin\Debug\System.Buffers.xml
+C:\Desarrollo\Software\C#\MeatWeigherManagerV20.1\WebReportMeatWeigher\Tools\bin\Debug\System.Memory.xml
+C:\Desarrollo\Software\C#\MeatWeigherManagerV20.1\WebReportMeatWeigher\Tools\bin\Debug\System.Numerics.Vectors.xml
+C:\Desarrollo\Software\C#\MeatWeigherManagerV20.1\WebReportMeatWeigher\Tools\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Desarrollo\Software\C#\MeatWeigherManagerV20.1\WebReportMeatWeigher\Tools\obj\Debug\Tools.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManagerV20.1\WebReportMeatWeigher\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManagerV20.1\WebReportMeatWeigher\Tools\obj\Debug\Tools.csproj.CopyComplete
+C:\Desarrollo\Software\C#\MeatWeigherManagerV20.1\WebReportMeatWeigher\Tools\obj\Debug\Tools.dll
+C:\Desarrollo\Software\C#\MeatWeigherManagerV20.1\WebReportMeatWeigher\Tools\obj\Debug\Tools.pdb
+C:\Desarrollo\Software\C#\WebReportMWM v10.0\WebReportMWM\Tools\bin\Debug\Tools.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0\WebReportMWM\Tools\bin\Debug\Tools.pdb
+C:\Desarrollo\Software\C#\WebReportMWM v10.0\WebReportMWM\Tools\bin\Debug\Common.Logging.Core.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0\WebReportMWM\Tools\bin\Debug\Common.Logging.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0\WebReportMWM\Tools\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0\WebReportMWM\Tools\bin\Debug\ExcelNumberFormat.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0\WebReportMWM\Tools\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0\WebReportMWM\Tools\bin\Debug\System.Buffers.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0\WebReportMWM\Tools\bin\Debug\System.Memory.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0\WebReportMWM\Tools\bin\Debug\System.Numerics.Vectors.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0\WebReportMWM\Tools\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0\WebReportMWM\Tools\bin\Debug\Common.Logging.pdb
+C:\Desarrollo\Software\C#\WebReportMWM v10.0\WebReportMWM\Tools\bin\Debug\Common.Logging.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0\WebReportMWM\Tools\bin\Debug\Common.Logging.Core.pdb
+C:\Desarrollo\Software\C#\WebReportMWM v10.0\WebReportMWM\Tools\bin\Debug\Common.Logging.Core.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0\WebReportMWM\Tools\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0\WebReportMWM\Tools\bin\Debug\ExcelNumberFormat.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0\WebReportMWM\Tools\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0\WebReportMWM\Tools\bin\Debug\System.Buffers.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0\WebReportMWM\Tools\bin\Debug\System.Memory.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0\WebReportMWM\Tools\bin\Debug\System.Numerics.Vectors.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0\WebReportMWM\Tools\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0\WebReportMWM\Tools\obj\Debug\Tools.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\WebReportMWM v10.0\WebReportMWM\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\WebReportMWM v10.0\WebReportMWM\Tools\obj\Debug\Tools.csproj.CopyComplete
+C:\Desarrollo\Software\C#\WebReportMWM v10.0\WebReportMWM\Tools\obj\Debug\Tools.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0\WebReportMWM\Tools\obj\Debug\Tools.pdb
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.1\WebReportMWM\Tools\bin\Debug\Tools.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.1\WebReportMWM\Tools\bin\Debug\Tools.pdb
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.1\WebReportMWM\Tools\bin\Debug\Common.Logging.Core.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.1\WebReportMWM\Tools\bin\Debug\Common.Logging.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.1\WebReportMWM\Tools\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.1\WebReportMWM\Tools\bin\Debug\ExcelNumberFormat.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.1\WebReportMWM\Tools\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.1\WebReportMWM\Tools\bin\Debug\System.Buffers.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.1\WebReportMWM\Tools\bin\Debug\System.Memory.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.1\WebReportMWM\Tools\bin\Debug\System.Numerics.Vectors.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.1\WebReportMWM\Tools\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.1\WebReportMWM\Tools\bin\Debug\Common.Logging.pdb
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.1\WebReportMWM\Tools\bin\Debug\Common.Logging.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.1\WebReportMWM\Tools\bin\Debug\Common.Logging.Core.pdb
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.1\WebReportMWM\Tools\bin\Debug\Common.Logging.Core.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.1\WebReportMWM\Tools\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.1\WebReportMWM\Tools\bin\Debug\ExcelNumberFormat.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.1\WebReportMWM\Tools\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.1\WebReportMWM\Tools\bin\Debug\System.Buffers.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.1\WebReportMWM\Tools\bin\Debug\System.Memory.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.1\WebReportMWM\Tools\bin\Debug\System.Numerics.Vectors.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.1\WebReportMWM\Tools\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.1\WebReportMWM\Tools\obj\Debug\Tools.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.1\WebReportMWM\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.1\WebReportMWM\Tools\obj\Debug\Tools.csproj.CopyComplete
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.1\WebReportMWM\Tools\obj\Debug\Tools.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.1\WebReportMWM\Tools\obj\Debug\Tools.pdb
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.2\WebReportMWM\Tools\bin\Debug\Tools.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.2\WebReportMWM\Tools\bin\Debug\Tools.pdb
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.2\WebReportMWM\Tools\bin\Debug\Common.Logging.Core.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.2\WebReportMWM\Tools\bin\Debug\Common.Logging.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.2\WebReportMWM\Tools\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.2\WebReportMWM\Tools\bin\Debug\ExcelNumberFormat.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.2\WebReportMWM\Tools\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.2\WebReportMWM\Tools\bin\Debug\System.Buffers.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.2\WebReportMWM\Tools\bin\Debug\System.Memory.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.2\WebReportMWM\Tools\bin\Debug\System.Numerics.Vectors.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.2\WebReportMWM\Tools\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.2\WebReportMWM\Tools\bin\Debug\Common.Logging.pdb
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.2\WebReportMWM\Tools\bin\Debug\Common.Logging.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.2\WebReportMWM\Tools\bin\Debug\Common.Logging.Core.pdb
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.2\WebReportMWM\Tools\bin\Debug\Common.Logging.Core.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.2\WebReportMWM\Tools\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.2\WebReportMWM\Tools\bin\Debug\ExcelNumberFormat.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.2\WebReportMWM\Tools\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.2\WebReportMWM\Tools\bin\Debug\System.Buffers.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.2\WebReportMWM\Tools\bin\Debug\System.Memory.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.2\WebReportMWM\Tools\bin\Debug\System.Numerics.Vectors.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.2\WebReportMWM\Tools\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.2\WebReportMWM\Tools\obj\Debug\Tools.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.2\WebReportMWM\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.2\WebReportMWM\Tools\obj\Debug\Tools.csproj.CopyComplete
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.2\WebReportMWM\Tools\obj\Debug\Tools.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.2\WebReportMWM\Tools\obj\Debug\Tools.pdb
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.3\WebReportMWM\Tools\bin\Debug\Tools.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.3\WebReportMWM\Tools\bin\Debug\Tools.pdb
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.3\WebReportMWM\Tools\bin\Debug\Common.Logging.Core.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.3\WebReportMWM\Tools\bin\Debug\Common.Logging.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.3\WebReportMWM\Tools\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.3\WebReportMWM\Tools\bin\Debug\ExcelNumberFormat.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.3\WebReportMWM\Tools\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.3\WebReportMWM\Tools\bin\Debug\System.Buffers.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.3\WebReportMWM\Tools\bin\Debug\System.Memory.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.3\WebReportMWM\Tools\bin\Debug\System.Numerics.Vectors.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.3\WebReportMWM\Tools\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.3\WebReportMWM\Tools\bin\Debug\Common.Logging.pdb
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.3\WebReportMWM\Tools\bin\Debug\Common.Logging.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.3\WebReportMWM\Tools\bin\Debug\Common.Logging.Core.pdb
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.3\WebReportMWM\Tools\bin\Debug\Common.Logging.Core.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.3\WebReportMWM\Tools\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.3\WebReportMWM\Tools\bin\Debug\ExcelNumberFormat.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.3\WebReportMWM\Tools\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.3\WebReportMWM\Tools\bin\Debug\System.Buffers.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.3\WebReportMWM\Tools\bin\Debug\System.Memory.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.3\WebReportMWM\Tools\bin\Debug\System.Numerics.Vectors.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.3\WebReportMWM\Tools\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.3\WebReportMWM\Tools\obj\Debug\Tools.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.3\WebReportMWM\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.3\WebReportMWM\Tools\obj\Debug\Tools.csproj.CopyComplete
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.3\WebReportMWM\Tools\obj\Debug\Tools.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.3\WebReportMWM\Tools\obj\Debug\Tools.pdb
+C:\Users\usuario\OneDrive\Escritorio\Proyectos de desarrollo\WebReportMWM v10.0.3\WebReportMWM\Tools\bin\Debug\Tools.dll
+C:\Users\usuario\OneDrive\Escritorio\Proyectos de desarrollo\WebReportMWM v10.0.3\WebReportMWM\Tools\bin\Debug\Tools.pdb
+C:\Users\usuario\OneDrive\Escritorio\Proyectos de desarrollo\WebReportMWM v10.0.3\WebReportMWM\Tools\bin\Debug\Common.Logging.Core.dll
+C:\Users\usuario\OneDrive\Escritorio\Proyectos de desarrollo\WebReportMWM v10.0.3\WebReportMWM\Tools\bin\Debug\Common.Logging.dll
+C:\Users\usuario\OneDrive\Escritorio\Proyectos de desarrollo\WebReportMWM v10.0.3\WebReportMWM\Tools\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\usuario\OneDrive\Escritorio\Proyectos de desarrollo\WebReportMWM v10.0.3\WebReportMWM\Tools\bin\Debug\ExcelNumberFormat.dll
+C:\Users\usuario\OneDrive\Escritorio\Proyectos de desarrollo\WebReportMWM v10.0.3\WebReportMWM\Tools\bin\Debug\Glimpse.Core.dll
+C:\Users\usuario\OneDrive\Escritorio\Proyectos de desarrollo\WebReportMWM v10.0.3\WebReportMWM\Tools\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\usuario\OneDrive\Escritorio\Proyectos de desarrollo\WebReportMWM v10.0.3\WebReportMWM\Tools\bin\Debug\Newtonsoft.Json.dll
+C:\Users\usuario\OneDrive\Escritorio\Proyectos de desarrollo\WebReportMWM v10.0.3\WebReportMWM\Tools\bin\Debug\Newtonsoft.Json.Glimpse.dll
+C:\Users\usuario\OneDrive\Escritorio\Proyectos de desarrollo\WebReportMWM v10.0.3\WebReportMWM\Tools\bin\Debug\System.Buffers.dll
+C:\Users\usuario\OneDrive\Escritorio\Proyectos de desarrollo\WebReportMWM v10.0.3\WebReportMWM\Tools\bin\Debug\System.Memory.dll
+C:\Users\usuario\OneDrive\Escritorio\Proyectos de desarrollo\WebReportMWM v10.0.3\WebReportMWM\Tools\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\usuario\OneDrive\Escritorio\Proyectos de desarrollo\WebReportMWM v10.0.3\WebReportMWM\Tools\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\usuario\OneDrive\Escritorio\Proyectos de desarrollo\WebReportMWM v10.0.3\WebReportMWM\Tools\bin\Debug\Common.Logging.pdb
+C:\Users\usuario\OneDrive\Escritorio\Proyectos de desarrollo\WebReportMWM v10.0.3\WebReportMWM\Tools\bin\Debug\Common.Logging.xml
+C:\Users\usuario\OneDrive\Escritorio\Proyectos de desarrollo\WebReportMWM v10.0.3\WebReportMWM\Tools\bin\Debug\Common.Logging.Core.pdb
+C:\Users\usuario\OneDrive\Escritorio\Proyectos de desarrollo\WebReportMWM v10.0.3\WebReportMWM\Tools\bin\Debug\Common.Logging.Core.xml
+C:\Users\usuario\OneDrive\Escritorio\Proyectos de desarrollo\WebReportMWM v10.0.3\WebReportMWM\Tools\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\usuario\OneDrive\Escritorio\Proyectos de desarrollo\WebReportMWM v10.0.3\WebReportMWM\Tools\bin\Debug\ExcelNumberFormat.xml
+C:\Users\usuario\OneDrive\Escritorio\Proyectos de desarrollo\WebReportMWM v10.0.3\WebReportMWM\Tools\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\usuario\OneDrive\Escritorio\Proyectos de desarrollo\WebReportMWM v10.0.3\WebReportMWM\Tools\bin\Debug\Newtonsoft.Json.xml
+C:\Users\usuario\OneDrive\Escritorio\Proyectos de desarrollo\WebReportMWM v10.0.3\WebReportMWM\Tools\bin\Debug\Newtonsoft.Json.Glimpse.xml
+C:\Users\usuario\OneDrive\Escritorio\Proyectos de desarrollo\WebReportMWM v10.0.3\WebReportMWM\Tools\bin\Debug\System.Buffers.xml
+C:\Users\usuario\OneDrive\Escritorio\Proyectos de desarrollo\WebReportMWM v10.0.3\WebReportMWM\Tools\bin\Debug\System.Memory.xml
+C:\Users\usuario\OneDrive\Escritorio\Proyectos de desarrollo\WebReportMWM v10.0.3\WebReportMWM\Tools\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\usuario\OneDrive\Escritorio\Proyectos de desarrollo\WebReportMWM v10.0.3\WebReportMWM\Tools\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\usuario\OneDrive\Escritorio\Proyectos de desarrollo\WebReportMWM v10.0.3\WebReportMWM\Tools\obj\Debug\Tools.csproj.AssemblyReference.cache
+C:\Users\usuario\OneDrive\Escritorio\Proyectos de desarrollo\WebReportMWM v10.0.3\WebReportMWM\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+C:\Users\usuario\OneDrive\Escritorio\Proyectos de desarrollo\WebReportMWM v10.0.3\WebReportMWM\Tools\obj\Debug\Tools.csproj.CopyComplete
+C:\Users\usuario\OneDrive\Escritorio\Proyectos de desarrollo\WebReportMWM v10.0.3\WebReportMWM\Tools\obj\Debug\Tools.dll
+C:\Users\usuario\OneDrive\Escritorio\Proyectos de desarrollo\WebReportMWM v10.0.3\WebReportMWM\Tools\obj\Debug\Tools.pdb
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.4\WebReportMWM\Tools\bin\Debug\Tools.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.4\WebReportMWM\Tools\bin\Debug\Tools.pdb
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.4\WebReportMWM\Tools\bin\Debug\Common.Logging.Core.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.4\WebReportMWM\Tools\bin\Debug\Common.Logging.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.4\WebReportMWM\Tools\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.4\WebReportMWM\Tools\bin\Debug\ExcelNumberFormat.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.4\WebReportMWM\Tools\bin\Debug\Glimpse.Core.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.4\WebReportMWM\Tools\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.4\WebReportMWM\Tools\bin\Debug\Newtonsoft.Json.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.4\WebReportMWM\Tools\bin\Debug\Newtonsoft.Json.Glimpse.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.4\WebReportMWM\Tools\bin\Debug\System.Buffers.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.4\WebReportMWM\Tools\bin\Debug\System.Memory.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.4\WebReportMWM\Tools\bin\Debug\System.Numerics.Vectors.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.4\WebReportMWM\Tools\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.4\WebReportMWM\Tools\bin\Debug\Common.Logging.pdb
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.4\WebReportMWM\Tools\bin\Debug\Common.Logging.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.4\WebReportMWM\Tools\bin\Debug\Common.Logging.Core.pdb
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.4\WebReportMWM\Tools\bin\Debug\Common.Logging.Core.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.4\WebReportMWM\Tools\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.4\WebReportMWM\Tools\bin\Debug\ExcelNumberFormat.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.4\WebReportMWM\Tools\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.4\WebReportMWM\Tools\bin\Debug\Newtonsoft.Json.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.4\WebReportMWM\Tools\bin\Debug\Newtonsoft.Json.Glimpse.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.4\WebReportMWM\Tools\bin\Debug\System.Buffers.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.4\WebReportMWM\Tools\bin\Debug\System.Memory.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.4\WebReportMWM\Tools\bin\Debug\System.Numerics.Vectors.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.4\WebReportMWM\Tools\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.4\WebReportMWM\Tools\obj\Debug\Tools.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.4\WebReportMWM\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.4\WebReportMWM\Tools\obj\Debug\Tools.csproj.CopyComplete
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.4\WebReportMWM\Tools\obj\Debug\Tools.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.4\WebReportMWM\Tools\obj\Debug\Tools.pdb
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.5\WebReportMWM\Tools\bin\Debug\Tools.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.5\WebReportMWM\Tools\bin\Debug\Tools.pdb
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.5\WebReportMWM\Tools\bin\Debug\Common.Logging.Core.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.5\WebReportMWM\Tools\bin\Debug\Common.Logging.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.5\WebReportMWM\Tools\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.5\WebReportMWM\Tools\bin\Debug\ExcelNumberFormat.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.5\WebReportMWM\Tools\bin\Debug\Glimpse.Core.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.5\WebReportMWM\Tools\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.5\WebReportMWM\Tools\bin\Debug\Newtonsoft.Json.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.5\WebReportMWM\Tools\bin\Debug\Newtonsoft.Json.Glimpse.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.5\WebReportMWM\Tools\bin\Debug\System.Buffers.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.5\WebReportMWM\Tools\bin\Debug\System.Memory.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.5\WebReportMWM\Tools\bin\Debug\System.Numerics.Vectors.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.5\WebReportMWM\Tools\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.5\WebReportMWM\Tools\bin\Debug\Common.Logging.pdb
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.5\WebReportMWM\Tools\bin\Debug\Common.Logging.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.5\WebReportMWM\Tools\bin\Debug\Common.Logging.Core.pdb
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.5\WebReportMWM\Tools\bin\Debug\Common.Logging.Core.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.5\WebReportMWM\Tools\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.5\WebReportMWM\Tools\bin\Debug\ExcelNumberFormat.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.5\WebReportMWM\Tools\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.5\WebReportMWM\Tools\bin\Debug\Newtonsoft.Json.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.5\WebReportMWM\Tools\bin\Debug\Newtonsoft.Json.Glimpse.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.5\WebReportMWM\Tools\bin\Debug\System.Buffers.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.5\WebReportMWM\Tools\bin\Debug\System.Memory.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.5\WebReportMWM\Tools\bin\Debug\System.Numerics.Vectors.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.5\WebReportMWM\Tools\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.5\WebReportMWM\Tools\obj\Debug\Tools.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.5\WebReportMWM\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.5\WebReportMWM\Tools\obj\Debug\Tools.csproj.CopyComplete
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.5\WebReportMWM\Tools\obj\Debug\Tools.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.5\WebReportMWM\Tools\obj\Debug\Tools.pdb
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.6\WebReportMWM\Tools\bin\Debug\Tools.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.6\WebReportMWM\Tools\bin\Debug\Tools.pdb
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.6\WebReportMWM\Tools\bin\Debug\Common.Logging.Core.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.6\WebReportMWM\Tools\bin\Debug\Common.Logging.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.6\WebReportMWM\Tools\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.6\WebReportMWM\Tools\bin\Debug\ExcelNumberFormat.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.6\WebReportMWM\Tools\bin\Debug\Glimpse.Core.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.6\WebReportMWM\Tools\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.6\WebReportMWM\Tools\bin\Debug\Newtonsoft.Json.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.6\WebReportMWM\Tools\bin\Debug\Newtonsoft.Json.Glimpse.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.6\WebReportMWM\Tools\bin\Debug\System.Buffers.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.6\WebReportMWM\Tools\bin\Debug\System.Memory.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.6\WebReportMWM\Tools\bin\Debug\System.Numerics.Vectors.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.6\WebReportMWM\Tools\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.6\WebReportMWM\Tools\bin\Debug\Common.Logging.pdb
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.6\WebReportMWM\Tools\bin\Debug\Common.Logging.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.6\WebReportMWM\Tools\bin\Debug\Common.Logging.Core.pdb
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.6\WebReportMWM\Tools\bin\Debug\Common.Logging.Core.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.6\WebReportMWM\Tools\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.6\WebReportMWM\Tools\bin\Debug\ExcelNumberFormat.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.6\WebReportMWM\Tools\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.6\WebReportMWM\Tools\bin\Debug\Newtonsoft.Json.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.6\WebReportMWM\Tools\bin\Debug\Newtonsoft.Json.Glimpse.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.6\WebReportMWM\Tools\bin\Debug\System.Buffers.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.6\WebReportMWM\Tools\bin\Debug\System.Memory.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.6\WebReportMWM\Tools\bin\Debug\System.Numerics.Vectors.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.6\WebReportMWM\Tools\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.6\WebReportMWM\Tools\obj\Debug\Tools.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.6\WebReportMWM\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.6\WebReportMWM\Tools\obj\Debug\Tools.csproj.CopyComplete
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.6\WebReportMWM\Tools\obj\Debug\Tools.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.6\WebReportMWM\Tools\obj\Debug\Tools.pdb
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.7\WebReportMWM\Tools\bin\Debug\Tools.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.7\WebReportMWM\Tools\bin\Debug\Tools.pdb
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.7\WebReportMWM\Tools\bin\Debug\Common.Logging.Core.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.7\WebReportMWM\Tools\bin\Debug\Common.Logging.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.7\WebReportMWM\Tools\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.7\WebReportMWM\Tools\bin\Debug\ExcelNumberFormat.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.7\WebReportMWM\Tools\bin\Debug\Glimpse.Core.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.7\WebReportMWM\Tools\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.7\WebReportMWM\Tools\bin\Debug\Newtonsoft.Json.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.7\WebReportMWM\Tools\bin\Debug\Newtonsoft.Json.Glimpse.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.7\WebReportMWM\Tools\bin\Debug\System.Buffers.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.7\WebReportMWM\Tools\bin\Debug\System.Memory.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.7\WebReportMWM\Tools\bin\Debug\System.Numerics.Vectors.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.7\WebReportMWM\Tools\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.7\WebReportMWM\Tools\bin\Debug\Common.Logging.pdb
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.7\WebReportMWM\Tools\bin\Debug\Common.Logging.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.7\WebReportMWM\Tools\bin\Debug\Common.Logging.Core.pdb
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.7\WebReportMWM\Tools\bin\Debug\Common.Logging.Core.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.7\WebReportMWM\Tools\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.7\WebReportMWM\Tools\bin\Debug\ExcelNumberFormat.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.7\WebReportMWM\Tools\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.7\WebReportMWM\Tools\bin\Debug\Newtonsoft.Json.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.7\WebReportMWM\Tools\bin\Debug\Newtonsoft.Json.Glimpse.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.7\WebReportMWM\Tools\bin\Debug\System.Buffers.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.7\WebReportMWM\Tools\bin\Debug\System.Memory.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.7\WebReportMWM\Tools\bin\Debug\System.Numerics.Vectors.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.7\WebReportMWM\Tools\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.7\WebReportMWM\Tools\obj\Debug\Tools.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.7\WebReportMWM\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.7\WebReportMWM\Tools\obj\Debug\Tools.csproj.CopyComplete
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.7\WebReportMWM\Tools\obj\Debug\Tools.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.7\WebReportMWM\Tools\obj\Debug\Tools.pdb
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.8\WebReportMWM\Tools\bin\Debug\Tools.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.8\WebReportMWM\Tools\bin\Debug\Tools.pdb
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.8\WebReportMWM\Tools\bin\Debug\Common.Logging.Core.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.8\WebReportMWM\Tools\bin\Debug\Common.Logging.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.8\WebReportMWM\Tools\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.8\WebReportMWM\Tools\bin\Debug\ExcelNumberFormat.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.8\WebReportMWM\Tools\bin\Debug\Glimpse.Core.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.8\WebReportMWM\Tools\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.8\WebReportMWM\Tools\bin\Debug\Newtonsoft.Json.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.8\WebReportMWM\Tools\bin\Debug\Newtonsoft.Json.Glimpse.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.8\WebReportMWM\Tools\bin\Debug\System.Buffers.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.8\WebReportMWM\Tools\bin\Debug\System.Memory.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.8\WebReportMWM\Tools\bin\Debug\System.Numerics.Vectors.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.8\WebReportMWM\Tools\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.8\WebReportMWM\Tools\bin\Debug\Common.Logging.pdb
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.8\WebReportMWM\Tools\bin\Debug\Common.Logging.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.8\WebReportMWM\Tools\bin\Debug\Common.Logging.Core.pdb
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.8\WebReportMWM\Tools\bin\Debug\Common.Logging.Core.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.8\WebReportMWM\Tools\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.8\WebReportMWM\Tools\bin\Debug\ExcelNumberFormat.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.8\WebReportMWM\Tools\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.8\WebReportMWM\Tools\bin\Debug\Newtonsoft.Json.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.8\WebReportMWM\Tools\bin\Debug\Newtonsoft.Json.Glimpse.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.8\WebReportMWM\Tools\bin\Debug\System.Buffers.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.8\WebReportMWM\Tools\bin\Debug\System.Memory.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.8\WebReportMWM\Tools\bin\Debug\System.Numerics.Vectors.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.8\WebReportMWM\Tools\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.8\WebReportMWM\Tools\obj\Debug\Tools.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.8\WebReportMWM\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.8\WebReportMWM\Tools\obj\Debug\Tools.csproj.CopyComplete
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.8\WebReportMWM\Tools\obj\Debug\Tools.dll
+C:\Desarrollo\Software\C#\WebReportMWM v10.0.8\WebReportMWM\Tools\obj\Debug\Tools.pdb
+C:\Desarrollo\Software\C#\WebReportMWM v20.0.0\WebReportMWM\Tools\bin\Debug\Tools.dll
+C:\Desarrollo\Software\C#\WebReportMWM v20.0.0\WebReportMWM\Tools\bin\Debug\Tools.pdb
+C:\Desarrollo\Software\C#\WebReportMWM v20.0.0\WebReportMWM\Tools\bin\Debug\Common.Logging.Core.dll
+C:\Desarrollo\Software\C#\WebReportMWM v20.0.0\WebReportMWM\Tools\bin\Debug\Common.Logging.dll
+C:\Desarrollo\Software\C#\WebReportMWM v20.0.0\WebReportMWM\Tools\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Desarrollo\Software\C#\WebReportMWM v20.0.0\WebReportMWM\Tools\bin\Debug\ExcelNumberFormat.dll
+C:\Desarrollo\Software\C#\WebReportMWM v20.0.0\WebReportMWM\Tools\bin\Debug\Glimpse.Core.dll
+C:\Desarrollo\Software\C#\WebReportMWM v20.0.0\WebReportMWM\Tools\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Desarrollo\Software\C#\WebReportMWM v20.0.0\WebReportMWM\Tools\bin\Debug\Newtonsoft.Json.dll
+C:\Desarrollo\Software\C#\WebReportMWM v20.0.0\WebReportMWM\Tools\bin\Debug\Newtonsoft.Json.Glimpse.dll
+C:\Desarrollo\Software\C#\WebReportMWM v20.0.0\WebReportMWM\Tools\bin\Debug\System.Buffers.dll
+C:\Desarrollo\Software\C#\WebReportMWM v20.0.0\WebReportMWM\Tools\bin\Debug\System.Memory.dll
+C:\Desarrollo\Software\C#\WebReportMWM v20.0.0\WebReportMWM\Tools\bin\Debug\System.Numerics.Vectors.dll
+C:\Desarrollo\Software\C#\WebReportMWM v20.0.0\WebReportMWM\Tools\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Desarrollo\Software\C#\WebReportMWM v20.0.0\WebReportMWM\Tools\bin\Debug\Common.Logging.pdb
+C:\Desarrollo\Software\C#\WebReportMWM v20.0.0\WebReportMWM\Tools\bin\Debug\Common.Logging.xml
+C:\Desarrollo\Software\C#\WebReportMWM v20.0.0\WebReportMWM\Tools\bin\Debug\Common.Logging.Core.pdb
+C:\Desarrollo\Software\C#\WebReportMWM v20.0.0\WebReportMWM\Tools\bin\Debug\Common.Logging.Core.xml
+C:\Desarrollo\Software\C#\WebReportMWM v20.0.0\WebReportMWM\Tools\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Desarrollo\Software\C#\WebReportMWM v20.0.0\WebReportMWM\Tools\bin\Debug\ExcelNumberFormat.xml
+C:\Desarrollo\Software\C#\WebReportMWM v20.0.0\WebReportMWM\Tools\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Desarrollo\Software\C#\WebReportMWM v20.0.0\WebReportMWM\Tools\bin\Debug\Newtonsoft.Json.xml
+C:\Desarrollo\Software\C#\WebReportMWM v20.0.0\WebReportMWM\Tools\bin\Debug\Newtonsoft.Json.Glimpse.xml
+C:\Desarrollo\Software\C#\WebReportMWM v20.0.0\WebReportMWM\Tools\bin\Debug\System.Buffers.xml
+C:\Desarrollo\Software\C#\WebReportMWM v20.0.0\WebReportMWM\Tools\bin\Debug\System.Memory.xml
+C:\Desarrollo\Software\C#\WebReportMWM v20.0.0\WebReportMWM\Tools\bin\Debug\System.Numerics.Vectors.xml
+C:\Desarrollo\Software\C#\WebReportMWM v20.0.0\WebReportMWM\Tools\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Desarrollo\Software\C#\WebReportMWM v20.0.0\WebReportMWM\Tools\obj\Debug\Tools.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\WebReportMWM v20.0.0\WebReportMWM\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\WebReportMWM v20.0.0\WebReportMWM\Tools\obj\Debug\Tools.csproj.Up2Date
+C:\Desarrollo\Software\C#\WebReportMWM v20.0.0\WebReportMWM\Tools\obj\Debug\Tools.dll
+C:\Desarrollo\Software\C#\WebReportMWM v20.0.0\WebReportMWM\Tools\obj\Debug\Tools.pdb
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\Tools\bin\Debug\Tools.dll
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\Tools\bin\Debug\Tools.pdb
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\Tools\bin\Debug\Common.Logging.Core.dll
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\Tools\bin\Debug\Common.Logging.dll
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\Tools\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\Tools\bin\Debug\ExcelNumberFormat.dll
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\Tools\bin\Debug\Glimpse.Core.dll
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\Tools\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\Tools\bin\Debug\Newtonsoft.Json.dll
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\Tools\bin\Debug\Newtonsoft.Json.Glimpse.dll
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\Tools\bin\Debug\System.Buffers.dll
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\Tools\bin\Debug\System.Memory.dll
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\Tools\bin\Debug\System.Numerics.Vectors.dll
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\Tools\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\Tools\bin\Debug\Common.Logging.pdb
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\Tools\bin\Debug\Common.Logging.xml
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\Tools\bin\Debug\Common.Logging.Core.pdb
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\Tools\bin\Debug\Common.Logging.Core.xml
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\Tools\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\Tools\bin\Debug\ExcelNumberFormat.xml
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\Tools\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\Tools\bin\Debug\Newtonsoft.Json.xml
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\Tools\bin\Debug\Newtonsoft.Json.Glimpse.xml
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\Tools\bin\Debug\System.Buffers.xml
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\Tools\bin\Debug\System.Memory.xml
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\Tools\bin\Debug\System.Numerics.Vectors.xml
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\Tools\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\Tools\obj\Debug\Tools.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\Tools\obj\Debug\Tools.csproj.Up2Date
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\Tools\obj\Debug\Tools.dll
+C:\Desarrollo\Software\C#\WebReportMWM\WebReportMWM v40.0.0\WebReportMWM\Tools\obj\Debug\Tools.pdb

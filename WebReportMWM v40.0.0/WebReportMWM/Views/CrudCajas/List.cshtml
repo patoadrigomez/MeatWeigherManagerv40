@@ -1,0 +1,96 @@
+﻿@model IEnumerable<WebReportMWM.Models.Entitys.Caja>
+@{
+    ViewBag.Title = "List";
+}
+
+@{ WebGrid webGrid = new WebGrid(source: Model, canPage: false, canSort: false);
+
+    string IdRowSelect = ViewBag.IdRowSelect == null ? "0" : ((int)ViewBag.IdRowSelect).ToString();
+
+}
+
+
+<h2>Lista de Cajas</h2>
+<p>
+  
+
+
+    @webGrid.GetHtml(htmlAttributes: new { @id = "WebGrid", @class = "Grid" },
+                tableStyle: "table table-bordered",
+                fillEmptyRows: false,
+                alternatingRowStyle: "alt",
+                headerStyle: "webgrid-header",
+                columns: webGrid.Columns(
+                webGrid.Column(columnName: "IdProductoCaja", header: "IdCaja", style: "Id"),
+                webGrid.Column(columnName: "IdProducto", header: "IdProducto", style: "Id"),
+                webGrid.Column(columnName: "NombreCaja", header: "CAJA"),
+                webGrid.Column(columnName: "NombreProducto", header: "PRODUCTO CONTENIDO"),
+                webGrid.Column(header: "", style: "collinks", format:@<span class="link"> 
+                    @Html.ActionLink(" ", "AddChangeProducto", new { IdProductoCaja = item.IdProductoCaja, IdProducto = item.IdProducto, NombreCaja = item.NombreCaja, NombreProducto = item.NombreProducto }, new { @class = "glyphicon glyphicon-edit", title="Asignar/Cambiar Producto" }) |
+                    @Html.ActionLink(" ", "ConfirmDelete", new { IdProductoCaja = item.IdProductoCaja, IdProducto = item.IdProducto, NombreCaja = item.NombreCaja }, new { @style = "color:#ff0000;", @class = "glyphicon glyphicon-trash", title="Quitar Producto" })</span>)))
+
+
+
+    <style type="text/css">
+        .webgrid-header th {
+            padding: 6px 5px;
+            text-align: center;
+            background-color: #e8eef4;
+            border-bottom: 2px solid #3966A2;
+            height: 40px;
+            font-weight: bold;
+            border-top: 2px solid #D6E8FF;
+            border-left: 2px solid #D6E8FF;
+            border-right: 2px solid #D6E8FF;
+        }
+
+        .alt {
+            background-color: #FBFBFB;
+            color: #000;
+        }
+
+        .label {
+            color: #000;
+            font-weight: normal;
+        }
+
+        .selectedrow {
+            background-color: gold;
+        }
+
+        .table tr td:nth-child(6),
+        .table tr td:nth-child(7) {
+            text-align: right;
+            width: 110px;
+        }
+        .collinks {
+            width: 8%;
+            text-align: center;
+        }
+
+    </style>
+
+    <script type="text/javascript" src="~/Scripts/jquery-3.4.1.min.js"></script>
+
+    <script type="text/javascript">
+
+     $(document).ready(function () {
+        $('#WebGrid tr').each(function () {
+            var Id = $(this).find(".Id").html();
+            if (Id == @IdRowSelect)
+            {
+                $(this).click();
+                $(document).scrollTop($(this).position().top);
+            }
+        });
+        //oculto columna ID
+        $("#WebGrid th:nth-child(1),td:nth-child(1)").hide();
+        $("#WebGrid th:nth-child(2),td:nth-child(2)").hide();
+     });
+
+    $("body").on("click", "#WebGrid tr", function () {
+        $("#WebGrid").find("td").removeClass("selectedrow");
+        $(this).find("td").addClass("selectedrow");
+    });
+    </script>
+

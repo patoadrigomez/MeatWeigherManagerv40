@@ -1,0 +1,52 @@
+﻿@model WebReportMWM.Models.Entitys.InsumoPrimario
+@{
+    ViewBag.Title = "ConfirmDeleteInsumoPrimario";
+}
+
+<h2>Eliminar asignación de Insumo Primario</h2>
+
+@using (Html.BeginForm("ConfirmDeleteInsumoPrimario", "CrudProductoInsumos", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+
+<div class="form-horizontal">
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    @Html.HiddenFor(model => model.IdProducto)
+    @Html.HiddenFor(model => model.Id)
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    <input type="hidden" id="idProducto" name="idProducto" value="@Model.IdProducto" />
+    <input type="hidden" id="idInsumoPrimario" name="idInsumoPrimario" value="@Model.Id" />
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Nombre, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.TextBoxFor(model => model.Nombre, new { @class = "form-control", disabled = "disabled", @readonly = "readonly" })
+        </div>
+    </div>
+
+   
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="Quitar" class="btn btn-danger" />
+            @Html.ActionLink("Volver", "DetailInsumosPrimarios", new
+          {
+              IdInsumoPrimarioRowSelect = Model.Id,
+              IdInsumoSecundarioRowSelect = Model.Id,
+              IdProducto = Model.IdProducto,
+              NombreProducto = Model.NombreProducto,
+          }, new { @class = "btn btn-info" })
+            @ViewBag.Message
+        </div>
+    </div>
+</div>
+
+    if (TempData["MessagesError"] != null && ((List<string>)TempData["MessagesError"]).Count > 0)
+    {
+        foreach (string msg in (List<string>)TempData["MessagesError"])
+        {
+            <p style="color:red;">@msg</p>
+        }
+    }
+}
+
+

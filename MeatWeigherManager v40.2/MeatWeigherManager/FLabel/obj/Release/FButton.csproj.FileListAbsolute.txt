@@ -1,0 +1,9 @@
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\EtReg_41WNet\EtReg_41WNet\FButton\bin\Release\FButton.dll
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\EtReg_41WNet\EtReg_41WNet\FButton\bin\Release\FButton.pdb
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\EtReg_41WNet\EtReg_41WNet\FButton\obj\Release\FButton.dll
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\EtReg_41WNet\EtReg_41WNet\FButton\obj\Release\FButton.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtReg_41WNet\EtReg_41WNet\FButton\bin\Release\FButton.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtReg_41WNet\EtReg_41WNet\FButton\bin\Release\FButton.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtReg_41WNet\EtReg_41WNet\FButton\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtReg_41WNet\EtReg_41WNet\FButton\obj\Release\FButton.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtReg_41WNet\EtReg_41WNet\FButton\obj\Release\FButton.pdb

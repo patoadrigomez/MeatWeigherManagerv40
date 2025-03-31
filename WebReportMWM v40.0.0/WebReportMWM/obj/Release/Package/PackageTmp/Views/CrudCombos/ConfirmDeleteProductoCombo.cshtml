@@ -1,0 +1,81 @@
+﻿@model WebReportMWM.Models.Entitys.ProductoEnCombo
+@{
+    ViewBag.Title = "ConfirmDeleteProductoCombo";
+}
+
+<h2>Quitar Producto del Combo</h2>
+
+@using (Html.BeginForm("DeleteProductoCombo", "CrudCombos", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+
+<div class="form-horizontal">
+    <input type="hidden" id="idProductoCombo" name="idProductoCombo" value="@Model.IdProductoCombo" />
+    <input type="hidden" id="idProducto" name="idProducto" value="@Model.IdProducto" />
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.NombreProducto, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.TextBoxFor(model => model.NombreProducto, new { @class = "form-control", disabled = "disabled", @readonly = "readonly" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Unidades, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.TextBoxFor(model => model.Unidades, new { @class = "form-control", disabled = "disabled", @readonly = "readonly" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Peso, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.TextBoxFor(model => model.Peso, new { @class = "form-control", disabled = "disabled", @readonly = "readonly" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.ToleranciaPeso, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.TextBoxFor(model => model.ToleranciaPeso, new { @class = "form-control", disabled = "disabled", @readonly = "readonly" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.ValidarUnds, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.TextBoxFor(model => model.ValidarUnds, Convert.ToBoolean(@Model.ValidarUnds) ? "SI" : "NO", new { @class = "form-control", disabled = "disabled", @readonly = "readonly" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.ValidarPeso, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.TextBoxFor(model => model.ValidarPeso,Convert.ToBoolean(@Model.ValidarPeso)?"SI":"NO" ,new { @class = "form-control", disabled = "disabled", @readonly = "readonly" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="Quitar" class="btn btn-danger" />
+            @Html.ActionLink("Volver", "DetailProductos", new
+       {
+           idComboRowSelect = Model.IdProductoCombo,
+           idProductoRowSelect = Model.IdProducto,
+           idProductoCombo = Model.IdProductoCombo,
+           NombreCombo = Model.NombreCombo,
+       }, new { @class = "btn btn-info" })
+            @ViewBag.Message
+        </div>
+    </div>
+</div>
+
+ if (TempData["MessagesError"] != null && ((List<string>)TempData["MessagesError"]).Count > 0)
+    {
+        foreach (string msg in (List<string>)TempData["MessagesError"])
+        {
+            <p style="color:red;">@msg</p>
+        }
+    }
+}
+

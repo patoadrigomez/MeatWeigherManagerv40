@@ -1,0 +1,12 @@
+C:\Users\Sergio\Downloads\LoadingCircle\MRG.Controls.UI\bin\Debug\MRG.Controls.UI.dll
+C:\Users\Sergio\Downloads\LoadingCircle\MRG.Controls.UI\bin\Debug\MRG.Controls.UI.pdb
+C:\Users\Sergio\Downloads\LoadingCircle\MRG.Controls.UI\obj\Debug\MRG.Controls.UI.csprojAssemblyReference.cache
+C:\Users\Sergio\Downloads\LoadingCircle\MRG.Controls.UI\obj\Debug\MRG.Controls.UI.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Downloads\LoadingCircle\MRG.Controls.UI\obj\Debug\MRG.Controls.UI.dll
+C:\Users\Sergio\Downloads\LoadingCircle\MRG.Controls.UI\obj\Debug\MRG.Controls.UI.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\LoadingCircleCtrl\bin\Debug\MRG.Controls.UI.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\LoadingCircleCtrl\bin\Debug\MRG.Controls.UI.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\LoadingCircleCtrl\obj\Debug\MRG.Controls.UI.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\LoadingCircleCtrl\obj\Debug\MRG.Controls.UI.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\LoadingCircleCtrl\obj\Debug\MRG.Controls.UI.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\LoadingCircleCtrl\obj\Debug\MRG.Controls.UI.pdb

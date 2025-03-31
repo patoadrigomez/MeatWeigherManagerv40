@@ -1,0 +1,766 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{F5C78F1F-1451-4CFF-9D8B-AC7B93497B2C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MeatWeigherManager</RootNamespace>
+    <AssemblyName>MeatWeigherManager</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>TRACE;DEBUG;SIMULATE_PRINTER</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE;SIMULATE_PRINTER</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>imcr.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Crypto, Version=1.8.1.0, Culture=neutral, PublicKeyToken=0e99375e54769942, processorArchitecture=MSIL">
+      <HintPath>..\packages\Portable.BouncyCastle.1.8.1.3\lib\net40\BouncyCastle.Crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="Common.Logging, Version=3.4.1.0, Culture=neutral, PublicKeyToken=af08829b84f0328e, processorArchitecture=MSIL">
+      <HintPath>..\packages\Common.Logging.3.4.1\lib\net40\Common.Logging.dll</HintPath>
+    </Reference>
+    <Reference Include="Common.Logging.Core, Version=3.4.1.0, Culture=neutral, PublicKeyToken=af08829b84f0328e, processorArchitecture=MSIL">
+      <HintPath>..\packages\Common.Logging.Core.3.4.1\lib\net40\Common.Logging.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.5.13.1, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\iTextSharp.5.5.13.1\lib\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Stampa">
+      <HintPath>Stampa Report\Stampa.DLL</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CABM_EtiquetasDlg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CABM_TipificacionesDlg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CParametrosDlg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CParametrosDlg.designer.cs">
+      <DependentUpon>CParametrosDlg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CAjusteStockInsumosDlg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CAjusteStockInsumosDlg.designer.cs">
+      <DependentUpon>CAjusteStockInsumosDlg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CABM_DeclaracionInsumosPedidoDlg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CABM_DeclaracionInsumosPedidoDlg.designer.cs">
+      <DependentUpon>CABM_DeclaracionInsumosPedidoDlg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CABM_SectoresDlg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CABM_DestinosDlg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AboutBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AboutBox.designer.cs">
+      <DependentUpon>AboutBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CABM_CTiposProductosDlg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CAB_FacturasDlg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CAB_RemitosDlg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CBackupDlg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CConfigWorkMode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CViewConsultaTransferenciasDepositoDlg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CViewConsultaTransferenciasDepositoDlg.designer.cs">
+      <DependentUpon>CViewConsultaTransferenciasDepositoDlg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CViewHistoryPart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CViewHistoryPart.designer.cs">
+      <DependentUpon>CViewHistoryPart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CSelProveedorSACDlg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CSelProveedorSACDlg.designer.cs">
+      <DependentUpon>CSelProveedorSACDlg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CViewArticulosEnPedidosDlg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CViewArticulosEnPedidosDlg.Designer.cs">
+      <DependentUpon>CViewArticulosEnPedidosDlg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CViewConsultaCombosRegistradosDlg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CViewConsultaCombosRegistradosDlg.designer.cs">
+      <DependentUpon>CViewConsultaCombosRegistradosDlg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_DeclaraIngresosConPesoEditado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_DeclaraIngresosConPesoEditado.Designer.cs">
+      <DependentUpon>Form_DeclaraIngresosConPesoEditado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_EditCount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_EditCount.Designer.cs">
+      <DependentUpon>Form_EditCount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CInventarioDlg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CInventarioDlg.designer.cs">
+      <DependentUpon>CInventarioDlg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CSelProductoSACDlg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CSelProductoSACDlg.designer.cs">
+      <DependentUpon>CSelProductoSACDlg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CSelProductoDlg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CSelProductoDlg.designer.cs">
+      <DependentUpon>CSelProductoDlg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CConfigApp.cs" />
+    <Compile Include="CConfigAppDlg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CLogDlg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CLogDlg.Designer.cs">
+      <DependentUpon>CLogDlg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CSetPortDlg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CViewConsultaLotePiezasIngProduccionDlg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CViewConsultaLotePiezasIngProduccionDlg.designer.cs">
+      <DependentUpon>CViewConsultaLotePiezasIngProduccionDlg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CViewConsultaLotePesadasDlg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CViewConsultaLotePesadasDlg.designer.cs">
+      <DependentUpon>CViewConsultaLotePesadasDlg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CViewConsultaEgresosDlg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CViewConsultaEgresosDlg.designer.cs">
+      <DependentUpon>CViewConsultaEgresosDlg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CViewConsultaCajasPesadasDlg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CViewConsultaCajasPesadasDlg.designer.cs">
+      <DependentUpon>CViewConsultaCajasPesadasDlg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CViewPedidosDlg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CViewPedidosDlg.Designer.cs">
+      <DependentUpon>CViewPedidosDlg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CViewOICreadasDlg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CViewOICreadasDlg.Designer.cs">
+      <DependentUpon>CViewOICreadasDlg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CViewConsultaOIPesadasDlg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CViewConsultaOIPesadasDlg.designer.cs">
+      <DependentUpon>CViewConsultaOIPesadasDlg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_EgresoDlg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_EgresoDlg.Designer.cs">
+      <DependentUpon>Form_EgresoDlg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Fraccionar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Fraccionar.Designer.cs">
+      <DependentUpon>Form_Fraccionar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Devoluciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Devoluciones.Designer.cs">
+      <DependentUpon>Form_Devoluciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Inventario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Inventario.Designer.cs">
+      <DependentUpon>Form_Inventario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_PesajeEnProduccion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_PesajeEnProduccion.Designer.cs">
+      <DependentUpon>Form_PesajeEnProduccion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_PreparacionCombos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_PreparacionCombos.Designer.cs">
+      <DependentUpon>Form_PreparacionCombos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_PesajeCajas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_PesajeCajas.Designer.cs">
+      <DependentUpon>Form_PesajeCajas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_IngresoAProduccion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_IngresoAProduccion.Designer.cs">
+      <DependentUpon>Form_IngresoAProduccion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_IngresoAPlanta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_IngresoAPlanta.Designer.cs">
+      <DependentUpon>Form_IngresoAPlanta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_PrintLabelsPedido.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_PrintLabelsPedido.designer.cs">
+      <DependentUpon>Form_PrintLabelsPedido.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_TransferenciaDeposito.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_TransferenciaDeposito.designer.cs">
+      <DependentUpon>Form_TransferenciaDeposito.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HostInterfaceScanner.cs" />
+    <Compile Include="Label.cs" />
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ScaleForm.cs" />
+    <EmbeddedResource Include="CABM_EtiquetasDlg.resx">
+      <DependentUpon>CABM_EtiquetasDlg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CABM_TipificacionesDlg.resx">
+      <DependentUpon>CABM_TipificacionesDlg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CParametrosDlg.resx">
+      <DependentUpon>CParametrosDlg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CAjusteStockInsumosDlg.resx">
+      <DependentUpon>CAjusteStockInsumosDlg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CABM_DeclaracionInsumosPedidoDlg.resx">
+      <DependentUpon>CABM_DeclaracionInsumosPedidoDlg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CABM_SectoresDlg.resx">
+      <DependentUpon>CABM_SectoresDlg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CABM_DestinosDlg.resx">
+      <DependentUpon>CABM_DestinosDlg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AboutBox.resx">
+      <DependentUpon>AboutBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CABM_CTiposProductosDlg.resx">
+      <DependentUpon>CABM_CTiposProductosDlg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CBackupDlg.resx">
+      <DependentUpon>CBackupDlg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CConfigWorkMode.resx">
+      <DependentUpon>CConfigWorkMode.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CViewConsultaTransferenciasDepositoDlg.resx">
+      <DependentUpon>CViewConsultaTransferenciasDepositoDlg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CViewHistoryPart.resx">
+      <DependentUpon>CViewHistoryPart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CSelProveedorSACDlg.resx">
+      <DependentUpon>CSelProveedorSACDlg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CViewArticulosEnPedidosDlg.resx">
+      <DependentUpon>CViewArticulosEnPedidosDlg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CViewConsultaCombosRegistradosDlg.resx">
+      <DependentUpon>CViewConsultaCombosRegistradosDlg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_DeclaraIngresosConPesoEditado.resx">
+      <DependentUpon>Form_DeclaraIngresosConPesoEditado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_EditCount.resx">
+      <DependentUpon>Form_EditCount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CInventarioDlg.resx">
+      <DependentUpon>CInventarioDlg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CSelProductoSACDlg.resx">
+      <DependentUpon>CSelProductoSACDlg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CSelProductoDlg.resx">
+      <DependentUpon>CSelProductoDlg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CConfigAppDlg.resx">
+      <DependentUpon>CConfigAppDlg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CLogDlg.resx">
+      <DependentUpon>CLogDlg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CSetPortDlg.resx">
+      <DependentUpon>CSetPortDlg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CViewConsultaLotePiezasIngProduccionDlg.resx">
+      <DependentUpon>CViewConsultaLotePiezasIngProduccionDlg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CViewConsultaLotePesadasDlg.resx">
+      <DependentUpon>CViewConsultaLotePesadasDlg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CViewConsultaEgresosDlg.resx">
+      <DependentUpon>CViewConsultaEgresosDlg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CViewConsultaCajasPesadasDlg.resx">
+      <DependentUpon>CViewConsultaCajasPesadasDlg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CViewPedidosDlg.resx">
+      <DependentUpon>CViewPedidosDlg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CViewOICreadasDlg.resx">
+      <DependentUpon>CViewOICreadasDlg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CViewConsultaOIPesadasDlg.resx">
+      <DependentUpon>CViewConsultaOIPesadasDlg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_EgresoDlg.resx">
+      <DependentUpon>Form_EgresoDlg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Fraccionar.resx">
+      <DependentUpon>Form_Fraccionar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Devoluciones.resx">
+      <DependentUpon>Form_Devoluciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Inventario.resx">
+      <DependentUpon>Form_Inventario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_PesajeEnProduccion.resx">
+      <DependentUpon>Form_PesajeEnProduccion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_PreparacionCombos.resx">
+      <DependentUpon>Form_PreparacionCombos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_PesajeCajas.resx">
+      <DependentUpon>Form_PesajeCajas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_IngresoAProduccion.resx">
+      <DependentUpon>Form_IngresoAProduccion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_IngresoAPlanta.resx">
+      <DependentUpon>Form_IngresoAPlanta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_PrintLabelsPedido.resx">
+      <DependentUpon>Form_PrintLabelsPedido.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_TransferenciaDeposito.resx">
+      <DependentUpon>Form_TransferenciaDeposito.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="BigCheckBox\BigCheckBox.csproj">
+      <Project>{cb5d4cba-63ba-4878-8dee-3c8fd5958740}</Project>
+      <Name>BigCheckBox</Name>
+    </ProjectReference>
+    <ProjectReference Include="CABM_DB\ABM_DB.csproj">
+      <Project>{757c7a7f-e653-4a77-b4b5-49ab5bf6df39}</Project>
+      <Name>ABM_DB</Name>
+    </ProjectReference>
+    <ProjectReference Include="CAB_ListItemsDlg\CAB_ListItemsDlg.csproj">
+      <Project>{a471cc09-76e7-4555-977d-d26d5ad6f44d}</Project>
+      <Name>CAB_ListItemsDlg</Name>
+    </ProjectReference>
+    <ProjectReference Include="CBalanzaSerialPort\CBalanzaSerialPort.csproj">
+      <Project>{3095858B-B6AA-4D36-A4A9-A0D0EEE7B45C}</Project>
+      <Name>CBalanzaSerialPort</Name>
+    </ProjectReference>
+    <ProjectReference Include="CCommons\CCommons.csproj">
+      <Project>{8C054FDA-B6D4-4913-BB43-80099C2B486F}</Project>
+      <Name>CCommons</Name>
+    </ProjectReference>
+    <ProjectReference Include="CExelLib\CExelLib.csproj">
+      <Project>{A69507FC-8033-4401-B9A7-6B0E431C08CE}</Project>
+      <Name>CExelLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="CIniRW1\CIniRW1.csproj">
+      <Project>{97E70105-3CEE-4124-A5E9-D3025F0B7A12}</Project>
+      <Name>CIniRW1</Name>
+    </ProjectReference>
+    <ProjectReference Include="CLogger\CLogger.csproj">
+      <Project>{ec69150a-02dd-4762-8280-4cfbf16d7727}</Project>
+      <Name>CLogger</Name>
+    </ProjectReference>
+    <ProjectReference Include="ColumnsFormatView\FormatColumn.csproj">
+      <Project>{255B65C3-9389-4378-9FC6-0EBEA313BEAF}</Project>
+      <Name>FormatColumn</Name>
+    </ProjectReference>
+    <ProjectReference Include="CPrintEtiZpl2_Serie\CPrintEtiZpl2_Serie.csproj">
+      <Project>{387FD252-4699-4A99-BB6A-E6A2A1B6349C}</Project>
+      <Name>CPrintEtiZpl2_Serie</Name>
+    </ProjectReference>
+    <ProjectReference Include="CPrintEtiZpl2_Win\PrintEtiZpl2_Win.csproj">
+      <Project>{fe1bb1d2-d415-4d03-a27f-14ce09501056}</Project>
+      <Name>PrintEtiZpl2_Win</Name>
+    </ProjectReference>
+    <ProjectReference Include="CSerializerClass\CSerializerClass.csproj">
+      <Project>{DA76A307-24CA-4BA1-ADA1-9C353A2128F1}</Project>
+      <Name>CSerializerClass</Name>
+    </ProjectReference>
+    <ProjectReference Include="Db\Db.csproj">
+      <Project>{47eba4e5-4fe2-4702-8150-c428fbc926b7}</Project>
+      <Name>Db</Name>
+    </ProjectReference>
+    <ProjectReference Include="EditStringTouchDlg\EditStringTouchDlg.csproj">
+      <Project>{ee2f9d02-ca6b-4c2e-a2d9-ae0f9032c046}</Project>
+      <Name>EditStringTouchDlg</Name>
+    </ProjectReference>
+    <ProjectReference Include="EditValueTouchDlg\EditValueTouchDlg.csproj">
+      <Project>{2b5271b9-87da-491c-8f3e-6265d0fc9141}</Project>
+      <Name>EditValueTouchDlg</Name>
+    </ProjectReference>
+    <ProjectReference Include="ExcelReport\ExcellReport.csproj">
+      <Project>{b2d00096-37f9-490d-8e15-6f6c49a84984}</Project>
+      <Name>ExcellReport</Name>
+    </ProjectReference>
+    <ProjectReference Include="Extensions\Extensions.csproj">
+      <Project>{5924d211-6193-434d-b224-7fcfa2f528e1}</Project>
+      <Name>Extensions</Name>
+    </ProjectReference>
+    <ProjectReference Include="FlexibleMessageBox\FlexibleMessageBox.csproj">
+      <Project>{3ca69982-285f-4562-899b-4e50f041e371}</Project>
+      <Name>FlexibleMessageBox</Name>
+    </ProjectReference>
+    <ProjectReference Include="HidScannerLib\HidKeyboardScannerLib.csproj">
+      <Project>{93e64e91-1e55-41b2-9ecb-c3e3de15c3d7}</Project>
+      <Name>HidKeyboardScannerLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="LedCtrl\LedCtrl.csproj">
+      <Project>{36c13112-2749-4302-9999-4bea9b325fe6}</Project>
+      <Name>LedCtrl</Name>
+    </ProjectReference>
+    <ProjectReference Include="ListViewItemExt\ListViewItemExt.csproj">
+      <Project>{b28ff67f-03a6-49af-8b7f-90ca1468b290}</Project>
+      <Name>ListViewItemExt</Name>
+    </ProjectReference>
+    <ProjectReference Include="PdfStampa\PdfStampa.csproj">
+      <Project>{4CB24374-90D9-4F49-A8CB-D3D6C700B7A0}</Project>
+      <Name>PdfStampa</Name>
+    </ProjectReference>
+    <ProjectReference Include="ProductoInsumosCtrl\ProductoInsumosCtrl.csproj">
+      <Project>{926DFF18-A814-4DB2-9DB9-643A77D0E440}</Project>
+      <Name>ProductoInsumosCtrl</Name>
+    </ProjectReference>
+    <ProjectReference Include="RawPrinterHelper\RawPrinterHelper.csproj">
+      <Project>{aef7f21f-203b-420a-8daa-128662a180c4}</Project>
+      <Name>RawPrinterHelper</Name>
+    </ProjectReference>
+    <ProjectReference Include="ScaleSerialCtrl\ScaleSerialCtrl.csproj">
+      <Project>{A3F054B7-D498-4C18-B34B-9AD4EA8F855B}</Project>
+      <Name>ScaleSerialCtrl</Name>
+    </ProjectReference>
+    <ProjectReference Include="StatusListProgressBar\StatusListProgressBar.csproj">
+      <Project>{a0dbf7f1-59d8-44c5-bcd9-ba54736d855d}</Project>
+      <Name>StatusListProgressBar</Name>
+    </ProjectReference>
+    <ProjectReference Include="StatusProgressBar\StatusProgressBar.csproj">
+      <Project>{743EDB81-D2AC-4A52-A313-50BD4229401B}</Project>
+      <Name>StatusProgressBar</Name>
+    </ProjectReference>
+    <ProjectReference Include="TouchscreenKeyboard\TouchscreenKeyboard.csproj">
+      <Project>{94070B1D-6DE4-4D45-B2B9-5DA09D0E15C9}</Project>
+      <Name>TouchscreenKeyboard</Name>
+    </ProjectReference>
+    <ProjectReference Include="TouchscreenKeyboard_Numeric\TouchscreenKeyboard_numeric.csproj">
+      <Project>{22E1903B-6034-4263-B39E-8AC4308E6A34}</Project>
+      <Name>TouchscreenKeyboard_numeric</Name>
+    </ProjectReference>
+    <ProjectReference Include="WaitCursor\WaitCursor.csproj">
+      <Project>{505281c0-8bc0-4f5c-8bae-8eec4ef635c7}</Project>
+      <Name>WaitCursor</Name>
+    </ProjectReference>
+    <ProjectReference Include="ZebraScannerLib\ZebraScannerLib.csproj">
+      <Project>{b906082f-9b8c-43e6-83a1-84e4d9ddb0c9}</Project>
+      <Name>ZebraScannerLib</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="FormatoRepEgresosDetalleFull.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="FormatoRepDevoluciones.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="FormatoRepEgresosTotalizadosFull.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="FormatoRepExistenciaEnStockContenedoresTotalizado.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="FormatoRepExistenciaStockDetallePorVencimiento.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="FormatoRepExistenciaStockFullTotalizadoDestino.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="FormatoRepEgresosTotalizadoXDiaCliente.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="FormatoRepIngresosAPlantaTotalizadoXDiaProveedor.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="FormatoRepInsumosEnEgresosDetallado.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="FormatoRepInsumosEnEgresosTotalizado.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="FormatoRepInv_BultosSinExistenciaDePedidosAbiertos.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="FormatoRepInv_PiezasSinContenedor.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="FormatoRepEventosLog.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="FormatoRepResultadoInventarios.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="FormatoRepProductosRequeridosPedidos.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="FormatoRepRendimientoPorSector.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="FormatoRepResultadoAjusteInventario.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="FormatoRepExistenciaStockInsumos.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="FormatoRepExistenciaStockTotalizadoDestino.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="FormatoRepInv_PiezasConStockSinExistenciaFisica.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="FormatoRepDetalleInventario.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="FormatoRepInv_PiezasSinStockConExistenciaFisica.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="FormatoRepInv_PiezasSinRegistro.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="FormatoRepContenedoresEnProduccionTotalizado.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="FormatoRepContenedoresEnProduccion.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="FormatoRepInsumosEnProduccionDetallado.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="FormatoRepInsumosEnProduccionTotalizado.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="FormatoRepRendimientoProduccion.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="FormatoDetalleTotalEgresos.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="FormatoRepDetallePedido.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="FormatoRepEgresosTrazabilidad.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="FormatoRepExistenciaStockTotalizado.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="FormatoRepPiezasEgresadasConSaldo.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="FormatoRepExistenciaStockDetalle.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="FormatoRepProduccionTotalizado.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="FormatoRepProduccionDetalle.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="FormatoRepIngresosAProduccionTotalizado.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="FormatoRepIngresosAProduccion.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="FormatoRepIngresosAPlantaTotalizado.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="FormatoRepIngresosAPlanta.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="imcr.ico" />
+    <Content Include="Notas de Desarrollo.txt" />
+    <None Include="recursos\declarar sin Pesar Enable.bmp" />
+    <None Include="recursos\declarar sin Pesar Disable.bmp" />
+    <None Include="recursos\insumos.jpg" />
+    <None Include="recursos\eliminar2.jpg" />
+    <None Include="recursos\restore backup.png" />
+    <None Include="recursos\backup.png" />
+    <None Include="recursos\Caja Combo.bmp" />
+    <None Include="recursos\combo.jpg" />
+    <None Include="recursos\fabrica Devolucion.bmp" />
+    <None Include="recursos\quitar de caja cerrada.bmp" />
+    <None Include="recursos\eliminar fraccion activo.bmp" />
+    <None Include="recursos\fraccionar_white.bmp" />
+    <None Include="recursos\eliminar fraccion.bmp" />
+    <None Include="recursos\fraccionar.bmp" />
+    <None Include="recursos\Registrar Caja Enable.bmp" />
+    <None Include="recursos\Registrar caja disable.bmp" />
+    <None Include="recursos\Eliminar caja cerrada con codigo de barras.bmp" />
+    <None Include="recursos\abrir caja icono.JPG" />
+    <None Include="recursos\sumar caja icono 2.JPG" />
+    <None Include="recursos\Imprimir Etiqueta Contenedor.bmp" />
+    <None Include="recursos\Imprimir Etiqueta Contenedor %28DESABLE%29.bmp" />
+    <None Include="recursos\carpeta abierta.bmp" />
+    <None Include="recursos\carpeta cerrada.bmp" />
+    <None Include="recursos\tilde verde.bmp" />
+    <None Include="recursos\eliminar.bmp" />
+    <None Include="recursos\flecha 2 negra izquierda.jpg" />
+    <None Include="recursos\flecha verde izquierda.JPG" />
+    <None Include="recursos\EliminarPieza.bmp" />
+    <None Include="recursos\grilla2_image.jpeg" />
+    <None Include="recursos\Intercambio usuarios.bmp" />
+    <None Include="recursos\logo balanza 3.png" />
+    <None Include="recursos\candado2.bmp" />
+    <None Include="recursos\Registrar desable.bmp" />
+    <None Include="recursos\Registrar.bmp" />
+    <None Include="recursos\Lapiz Editar.bmp" />
+    <None Include="recursos\imageOnToggleSwitch.bmp" />
+    <None Include="recursos\imageOffToggleSwitch.bmp" />
+    <None Include="recursos\fabrica Egresos.bmp" />
+    <None Include="recursos\EngranajeCodigoBarras.bmp" />
+    <None Include="recursos\fabrica.bmp" />
+    <None Include="recursos\logo balanza 2.png" />
+    <None Include="recursos\basededatos.bmp" />
+    <None Include="Resources\Engranaje.jpeg" />
+    <None Include="Resources\enviar_p001.bmp" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

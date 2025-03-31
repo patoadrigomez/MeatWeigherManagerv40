@@ -1,0 +1,121 @@
+﻿@model IEnumerable<WebReportMWM.Models.Entitys.ProductoInsumo>
+@{
+    ViewBag.Title = "DetailInsumosSecundarios";
+}
+
+@{ WebGrid webGrid = new WebGrid(source: Model, canPage: false, canSort: false);
+
+    string IdInsumoPrimarioRowSelect = ViewBag.IdInsumoPrimarioRowSelect == null ? "0" : ((int)ViewBag.IdInsumoPrimarioRowSelect).ToString();
+    string IdInsumoSecundarioRowSelect = ViewBag.IdInsumoSecundarioRowSelect == null ? "0" : ((int)ViewBag.IdInsumoSecundarioRowSelect).ToString();
+}
+
+
+<h1>@ViewBag.InsumoPrimario</h1>
+<h2>Listado de Insumos Secundarios</h2>
+
+<p>
+    @Html.ActionLink("Regresar", "DetailInsumosPrimarios", new
+    {
+        idInsumoPrimarioRowSelect = ViewBag.IdInsumoPrimario,
+        idInsumoSecundarioRowSelect = ViewBag.IdInsumoSecundario,
+    IdProducto = ViewBag.IdProducto,
+        NombreProducto = ViewBag.NombreProducto,
+        NombreInsumoPrimario = ViewBag.NombreInsumoPrimario,
+        NombreInsumoSecundario = ViewBag.NombreInsumoSecundario
+    }, new { @class = "glyphicon glyphicon-backward" })
+    @Html.ActionLink("Agregar", "CreateAddInsumoSecundario", new { IdProducto = ViewBag.IdProducto, NombreProducto = ViewBag.NombreProducto, IdInsumoPrimario = ViewBag.IdInsumoPrimario, NombreInsumoPrimario = ViewBag.NombreInsumoPrimario }, new { @class = "glyphicon glyphicon-plus-sign" })
+</p>
+
+@webGrid.GetHtml(htmlAttributes: new { @id = "WebGrid", @class = "Grid" },
+            tableStyle: "table table-bordered",
+            fillEmptyRows: false,
+            alternatingRowStyle: "alt",
+            headerStyle: "webgrid-header",
+            columns: webGrid.Columns(
+            webGrid.Column(columnName: "IdProducto", header: "IdProd", style: "IdProducto"),
+            webGrid.Column(columnName: "IdInsumoPrimario", header: "IdInsPrim", style: "IdInsumoPrimario"),
+            webGrid.Column(columnName: "IdInsumoSecundario", header: "IdInsSec", style: "IdInsumoSecundario"),
+            webGrid.Column(columnName: "NombreInsumoSecundario", header: "INSUMO SECUNDARIO",format:@<span><span class="label" style="width: 500px; display: inline-block; text-align:left;" id="Insumo">@item.NombreInsumoSecundario</span></span>),
+webGrid.Column(columnName: "Unidades", header: "UNIDADES"),
+webGrid.Column(columnName: "RequiereConfirmacion", header: "CONFIRMACIÓN", format: @<text>@(item.RequiereConfirmacion != null && item.RequiereConfirmacion ? "SI" : "NO")</text>),
+webGrid.Column("", format:@<span class="link">
+    @Html.ActionLink(" ", "UpdateInsumoSecundario", new { IdProducto = item.IdProducto, IdInsumoPrimario = item.IdInsumoPrimario, IdInsumoSecundario = item.IdInsumoSecundario }, new { @class = "glyphicon glyphicon-edit", title = "Editar" }) |
+    @Html.ActionLink(" ", "ConfirmDeleteInsumoSecundario", new
+    {
+        IdProducto = item.IdProducto,
+        IdInsumoPrimario = item.IdInsumoPrimario,
+        IdInsumoSecundario = item.IdInsumoSecundario,
+    NombreProducto = item.NombreProducto,
+        NombreInsumoPrimario = item.NombreInsumoPrimario,
+        NombreInsumoSecundario = item.NombreInsumoSecundario
+    }, new { @style = "color:#ff0000;", @class = "glyphicon glyphicon-trash", title = "Eliminar Asignación" })
+</span>)))
+
+<style type="text/css">
+    .webgrid-header th {
+        padding: 6px 5px;
+        text-align: center;
+        background-color: #e8eef4;
+        border-bottom: 2px solid #3966A2;
+        height: 40px;
+        font-weight: bold;
+        border-top: 2px solid #D6E8FF;
+        border-left: 2px solid #D6E8FF;
+        border-right: 2px solid #D6E8FF;
+    }
+
+    .alt {
+        background-color: #FBFBFB;
+        color: #000;
+    }
+
+    .label {
+        color: #000;
+        font-weight: normal;
+    }
+
+    .selectedrow {
+        background-color: gold;
+    }
+
+    .table tr td:nth-child(5),
+    .table tr td:nth-child(6),
+    .table tr td:nth-child(7),
+    .table tr td:nth-child(8) {
+        text-align: center;
+        width: 8%;
+    }
+</style>
+
+<script type="text/javascript" src="~/Scripts/jquery-3.4.1.min.js"></script>
+
+<script type="text/javascript">
+
+
+    //Al iniciar la carga del documento selecciono el registro especificado por su valor de Id
+    //Tambien pongo al registro visible controlando el scroll.
+    $(document).ready(function () {
+        $('#WebGrid tr').each(function () {
+            var IdInsumoPrimario = $(this).find(".IdInsumoPrimario").html();
+            var IdInsumoSecundario = $(this).find(".IdInsumoSecundario").html();
+
+            if (IdInsumoPrimario == @IdInsumoPrimarioRowSelect && IdInsumoSecundario == @IdInsumoSecundarioRowSelect)
+            {
+                $(this).click();
+                $(document).scrollTop($(this).position().top);
+            }
+        });
+        //oculto columna ID
+        $("#WebGrid th:nth-child(1),td:nth-child(1)").hide();
+        $("#WebGrid th:nth-child(2),td:nth-child(2)").hide();
+        $("#WebGrid th:nth-child(3),td:nth-child(3)").hide();
+    });
+
+    $("body").on("click", "#WebGrid tr", function () {
+        $("#WebGrid").find("td").removeClass("selectedrow");
+        $(this).find("td").addClass("selectedrow");
+    });
+</script>
+
+
+

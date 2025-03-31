@@ -1,0 +1,8 @@
+C:\Desarrollo\Software\C#\MeatWeigherManager\MeatWeigherManager\CABM\bin\Debug\CABM.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager\MeatWeigherManager\CABM\bin\Debug\CABM.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager\MeatWeigherManager\CABM\obj\Debug\CABM.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager\MeatWeigherManager\CABM\obj\Debug\AbmDlg.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager\MeatWeigherManager\CABM\obj\Debug\CABM.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager\MeatWeigherManager\CABM\obj\Debug\CABM.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager\MeatWeigherManager\CABM\obj\Debug\CABM.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager\MeatWeigherManager\CABM\obj\Debug\CABM.pdb

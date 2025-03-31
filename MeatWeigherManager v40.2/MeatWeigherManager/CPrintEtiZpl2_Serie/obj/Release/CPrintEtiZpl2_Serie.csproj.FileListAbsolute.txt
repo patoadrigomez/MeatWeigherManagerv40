@@ -1,0 +1,298 @@
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtReg_40WNet\EtReg_40WNet\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtReg_40WNet\EtReg_40WNet\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtReg_40WNet\EtReg_40WNet\CPrintEtiZpl2_Serie\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtReg_40WNet\EtReg_40WNet\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtReg_40WNet\EtReg_40WNet\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.pdb
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\EtReg_40WNet\EtReg_40WNet\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.dll
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\EtReg_40WNet\EtReg_40WNet\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.pdb
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\EtReg_40WNet\EtReg_40WNet\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.dll
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\EtReg_40WNet\EtReg_40WNet\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtReg_40WNet v1.4\EtReg_40WNet\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtReg_40WNet v1.4\EtReg_40WNet\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtReg_40WNet v1.4\EtReg_40WNet\CPrintEtiZpl2_Serie\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtReg_40WNet v1.4\EtReg_40WNet\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtReg_40WNet v1.4\EtReg_40WNet\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.0\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.0\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.0\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.0\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.0\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.pdb
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.0\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.dll
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.0\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.pdb
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.0\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.csproj.CoreCompileInputs.cache
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.0\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.dll
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.0\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.pdb
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.1\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.dll
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.1\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.pdb
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.1\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.csproj.CoreCompileInputs.cache
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.1\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.dll
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.1\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.pdb
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.2\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.dll
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.2\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.pdb
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.2\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.csproj.CoreCompileInputs.cache
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.2\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.dll
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.2\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.1\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.1\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.1\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.1\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.1\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.1\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.2\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.3\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.3\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.3\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.3\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.3\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.3\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.4\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.4\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.4\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.4\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.4\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.5\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.5\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.5\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.5\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.5.5\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.0\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.0\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.0\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.0\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.0\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.1\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.1\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.1\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.1\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.1\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.2\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.2\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.2\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.2\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.2\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.3\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.3\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.3\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.3\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.3\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.4\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.4\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.4\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.4\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.4\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.5\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.5\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.5\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.5\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.5\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.6\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.6\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.6\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.6\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.6\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.7\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.7\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.7\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.7\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.7\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.7\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.8\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.8\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.8\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.8\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.8\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.9\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.9\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.9\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.9\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.9\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.10\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.10\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.10\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.10\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.10\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.11\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.11\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.11\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.11\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.11\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.12\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.12\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.12\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.12\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.12\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.14\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.14\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.14\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.14\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.14\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.15\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.15\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.15\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.15\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.15\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.16\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.16\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.16\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.16\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.16\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.17\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.17\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.17\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.17\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.17\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.18\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.20\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.20\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.20\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.20\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.20\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.21\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.21\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.21\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.21\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.21\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.22\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.22\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.22\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.22\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.22\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.23\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.23\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.23\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.23\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v10.23\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.0\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.1\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.1\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.1\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.1\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.1\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.1\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.2\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.2\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.2\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.2\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.2\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.2\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.3\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.3\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.3\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.3\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.3\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.3\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.4\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.4\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.4\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.4\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.4\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v20.4\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.0\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.0\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.0\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.0\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.0\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.0\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.1\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.1\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.1\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.1\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.1\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.1\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.2\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.2\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.2\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.2\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.2\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v30.2\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.0\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.0\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.0\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.0\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.0\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.0\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.1\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.1\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.1\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.1\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.1\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.1\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.2\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.2\MeatWeigherManager\CPrintEtiZpl2_Serie\bin\Release\CPrintEtiZpl2_Serie.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.2\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.csproj.AssemblyReference.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.2\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.2\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v40.2\MeatWeigherManager\CPrintEtiZpl2_Serie\obj\Release\CPrintEtiZpl2_Serie.pdb

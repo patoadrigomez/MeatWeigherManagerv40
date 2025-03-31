@@ -1,0 +1,42 @@
+﻿@model WebReportMWM.Models.Entitys.Producto
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Borrar</h2>
+
+<hr />
+<h3>Confirma Eliminar este Producto?</h3>
+
+@using (Html.BeginForm("Delete", "CrudProductos", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+    <div class="form-horizontal">
+        <input type="hidden" id="idProducto" name="idProducto" value="@Model.Id" />
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Nombre, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.TextBoxFor(model => model.Nombre, new { @class = "form-control", disabled = "disabled", @readonly = "readonly" })
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Borrar" class="btn btn-danger" />
+                @Html.ActionLink("Listar", "List", new
+               {
+                   idRowSelect = Model.Id,
+               }, new { @class = "btn btn-info" })
+            </div>
+        </div>
+    </div>
+
+    if (TempData["MessagesError"] != null && ((List<string>)TempData["MessagesError"]).Count > 0)
+    {
+        foreach (string msg in (List<string>)TempData["MessagesError"])
+        {
+            <p style="color:red;">@msg</p>
+        }
+    }
+}
+

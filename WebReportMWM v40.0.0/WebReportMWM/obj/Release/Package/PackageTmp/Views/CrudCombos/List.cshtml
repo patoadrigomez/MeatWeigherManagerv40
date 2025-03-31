@@ -1,0 +1,132 @@
+﻿@model IEnumerable<WebReportMWM.Models.Entitys.Combo>
+@using WebReportMWM.Models.Entitys
+
+@{
+    ViewBag.Title = "List";
+}
+
+@{ WebGrid webGrid = new WebGrid(source: Model, canPage: false, canSort: false);
+
+    string IdRowSelect = ViewBag.IdRowSelect == null ? "0" : ((int)ViewBag.IdRowSelect).ToString();
+
+
+    //funcion que recibe una lista de ProductoEnCombo la traduce en una lista html.
+    @helper WriteTableProductosEnCombo(List<ProductoEnCombo> list)
+    {
+        <table class="tableProductosEnCombo">
+            <tr>
+                <th class="col_tbPEC_idProducto">IdPoducto</th>
+                <th class="col_tbPEC_nombreProducto">Producto</th>
+                <th class="col_tbPEC_unidades">Unidades</th>
+                <th class="col_tbPEC_peso">Peso</th>
+            </tr>
+
+            @foreach (var item in list)
+            {
+                <tr>
+                    <td class="col_tbPEC_idProducto">@item.IdProducto</td>
+                    <td class="col_tbPEC_nombreProducto">@item.NombreProducto</td>
+                    <td class="col_tbPEC_unidades">@item.Unidades</td>
+                    <td class="col_tbPEC_peso">@item.Peso.ToString("0.00") </td>
+                </tr>
+            }
+        </table>
+    }
+
+}
+
+
+<h2>Lista de Combos</h2>
+
+@webGrid.GetHtml(htmlAttributes: new { @id = "WebGrid", @class = "Grid" },
+         tableStyle: "table table-bordered",
+         fillEmptyRows: false,
+         alternatingRowStyle: "alt",
+         headerStyle: "webgrid-header",
+         columns: webGrid.Columns(
+         webGrid.Column(columnName: "IdProductoCombo", header: "IdProductoCombo", style: "Id"),
+         webGrid.Column(columnName: "NombreCombo", header: "COMBO"),
+
+         webGrid.Column("Productos", header: "Productos Contenidos", style: "colProductosContenidos", format: item => WriteTableProductosEnCombo(item.ProductosEnCombo)),
+         
+         webGrid.Column("", style: "collinks", format:@<span class="link">
+            @Html.ActionLink(" ", "DetailProductos", new { IdProductoCombo = item.IdProductoCombo, NombreCombo = item.NombreCombo },
+            new { @class = "glyphicon glyphicon-list", title = "Ver/Asignar Productos" }) |
+            @Html.ActionLink(" ", "ConfirmDelete", new { IdProductoCombo = item.IdProductoCombo, NombreCombo = item.NombreCombo },
+            new { @style = "color:#ff0000;", @class = "glyphicon glyphicon-trash", title = "Eliminar todas las asignaciones" })
+        </span>)))
+
+<style type="text/css">
+    .webgrid-header th {
+        padding: 6px 5px;
+        text-align: center;
+        background-color: #e8eef4;
+        border-bottom: 2px solid #3966A2;
+        height: 40px;
+        font-weight: bold;
+        border-top: 2px solid #D6E8FF;
+        border-left: 2px solid #D6E8FF;
+        border-right: 2px solid #D6E8FF;
+    }
+
+    .alt {
+        background-color: #FBFBFB;
+        color: #000;
+    }
+
+    .label {
+        color: #000;
+        font-weight: normal;
+    }
+
+    .selectedrow {
+        background-color: gold;
+    }
+
+    .collinks {
+        width: 8%;
+        text-align: center;
+    }
+    .colProductosContenidos {
+        width: 25%;
+    }
+    .tableProductosEnCombo th {
+        font-size: 12px;
+    }
+    .tableProductosEnCombo td{
+        font-size: 10px;
+    }
+    .col_tbPEC_nombreProducto {
+        width: 200px;
+    }
+    .col_tbPEC_unidades {
+        width: 120px;
+    }
+</style>
+
+<script type="text/javascript" src="~/Scripts/jquery-3.4.1.min.js"></script>
+
+<script type="text/javascript">
+    //Al iniciar la carga del documento selecciono el registro especificado por su valor de Id
+    //Tambien pongo al registro visible controlando el scroll.
+    $(document).ready(function () {
+        $('#WebGrid tr').each(function () {
+            var Id = $(this).find(".Id").html();
+            if (Id == @IdRowSelect)
+            {
+                $(this).click();
+                $(document).scrollTop($(this).position().top);
+            }
+        });
+       $("#WebGrid th:nth-child(1),td:nth-child(1)").hide();
+    });
+
+    $("body").on("click", "#WebGrid tr", function () {
+        $("#WebGrid").find("td").removeClass("selectedrow");
+        $(this).find("td").addClass("selectedrow");
+    });
+</script>
+
+
+
+

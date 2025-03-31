@@ -1,0 +1,104 @@
+﻿**************************
+Version 40.2 03-02-2025
+*************************
+APLICACION:
+-----------
+- Se agrega un TextBox en el módulo Ingreso a Planta con los días de vencimiento predefinidos del producto, pudiendo el operador
+editarlo manualmente de ser neceesario. 
+- Se incorpora la propiedad "Fecha de Vencimiento" en la clase CPesada.
+- Se modificó la función de "Registrar Pesada" agregando en el INSERT el nuevo campo FechaVencimiento. 
+- En el módulo de Fraccionar, se agregó la fecha de vencimiento tomando la fecha declarada en el Id de pesada utilizado para realizar el 
+  fraccionamiento. 
+- Al registrarse una pesada en forma manual, el campo Manual de la tabla Pesadas para ese registro queda en true(1), mientras que al hacerse
+  por medio de la balanza queda en false(0).
+- Se incorporó la propíedad "Manual" en la clase CPEsada. 
+- Se eliminó el Menú Tablas y el menú Auditóría de la pantalla principal. 
+- Se eliminó el acceso al módulo de reportes en el menú Herramientas de la pantalla principal.
+- Se modificaron las clases CABM_DestinosDlg, CAMB_Secotrs.Dlg, CABM_CTipoProductosDlg, CAMB_TipificacionesDlg, CAMB_EtiquetasDlg quitando todas las funciones relacionadas a ABM.
+- Se eliminan las clases CAMB_CajaManagerDlg, CABM_CombosManagerDlg, CABM_ProductosInsumoManagerDlg, CABM_OperadoresDlg, CABM_ProdulctosDlg.
+- Se corrige la clase Extension.cs modificando la conversión a punto flotante en la función GetValue.
+- Se agregó la columna "Fecha de Vencimiento en el módulo Ingreso a Planta, en la grilla que muestra las pesadas.
+
+BASE DE DATOS:
+-----------
+- Se agrega el campo FechaVencimiento DateTime NULL en la tabla Pesadas.
+- Se modificó el stored procedure sp_GetPesada agregando al SELECT principal el campo FECHA_VENCIMIENTO.
+- Se modifica el stored procedure sp_repExistenciaEnStockDetalleOrdenadoPorVencimiento cambiando el campo VENCIMIENTO de manera tal de tomarlo
+  desde el campo FechaVencimiento de la tabla Pesadas.
+- Se modificó el stored procedure sp_repExistenciaEnStockDetalleProximidadVencimiento cambiando el campo VENCIMIENTO de manera tal de tomarlo
+  desde el campo FechaVencimiento de la tabla Pesadas. 
+- Se agrega el cmapo Manual (bit) en la tabla Pesadas que indicará si la pesada fue manual o por balanza.
+- Se modificó el stored procedure [sp_repIngPlantaDetalle] de maneta tal de incorporar los campos "Vencimineto" y "Manual" y el filtro por tipo de pesada.
+- Se modificó el stored procedure [sp_repEventosLog] agregando un nuevo filtro por "contexto" y otro por "evento".
+- Se eliminó la tabla Parametros.
+- Se modificó el stored procedure [sp_repExistenciaEnStockDetalleProximidadVencimiento] de manera tal que los días próximos al vencimiento, los reciba como parámetro y no 
+  desde la tabla Parámetros. 
+
+
+
+
+**************************
+Version 40.1 03-01-2024
+*************************
+
+APLICACION:
+-----------
+Se corrige error en el control de pesaje (ScaleSerialControl) que ocasionaba que el boton de pesar se quede
+activo aun estando dentro de un rango de peso no valido , por ejemplo en 0 , y se pudiera 
+generar un pesaje.
+Esto ocurria al pasar de pesaje automatico a manual.
+
+Se agrega en la etiqueta de pieza las variables de peso bruto y peso neto.
+Las mismas tienen visibilidad condicionada a la condicion de configuracion de entorno 
+que habilita o no imprimir peso.
+El formato de etiqueta que corresponde al envasado al vacio no tiene estas variables de bruto y neto
+dado que no son necesarias en este caso.
+El motivo de agregar estas dos nuevas variables en la impresion es el caso de mercaderia que ingresa a planta
+como pieza que viene en caja y puede ser reventa. En este caso es necesario el peso bruto y tara. 
+
+Se optimiza el modulo de declaracion de ingresos manuales en Ingreso a Planta.
+Se agrega la variable de Tara y se hace mas rapida la forma de agregar o clonar un ingreso.
+
+
+BASE DE DATOS:
+-----------
+
+
+------------------------------------------------------------------------------------
+Version 40.0 03-01-2024
+*************************
+
+APLICACION:
+-----------
+Hereda de la version V30.2.
+
+-Se agrega nueva funcionalidad en el modulo de ingreso a planta que permite realizar una declaracion de ingresos 
+con peso editado. 
+Esto permite dar ingreso a mercaderia que no requiere ser pesada porque se confia en el proveedor que entrega cada bulto con una etiqueta 
+que indica su peso neto. 
+
+Seria el caso de un pallet con 50 bultos del mismo producto en donde cada bulto posee una etiqueta con el peso neto 
+del mismo. Un operador tomara nota de cada peso de cada bulto para luego ir a la interfaz de ingreso a planta , seleccionar el producto , 
+seleccionar el destino de almacenaje y por ultimo pulsar el boton de "Declaracion de Ingresos con Peso Editado".
+Un vez abierto el dialogo de declaracion se indicara por cada bulto su peso neto y una vez finalizado al pulsar Aceptar
+se registraran en base de datos cada bulto declarado como tambien se imprimirira su etiqueta correspondiente.
+Si se generara una declaracion para un articulo de tipo "Tropa" , se debera editar tambien por cada bulto el numero 
+de tropa y la tipificacion.
+
+
+Se agrega soporte para escanner con funcionalidad de interface Host de Emulacion de Teclado (HID).
+Esto permite poder realizar tareas de Scanner con escanners standar que no sean zebra y no son 
+compatibles al servicio CoreScanner.
+El escanner con interfaz de emulacion de teclado debe estar configurado con prefijo STX(02) y Sufijo CR(0d), esto permite que
+la maquina de estados detecte un mensaje de lectura de escaner desde esta interfaz.
+Desde la configuracion del sistema se podra optar por seleccionar el tipo de interface de escanner a utilizar (HID) para emulacion de teclado
+o (SNAPI) para utilizar con el driver de zebra CoreScanner.
+Al usar la interfaz de emulacion de teclado se pierde la posibilidad de detectar el tipo de codigo de barras leido y se controlar el sonido
+y luces del escanner como si lo hace el Zebra con SNAPI.
+
+
+BASE DE DATOS:
+-----------
+
+
+------------------------------------------------------------------------------------

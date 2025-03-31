@@ -1,0 +1,7 @@
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtRegR_27WNet_v1\EtRegR_27WNet_v1\CPrintEtiEpl2_Net\bin\Release\CPrintEtiEpl2_Net.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtRegR_27WNet_v1\EtRegR_27WNet_v1\CPrintEtiEpl2_Net\bin\Release\CPrintEtiEpl2_Net.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtRegR_27WNet_v1\EtRegR_27WNet_v1\CPrintEtiEpl2_Net\bin\Release\CTcpClientSync.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtRegR_27WNet_v1\EtRegR_27WNet_v1\CPrintEtiEpl2_Net\bin\Release\CTcpClientSync.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtRegR_27WNet_v1\EtRegR_27WNet_v1\CPrintEtiEpl2_Net\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtRegR_27WNet_v1\EtRegR_27WNet_v1\CPrintEtiEpl2_Net\obj\Release\CPrintEtiEpl2_Net.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\EtRegR_27WNet_v1\EtRegR_27WNet_v1\CPrintEtiEpl2_Net\obj\Release\CPrintEtiEpl2_Net.pdb

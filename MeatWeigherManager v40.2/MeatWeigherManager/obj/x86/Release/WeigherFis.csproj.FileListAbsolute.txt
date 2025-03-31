@@ -1,0 +1,319 @@
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeighingFis\EtRegR_27WNet_v1\bin\Release\WeigherFis.exe
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeighingFis\EtRegR_27WNet_v1\bin\Release\WeigherFis.pdb
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeighingFis\EtRegR_27WNet_v1\bin\Release\CBalanzaNetAsy.dll
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeighingFis\EtRegR_27WNet_v1\bin\Release\CExelLib.dll
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeighingFis\EtRegR_27WNet_v1\bin\Release\CIniRW1.dll
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeighingFis\EtRegR_27WNet_v1\bin\Release\CPrintEtiEpl2_Net.dll
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeighingFis\EtRegR_27WNet_v1\bin\Release\CSerializerClass.dll
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeighingFis\EtRegR_27WNet_v1\bin\Release\CTcpClientSync.dll
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeighingFis\EtRegR_27WNet_v1\bin\Release\CBalanzaNetAsy.pdb
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeighingFis\EtRegR_27WNet_v1\bin\Release\CExelLib.pdb
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeighingFis\EtRegR_27WNet_v1\bin\Release\CIniRW1.pdb
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeighingFis\EtRegR_27WNet_v1\bin\Release\CPrintEtiEpl2_Net.pdb
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeighingFis\EtRegR_27WNet_v1\bin\Release\CSerializerClass.pdb
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeighingFis\EtRegR_27WNet_v1\bin\Release\CTcpClientSync.pdb
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeighingFis\EtRegR_27WNet_v1\obj\x86\Release\WeigherFis.csprojResolveAssemblyReference.cache
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeighingFis\EtRegR_27WNet_v1\obj\x86\Release\WeigherFis.CAbmPedidoRemitoDlg.resources
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeighingFis\EtRegR_27WNet_v1\obj\x86\Release\WeigherFis.CConfigAppDlg.resources
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeighingFis\EtRegR_27WNet_v1\obj\x86\Release\WeigherFis.CLogDlg.resources
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeighingFis\EtRegR_27WNet_v1\obj\x86\Release\WeigherFis.CReporteDlg.resources
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeighingFis\EtRegR_27WNet_v1\obj\x86\Release\WeigherFis.CViewInfoCajasPesadasDlg.resources
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeighingFis\EtRegR_27WNet_v1\obj\x86\Release\WeigherFis.Form_WeigherFis.resources
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeighingFis\EtRegR_27WNet_v1\obj\x86\Release\WeigherFis.Properties.Resources.resources
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeighingFis\EtRegR_27WNet_v1\obj\x86\Release\WeigherFis.csproj.GenerateResource.Cache
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeighingFis\EtRegR_27WNet_v1\obj\x86\Release\WeigherFis.exe
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeighingFis\EtRegR_27WNet_v1\obj\x86\Release\WeigherFis.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis\WeigherFis\obj\x86\Release\WeigherFis.exe
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis\WeigherFis\obj\x86\Release\WeigherFis.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis\WeigherFis\bin\Release\WeigherFis.exe
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis\WeigherFis\bin\Release\WeigherFis.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis\WeigherFis\bin\Release\CBalanzaSerialPort.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis\WeigherFis\bin\Release\CExelLib.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis\WeigherFis\bin\Release\CIniRW1.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis\WeigherFis\bin\Release\CSerializerClass.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis\WeigherFis\bin\Release\CTicket.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis\WeigherFis\bin\Release\CBalanzaSerialPort.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis\WeigherFis\bin\Release\CExelLib.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis\WeigherFis\bin\Release\CIniRW1.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis\WeigherFis\bin\Release\CSerializerClass.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis\WeigherFis\bin\Release\CTicket.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis\WeigherFis\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis\WeigherFis\obj\x86\Release\WeigherFis.CABM_AtasDlg.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis\WeigherFis\obj\x86\Release\WeigherFis.CConfigAppDlg.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis\WeigherFis\obj\x86\Release\WeigherFis.CLogDlg.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis\WeigherFis\obj\x86\Release\WeigherFis.CABM_ExpoImpoDlg.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis\WeigherFis\obj\x86\Release\WeigherFis.CABM_TransportistasDlg.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis\WeigherFis\obj\x86\Release\WeigherFis.CABM_ProductosDlg.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis\WeigherFis\obj\x86\Release\WeigherFis.CABM_OperAduanerasDlg.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis\WeigherFis\obj\x86\Release\WeigherFis.CReporteDlg.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis\WeigherFis\obj\x86\Release\SetPortDlg.CSetPortDlg.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis\WeigherFis\obj\x86\Release\WeigherFis.CViewPDEPesadasDlg.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis\WeigherFis\obj\x86\Release\WeigherFis.Form_WeigherFis.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis\WeigherFis\obj\x86\Release\WeigherFis.Properties.Resources.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis\WeigherFis\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis\WeigherFis\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis\WeigherFis\bin\Release\WeigherFis.exe.config
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis\WeigherFis\obj\x86\Release\WeigherFis.exe
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis\WeigherFis\obj\x86\Release\WeigherFis.pdb
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis\WeigherFis\bin\Release\FormatoRepMovPesadas.xml
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis\WeigherFis\bin\Release\WeigherFis.exe
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis\WeigherFis\bin\Release\WeigherFis.pdb
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis\WeigherFis\bin\Release\CBalanzaSerialPort.dll
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis\WeigherFis\bin\Release\CExelLib.dll
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis\WeigherFis\bin\Release\CIniRW1.dll
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis\WeigherFis\bin\Release\CSerializerClass.dll
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis\WeigherFis\bin\Release\CTicket.dll
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis\WeigherFis\bin\Release\Stampa.DLL
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis\WeigherFis\bin\Release\CBalanzaSerialPort.pdb
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis\WeigherFis\bin\Release\CExelLib.pdb
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis\WeigherFis\bin\Release\CIniRW1.pdb
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis\WeigherFis\bin\Release\CSerializerClass.pdb
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis\WeigherFis\bin\Release\CTicket.pdb
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis\WeigherFis\obj\x86\Release\WeigherFis.csprojResolveAssemblyReference.cache
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis\WeigherFis\obj\x86\Release\WeigherFis.CABM_AtasDlg.resources
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis\WeigherFis\obj\x86\Release\WeigherFis.CConfigAppDlg.resources
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis\WeigherFis\obj\x86\Release\WeigherFis.CLogDlg.resources
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis\WeigherFis\obj\x86\Release\WeigherFis.CABM_ExpoImpoDlg.resources
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis\WeigherFis\obj\x86\Release\WeigherFis.CABM_TransportistasDlg.resources
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis\WeigherFis\obj\x86\Release\WeigherFis.CABM_ProductosDlg.resources
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis\WeigherFis\obj\x86\Release\WeigherFis.CABM_OperAduanerasDlg.resources
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis\WeigherFis\obj\x86\Release\WeigherFis.CReporteDlg.resources
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis\WeigherFis\obj\x86\Release\SetPortDlg.CSetPortDlg.resources
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis\WeigherFis\obj\x86\Release\WeigherFis.CViewPDEPesadasDlg.resources
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis\WeigherFis\obj\x86\Release\WeigherFis.Form_WeigherFis.resources
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis\WeigherFis\obj\x86\Release\WeigherFis.Properties.Resources.resources
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis\WeigherFis\obj\x86\Release\WeigherFis.csproj.GenerateResource.Cache
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\bin\Release\WeigherFis.exe.config
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\obj\x86\Release\WeigherFis.exe
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\obj\x86\Release\WeigherFis.pdb
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\bin\Release\FormatoRepMovPesadas.xml
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\bin\Release\WeigherFis.exe
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\bin\Release\WeigherFis.pdb
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\bin\Release\CBalanzaSerialPort.dll
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\bin\Release\CExelLib.dll
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\bin\Release\CIniRW1.dll
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\bin\Release\CSerializerClass.dll
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\bin\Release\CTicket.dll
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\bin\Release\Stampa.DLL
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\bin\Release\CBalanzaSerialPort.pdb
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\bin\Release\CExelLib.pdb
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\bin\Release\CIniRW1.pdb
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\bin\Release\CSerializerClass.pdb
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\bin\Release\CTicket.pdb
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\obj\x86\Release\WeigherFis.csprojResolveAssemblyReference.cache
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\obj\x86\Release\WeigherFis.CABM_AtasDlg.resources
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\obj\x86\Release\WeigherFis.CConfigAppDlg.resources
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\obj\x86\Release\WeigherFis.CLogDlg.resources
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\obj\x86\Release\WeigherFis.CABM_ExpoImpoDlg.resources
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\obj\x86\Release\WeigherFis.CABM_TransportistasDlg.resources
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\obj\x86\Release\WeigherFis.CABM_ProductosDlg.resources
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\obj\x86\Release\WeigherFis.CABM_OperAduanerasDlg.resources
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\obj\x86\Release\WeigherFis.CReporteDlg.resources
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\obj\x86\Release\SetPortDlg.CSetPortDlg.resources
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\obj\x86\Release\WeigherFis.CViewPDEPesadasDlg.resources
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\obj\x86\Release\WeigherFis.Form_WeigherFis.resources
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\obj\x86\Release\WeigherFis.Properties.Resources.resources
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\obj\x86\Release\WeigherFis.csproj.GenerateResource.Cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\bin\Release\WeigherFis.exe.config
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\obj\x86\Release\WeigherFis.exe
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\obj\x86\Release\WeigherFis.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\bin\Release\FormatoRepMovPesadas.xml
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\bin\Release\WeigherFis.exe
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\bin\Release\WeigherFis.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\bin\Release\CBalanzaSerialPort.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\bin\Release\CExelLib.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\bin\Release\CIniRW1.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\bin\Release\CSerializerClass.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\bin\Release\CTicket.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\bin\Release\Stampa.DLL
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\bin\Release\CBalanzaSerialPort.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\bin\Release\CExelLib.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\bin\Release\CIniRW1.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\bin\Release\CSerializerClass.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\bin\Release\CTicket.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\obj\x86\Release\WeigherFis.CABM_AtasDlg.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\obj\x86\Release\WeigherFis.CConfigAppDlg.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\obj\x86\Release\WeigherFis.CLogDlg.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\obj\x86\Release\WeigherFis.CABM_ExpoImpoDlg.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\obj\x86\Release\WeigherFis.CABM_TransportistasDlg.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\obj\x86\Release\WeigherFis.CABM_ProductosDlg.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\obj\x86\Release\WeigherFis.CABM_OperAduanerasDlg.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\obj\x86\Release\WeigherFis.CReporteDlg.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\obj\x86\Release\SetPortDlg.CSetPortDlg.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\obj\x86\Release\WeigherFis.CViewPDEPesadasDlg.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\obj\x86\Release\WeigherFis.Form_WeigherFis.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\obj\x86\Release\WeigherFis.Properties.Resources.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.1\WeigherFis\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.2\WeigherFis\bin\Release\WeigherFis.exe.config
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.2\WeigherFis\obj\x86\Release\WeigherFis.exe
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.2\WeigherFis\obj\x86\Release\WeigherFis.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.2\WeigherFis\bin\Release\FormatoRepMovPesadas.xml
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.2\WeigherFis\bin\Release\WeigherFis.exe
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.2\WeigherFis\bin\Release\WeigherFis.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.2\WeigherFis\bin\Release\CBalanzaSerialPort.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.2\WeigherFis\bin\Release\CExelLib.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.2\WeigherFis\bin\Release\CIniRW1.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.2\WeigherFis\bin\Release\CSerializerClass.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.2\WeigherFis\bin\Release\CTicket.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.2\WeigherFis\bin\Release\Stampa.DLL
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.2\WeigherFis\bin\Release\CBalanzaSerialPort.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.2\WeigherFis\bin\Release\CExelLib.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.2\WeigherFis\bin\Release\CIniRW1.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.2\WeigherFis\bin\Release\CSerializerClass.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.2\WeigherFis\bin\Release\CTicket.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.2\WeigherFis\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.2\WeigherFis\obj\x86\Release\WeigherFis.CABM_AtasDlg.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.2\WeigherFis\obj\x86\Release\WeigherFis.CConfigAppDlg.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.2\WeigherFis\obj\x86\Release\WeigherFis.CLogDlg.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.2\WeigherFis\obj\x86\Release\WeigherFis.CABM_ExpoImpoDlg.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.2\WeigherFis\obj\x86\Release\WeigherFis.CABM_TransportistasDlg.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.2\WeigherFis\obj\x86\Release\WeigherFis.CABM_ProductosDlg.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.2\WeigherFis\obj\x86\Release\WeigherFis.CABM_OperAduanerasDlg.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.2\WeigherFis\obj\x86\Release\WeigherFis.CABM_ContenedoresDlg.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.2\WeigherFis\obj\x86\Release\WeigherFis.CReporteDlg.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.2\WeigherFis\obj\x86\Release\SetPortDlg.CSetPortDlg.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.2\WeigherFis\obj\x86\Release\WeigherFis.CViewPDEPesadasDlg.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.2\WeigherFis\obj\x86\Release\WeigherFis.Form_WeigherFis.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.2\WeigherFis\obj\x86\Release\WeigherFis.Properties.Resources.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.2\WeigherFis\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.2\WeigherFis\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.3\WeigherFis\bin\Release\WeigherFis.exe.config
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.3\WeigherFis\obj\x86\Release\WeigherFis.exe
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.3\WeigherFis\obj\x86\Release\WeigherFis.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.3\WeigherFis\bin\Release\FormatoRepMovPesadas.xml
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.3\WeigherFis\bin\Release\WeigherFis.exe
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.3\WeigherFis\bin\Release\WeigherFis.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.3\WeigherFis\bin\Release\CBalanzaSerialPort.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.3\WeigherFis\bin\Release\CExelLib.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.3\WeigherFis\bin\Release\CIniRW1.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.3\WeigherFis\bin\Release\CSerializerClass.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.3\WeigherFis\bin\Release\CTicket.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.3\WeigherFis\bin\Release\Stampa.DLL
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.3\WeigherFis\bin\Release\CBalanzaSerialPort.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.3\WeigherFis\bin\Release\CExelLib.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.3\WeigherFis\bin\Release\CIniRW1.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.3\WeigherFis\bin\Release\CSerializerClass.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.3\WeigherFis\bin\Release\CTicket.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.3\WeigherFis\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.3\WeigherFis\obj\x86\Release\WeigherFis.CABM_AtasDlg.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.3\WeigherFis\obj\x86\Release\WeigherFis.CConfigAppDlg.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.3\WeigherFis\obj\x86\Release\WeigherFis.CLogDlg.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.3\WeigherFis\obj\x86\Release\WeigherFis.CABM_ExpoImpoDlg.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.3\WeigherFis\obj\x86\Release\WeigherFis.CABM_TransportistasDlg.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.3\WeigherFis\obj\x86\Release\WeigherFis.CABM_ProductosDlg.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.3\WeigherFis\obj\x86\Release\WeigherFis.CABM_OperAduanerasDlg.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.3\WeigherFis\obj\x86\Release\WeigherFis.CABM_ContenedoresDlg.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.3\WeigherFis\obj\x86\Release\WeigherFis.CReporteDlg.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.3\WeigherFis\obj\x86\Release\SetPortDlg.CSetPortDlg.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.3\WeigherFis\obj\x86\Release\WeigherFis.CViewPDEPesadasDlg.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.3\WeigherFis\obj\x86\Release\WeigherFis.Form_WeigherFis.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.3\WeigherFis\obj\x86\Release\WeigherFis.Properties.Resources.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.3\WeigherFis\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.3\WeigherFis\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis v1.3\WeigherFis\bin\Release\WeigherFis.exe.config
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis v1.3\WeigherFis\obj\x86\Release\WeigherFis.exe
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis v1.3\WeigherFis\obj\x86\Release\WeigherFis.pdb
+C:\Users\Sergio\Dropbox\WeigherFis v1.3\WeigherFis\bin\Release\WeigherFis.exe.config
+C:\Users\Sergio\Dropbox\WeigherFis v1.3\WeigherFis\obj\x86\Release\WeigherFis.exe
+C:\Users\Sergio\Dropbox\WeigherFis v1.3\WeigherFis\obj\x86\Release\WeigherFis.pdb
+C:\Users\Sergio\Dropbox\WeigherFis v1.3\WeigherFis\bin\Release\FormatoRepMovPesadas.xml
+C:\Users\Sergio\Dropbox\WeigherFis v1.3\WeigherFis\bin\Release\WeigherFis.exe
+C:\Users\Sergio\Dropbox\WeigherFis v1.3\WeigherFis\bin\Release\WeigherFis.pdb
+C:\Users\Sergio\Dropbox\WeigherFis v1.3\WeigherFis\bin\Release\CBalanzaSerialPort.dll
+C:\Users\Sergio\Dropbox\WeigherFis v1.3\WeigherFis\bin\Release\CExelLib.dll
+C:\Users\Sergio\Dropbox\WeigherFis v1.3\WeigherFis\bin\Release\CIniRW1.dll
+C:\Users\Sergio\Dropbox\WeigherFis v1.3\WeigherFis\bin\Release\CSerializerClass.dll
+C:\Users\Sergio\Dropbox\WeigherFis v1.3\WeigherFis\bin\Release\CTicket.dll
+C:\Users\Sergio\Dropbox\WeigherFis v1.3\WeigherFis\bin\Release\Stampa.DLL
+C:\Users\Sergio\Dropbox\WeigherFis v1.3\WeigherFis\bin\Release\CBalanzaSerialPort.pdb
+C:\Users\Sergio\Dropbox\WeigherFis v1.3\WeigherFis\bin\Release\CExelLib.pdb
+C:\Users\Sergio\Dropbox\WeigherFis v1.3\WeigherFis\bin\Release\CIniRW1.pdb
+C:\Users\Sergio\Dropbox\WeigherFis v1.3\WeigherFis\bin\Release\CSerializerClass.pdb
+C:\Users\Sergio\Dropbox\WeigherFis v1.3\WeigherFis\bin\Release\CTicket.pdb
+C:\Users\Sergio\Dropbox\WeigherFis v1.3\WeigherFis\obj\x86\Release\WeigherFis.csprojResolveAssemblyReference.cache
+C:\Users\Sergio\Dropbox\WeigherFis v1.3\WeigherFis\obj\x86\Release\WeigherFis.CABM_AtasDlg.resources
+C:\Users\Sergio\Dropbox\WeigherFis v1.3\WeigherFis\obj\x86\Release\WeigherFis.CConfigAppDlg.resources
+C:\Users\Sergio\Dropbox\WeigherFis v1.3\WeigherFis\obj\x86\Release\WeigherFis.CLogDlg.resources
+C:\Users\Sergio\Dropbox\WeigherFis v1.3\WeigherFis\obj\x86\Release\WeigherFis.CABM_ExpoImpoDlg.resources
+C:\Users\Sergio\Dropbox\WeigherFis v1.3\WeigherFis\obj\x86\Release\WeigherFis.CABM_TransportistasDlg.resources
+C:\Users\Sergio\Dropbox\WeigherFis v1.3\WeigherFis\obj\x86\Release\WeigherFis.CABM_ProductosDlg.resources
+C:\Users\Sergio\Dropbox\WeigherFis v1.3\WeigherFis\obj\x86\Release\WeigherFis.CABM_OperAduanerasDlg.resources
+C:\Users\Sergio\Dropbox\WeigherFis v1.3\WeigherFis\obj\x86\Release\WeigherFis.CABM_ContenedoresDlg.resources
+C:\Users\Sergio\Dropbox\WeigherFis v1.3\WeigherFis\obj\x86\Release\WeigherFis.CReporteDlg.resources
+C:\Users\Sergio\Dropbox\WeigherFis v1.3\WeigherFis\obj\x86\Release\SetPortDlg.CSetPortDlg.resources
+C:\Users\Sergio\Dropbox\WeigherFis v1.3\WeigherFis\obj\x86\Release\WeigherFis.CViewPDEPesadasDlg.resources
+C:\Users\Sergio\Dropbox\WeigherFis v1.3\WeigherFis\obj\x86\Release\WeigherFis.Form_WeigherFis.resources
+C:\Users\Sergio\Dropbox\WeigherFis v1.3\WeigherFis\obj\x86\Release\WeigherFis.Properties.Resources.resources
+C:\Users\Sergio\Dropbox\WeigherFis v1.3\WeigherFis\obj\x86\Release\WeigherFis.csproj.GenerateResource.Cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.4\WeigherFis\bin\Release\WeigherFis.exe.config
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.4\WeigherFis\obj\x86\Release\WeigherFis.exe
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.4\WeigherFis\obj\x86\Release\WeigherFis.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.4\WeigherFis\bin\Release\FormatoRepMovPesadas.xml
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.4\WeigherFis\bin\Release\WeigherFis.exe
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.4\WeigherFis\bin\Release\WeigherFis.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.4\WeigherFis\bin\Release\CBalanzaSerialPort.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.4\WeigherFis\bin\Release\CExelLib.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.4\WeigherFis\bin\Release\CIniRW1.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.4\WeigherFis\bin\Release\CSerializerClass.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.4\WeigherFis\bin\Release\CTicket.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.4\WeigherFis\bin\Release\Stampa.DLL
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.4\WeigherFis\bin\Release\CBalanzaSerialPort.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.4\WeigherFis\bin\Release\CExelLib.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.4\WeigherFis\bin\Release\CIniRW1.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.4\WeigherFis\bin\Release\CSerializerClass.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.4\WeigherFis\bin\Release\CTicket.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.4\WeigherFis\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.4\WeigherFis\obj\x86\Release\WeigherFis.CABM_AtasDlg.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.4\WeigherFis\obj\x86\Release\WeigherFis.CConfigAppDlg.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.4\WeigherFis\obj\x86\Release\WeigherFis.CLogDlg.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.4\WeigherFis\obj\x86\Release\WeigherFis.CABM_ExpoImpoDlg.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.4\WeigherFis\obj\x86\Release\WeigherFis.CABM_TransportistasDlg.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.4\WeigherFis\obj\x86\Release\WeigherFis.CABM_ProductosDlg.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.4\WeigherFis\obj\x86\Release\WeigherFis.CABM_OperAduanerasDlg.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.4\WeigherFis\obj\x86\Release\WeigherFis.CABM_ContenedoresDlg.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.4\WeigherFis\obj\x86\Release\WeigherFis.CReporteDlg.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.4\WeigherFis\obj\x86\Release\SetPortDlg.CSetPortDlg.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.4\WeigherFis\obj\x86\Release\WeigherFis.CViewPDEPesadasDlg.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.4\WeigherFis\obj\x86\Release\WeigherFis.Form_WeigherFis.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.4\WeigherFis\obj\x86\Release\WeigherFis.Properties.Resources.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.4\WeigherFis\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.4\WeigherFis\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis v1.4\WeigherFis\bin\Release\WeigherFis.exe.config
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis v1.4\WeigherFis\obj\x86\Release\WeigherFis.exe
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeigherFis v1.4\WeigherFis\obj\x86\Release\WeigherFis.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.5\WeigherFis\bin\Release\WeigherFis.exe.config
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.5\WeigherFis\obj\x86\Release\WeigherFis.exe
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.5\WeigherFis\obj\x86\Release\WeigherFis.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.5\WeigherFis\bin\Release\FormatoRepMovPesadas.xml
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.5\WeigherFis\bin\Release\WeigherFis.exe
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.5\WeigherFis\bin\Release\WeigherFis.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.5\WeigherFis\bin\Release\CBalanzaSerialPort.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.5\WeigherFis\bin\Release\CExelLib.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.5\WeigherFis\bin\Release\CIniRW1.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.5\WeigherFis\bin\Release\CSerializerClass.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.5\WeigherFis\bin\Release\CTicket.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.5\WeigherFis\bin\Release\Stampa.DLL
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.5\WeigherFis\bin\Release\CBalanzaSerialPort.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.5\WeigherFis\bin\Release\CExelLib.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.5\WeigherFis\bin\Release\CIniRW1.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.5\WeigherFis\bin\Release\CSerializerClass.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.5\WeigherFis\bin\Release\CTicket.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.5\WeigherFis\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.5\WeigherFis\obj\x86\Release\WeigherFis.CABM_AtasDlg.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.5\WeigherFis\obj\x86\Release\WeigherFis.CConfigAppDlg.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.5\WeigherFis\obj\x86\Release\WeigherFis.CLogDlg.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.5\WeigherFis\obj\x86\Release\WeigherFis.CABM_ExpoImpoDlg.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.5\WeigherFis\obj\x86\Release\WeigherFis.CABM_TransportistasDlg.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.5\WeigherFis\obj\x86\Release\WeigherFis.CABM_ProductosDlg.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.5\WeigherFis\obj\x86\Release\WeigherFis.CABM_OperAduanerasDlg.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.5\WeigherFis\obj\x86\Release\WeigherFis.CABM_ContenedoresDlg.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.5\WeigherFis\obj\x86\Release\WeigherFis.CEditPesadaDlg.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.5\WeigherFis\obj\x86\Release\WeigherFis.CReporteDlg.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.5\WeigherFis\obj\x86\Release\SetPortDlg.CSetPortDlg.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.5\WeigherFis\obj\x86\Release\WeigherFis.CViewPDEPesadasDlg.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.5\WeigherFis\obj\x86\Release\WeigherFis.Form_WeigherFis.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.5\WeigherFis\obj\x86\Release\WeigherFis.Properties.Resources.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.5\WeigherFis\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeigherFis v1.5\WeigherFis\obj\x86\Release\GenerateResource.write.1.tlog

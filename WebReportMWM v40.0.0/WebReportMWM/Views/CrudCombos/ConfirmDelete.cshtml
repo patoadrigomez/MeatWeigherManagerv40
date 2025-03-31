@@ -1,0 +1,110 @@
+﻿@model IEnumerable<WebReportMWM.Models.Entitys.ProductoEnCombo>
+@{
+    ViewBag.Title = "ConfirmDelete";
+}
+
+@{ WebGrid webGrid = new WebGrid(source: Model, canPage: false, canSort: false);
+
+    string IdProductoComboRowSelect = ViewBag.IdProductoComboRowSelect == null ? "0" : ((int)ViewBag.IdProductoComboRowSelect).ToString();
+    string IdProductoRowSelect = ViewBag.IdProductoRowSelect == null ? "0" : ((int)ViewBag.IdProductoRowSelect).ToString();
+
+}
+
+
+<h1>@ViewBag.NombreCombo</h1>
+<h2>Eliminar todos los productos asignados al Combo</h2>
+
+<p>
+    @Html.ActionLink(" Regresar  ", "List", new { idRowSelect = ViewBag.IdProductoCombo }, new { @class = "glyphicon glyphicon-backward" })
+</p>
+
+@webGrid.GetHtml(htmlAttributes: new { @id = "WebGrid", @class = "Grid" },
+            tableStyle: "table table-bordered",
+            fillEmptyRows: false,
+            alternatingRowStyle: "alt",
+            headerStyle: "webgrid-header",
+            columns: webGrid.Columns(
+            webGrid.Column(columnName: "IdProductoCombo", header: "IdProdCombo", style: "IdProductoCombo"),
+            webGrid.Column(columnName: "IdProducto", header: "IdProd", style: "IdProducto"),
+            webGrid.Column(columnName: "NombreProducto", header: "PRODUCTOS ASIGNADOS")))
+
+@using (Html.BeginForm("Delete", "CrudCombos", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+<div class="form-horizontal">
+    <input type="hidden" id="idProductoCombo" name="idProductoCombo" value="@ViewBag.IdProductoCombo" />
+    <div class="form-group">
+        <div class="col-md-10">
+            <input type="submit" value="Borrar" class="btn btn-danger" />
+            @Html.ActionLink("Listar", "List", "CrudCombos", new { idRowSelect = ViewBag.IdProductoCombo }, new { @class = "btn btn-info" })
+        </div>
+    </div>
+</div>
+}
+
+<style type="text/css">
+    .webgrid-header th {
+        padding: 6px 5px;
+        text-align: center;
+        background-color: #e8eef4;
+        border-bottom: 2px solid #3966A2;
+        height: 40px;
+        font-weight: bold;
+        border-top: 2px solid #D6E8FF;
+        border-left: 2px solid #D6E8FF;
+        border-right: 2px solid #D6E8FF;
+    }
+
+    .alt {
+        background-color: #FBFBFB;
+        color: #000;
+    }
+
+    .label {
+        color: #000;
+        font-weight: normal;
+    }
+
+    .selectedrow {
+        background-color: gold;
+    }
+
+    .table tr td:nth-child(6),
+    .table tr td:nth-child(7) {
+        text-align: right;
+        width: 110px;
+    }
+</style>
+
+<script type="text/javascript" src="~/Scripts/jquery-3.4.1.min.js"></script>
+
+<script type="text/javascript">
+
+
+    //Al iniciar la carga del documento selecciono el registro especificado por su valor de Id
+    //Tambien pongo al registro visible controlando el scroll.
+    $(document).ready(function () {
+        $('#WebGrid tr').each(function () {
+            var IdProductoCombo = $(this).find(".IdProductoCombo").html();
+            var IdProducto = $(this).find(".IdProducto").html();
+
+            if (IdProductoCombo == @IdProductoComboRowSelect && IdProducto == @IdProductoRowSelect)
+            {
+                $(this).click();
+                $(document).scrollTop($(this).position().top);
+            }
+        });
+        //oculto columna ID
+        $("#WebGrid th:nth-child(1),td:nth-child(1)").hide();
+        $("#WebGrid th:nth-child(2),td:nth-child(2)").hide();
+    });
+
+    $("body").on("click", "#WebGrid tr", function () {
+        $("#WebGrid").find("td").removeClass("selectedrow");
+        $(this).find("td").addClass("selectedrow");
+    });
+</script>
+
+
+
+

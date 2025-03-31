@@ -1,0 +1,27 @@
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeighingTruck_Shap\WeighingTruck_Shap\FLabel\bin\Debug\FLabel.dll
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeighingTruck_Shap\WeighingTruck_Shap\FLabel\bin\Debug\FLabel.pdb
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeighingTruck_Shap\WeighingTruck_Shap\FLabel\obj\Debug\FLabel.dll
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\WeighingTruck_Shap\WeighingTruck_Shap\FLabel\obj\Debug\FLabel.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruck_Shap\WeighingTruck_Shap\FLabel\bin\Debug\FLabel.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruck_Shap\WeighingTruck_Shap\FLabel\bin\Debug\FLabel.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruck_Shap\WeighingTruck_Shap\FLabel\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruck_Shap\WeighingTruck_Shap\FLabel\obj\Debug\FLabel.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruck_Shap\WeighingTruck_Shap\FLabel\obj\Debug\FLabel.pdb
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\WLabel4F v1.0\WLabel4F\FLabel\bin\Debug\FLabel.dll
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\WLabel4F v1.0\WLabel4F\FLabel\bin\Debug\FLabel.pdb
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\WLabel4F v1.0\WLabel4F\FLabel\obj\Debug\FLabel.csprojResolveAssemblyReference.cache
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\WLabel4F v1.0\WLabel4F\FLabel\obj\Debug\FLabel.csproj.CoreCompileInputs.cache
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\WLabel4F v1.0\WLabel4F\FLabel\obj\Debug\FLabel.dll
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\WLabel4F v1.0\WLabel4F\FLabel\obj\Debug\FLabel.pdb
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\WeigherLeathers_SCADA\WeigherLeathers_SCADA\FLabel\bin\Debug\FLabel.dll
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\WeigherLeathers_SCADA\WeigherLeathers_SCADA\FLabel\bin\Debug\FLabel.pdb
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\WeigherLeathers_SCADA\WeigherLeathers_SCADA\FLabel\obj\Debug\FLabel.csprojAssemblyReference.cache
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\WeigherLeathers_SCADA\WeigherLeathers_SCADA\FLabel\obj\Debug\FLabel.csproj.CoreCompileInputs.cache
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\WeigherLeathers_SCADA\WeigherLeathers_SCADA\FLabel\obj\Debug\FLabel.dll
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\WeigherLeathers_SCADA\WeigherLeathers_SCADA\FLabel\obj\Debug\FLabel.pdb
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\WeigherLeathers_SCADA v2.0\WeigherLeathers_SCADA\FLabel\bin\Debug\FLabel.dll
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\WeigherLeathers_SCADA v2.0\WeigherLeathers_SCADA\FLabel\bin\Debug\FLabel.pdb
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\WeigherLeathers_SCADA v2.0\WeigherLeathers_SCADA\FLabel\obj\Debug\FLabel.csprojAssemblyReference.cache
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\WeigherLeathers_SCADA v2.0\WeigherLeathers_SCADA\FLabel\obj\Debug\FLabel.csproj.CoreCompileInputs.cache
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\WeigherLeathers_SCADA v2.0\WeigherLeathers_SCADA\FLabel\obj\Debug\FLabel.dll
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\WeigherLeathers_SCADA v2.0\WeigherLeathers_SCADA\FLabel\obj\Debug\FLabel.pdb

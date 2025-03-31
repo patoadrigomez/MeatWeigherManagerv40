@@ -1,0 +1,25 @@
+C:\Documents and Settings\sergio\Mis documentos\Descargas\prettygoodsplashscreen\SplashScreen\bin\Debug\SplashScreen.dll
+C:\Documents and Settings\sergio\Mis documentos\Descargas\prettygoodsplashscreen\SplashScreen\bin\Debug\SplashScreen.pdb
+C:\Documents and Settings\sergio\Mis documentos\Descargas\prettygoodsplashscreen\SplashScreen\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Descargas\prettygoodsplashscreen\SplashScreen\obj\Debug\SplashScreen.SplashScreen.resources
+C:\Documents and Settings\sergio\Mis documentos\Descargas\prettygoodsplashscreen\SplashScreen\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\sergio\Mis documentos\Descargas\prettygoodsplashscreen\SplashScreen\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\sergio\Mis documentos\Descargas\prettygoodsplashscreen\SplashScreen\obj\Debug\SplashScreen.dll
+C:\Documents and Settings\sergio\Mis documentos\Descargas\prettygoodsplashscreen\SplashScreen\obj\Debug\SplashScreen.pdb
+C:\Documents and Settings\sergio\Mis documentos\Descargas\prettygoodsplashscreen\SplashScreen\obj\Debug\SplashScreen.Properties.Resources.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\SplashScreen\bin\Debug\SplashScreen.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\SplashScreen\bin\Debug\SplashScreen.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\SplashScreen\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\SplashScreen\obj\Debug\SplashScreen.Properties.Resources.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\SplashScreen\obj\Debug\SplashScreen.SplashScreen.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\SplashScreen\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\SplashScreen\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\SplashScreen\obj\Debug\SplashScreen.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\SplashScreen\obj\Debug\SplashScreen.pdb
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\SplashScreen\bin\Debug\SplashScreen.dll
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\SplashScreen\bin\Debug\SplashScreen.pdb
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\SplashScreen\obj\Debug\SplashScreen.Properties.Resources.resources
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\SplashScreen\obj\Debug\SplashScreen.SplashScreen.resources
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\SplashScreen\obj\Debug\SplashScreen.csproj.GenerateResource.Cache
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\SplashScreen\obj\Debug\SplashScreen.dll
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\SplashScreen\obj\Debug\SplashScreen.pdb

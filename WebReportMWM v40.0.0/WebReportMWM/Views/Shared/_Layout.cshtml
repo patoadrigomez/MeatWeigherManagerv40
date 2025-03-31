@@ -1,0 +1,225 @@
+﻿@using WebReportMWM.services;
+@using WebReportMWM.Models.Entitys;
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Mi aplicación ASP.NET</title>
+
+    @Styles.Render("~/Content/css")
+    @Styles.Render("~/Content/themes/base/css")
+    @Scripts.Render("~/bundles/modernizr")
+
+
+    <link href="~/Content/sweetalert.css" rel="stylesheet" />
+    <script src="~/Scripts/sweetalert.js"></script>
+
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("WebReportMWM", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li>@Html.ActionLink("Inicio", "Index", "Home")</li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                            <span class="glyphicon glyphicon glyphicon-th">
+                            </span> Reportes<b class="caret"></b>
+                        </a>
+                        <ul class="dropdown-menu">
+
+                            <li class="dropdown-submenu">
+                                <a href="#" class="dropdown-toggle" id="a1" data-toggle="dropdown">
+                                    <span class="glyphicon"></span>
+                                    <strong>Ingresos</strong>
+                                    <b class="caret"></b>
+                                </a>
+                                <ul class="dropdown-menu" aria-labelledby="a1">
+                                    <li>@Html.ActionLink("Ingreso a Planta Detallado", "ReportIngresoPlantaDetallado", "Report")</li>
+                                    <li>@Html.ActionLink("Ingreso a Planta Totalizado x OI-Producto", "ReportIngresoPlantaTotalizadoxOIProducto", "Report")</li>
+                                    <li>@Html.ActionLink("Ingreso a Planta Totalizado x Dïa-Proveedor", "ReportIngresoPlantaTotalizadoxDiaProveedor", "Report")</li>
+                                </ul>
+                            </li>
+                            <li class="dropdown-submenu">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                                    <span class="glyphicon"></span>
+                                    <strong>Producción</strong>
+                                    <b class="caret"></b>
+                                </a>
+                                <ul class="dropdown-menu">
+                                    <li>@Html.ActionLink("Ingreso a Producción Detallado", "ReportIngresoProduccionDetallado", "Report")</li>
+                                    <li>@Html.ActionLink("Ingreso a Producción Totalizado", "ReportIngresoProduccionTotalizado", "Report")</li>
+                                    <li>@Html.ActionLink("Producción Detallado", "ReportProduccionDetallado", "Report")</li>
+                                    <li>@Html.ActionLink("Producción Totalizado", "ReportProduccionTotalizado", "Report")</li>
+                                    <li>@Html.ActionLink("Insumos en Producción Detallado", "ReportInsumosProduccionDetallado", "Report")</li>
+                                    <li>@Html.ActionLink("Insumos en Producción Totalizado", "ReportInsumosProduccionTotalizado", "Report")</li>
+                                    <li>@Html.ActionLink("Rendimiento en Producción por Tipo de Producto", "ReportRendimientoProduccionTP", "Report")</li>
+                                    <li>@Html.ActionLink("Rendimiento en Producción por Sector", "ReportRendimientoProduccionSector", "Report")</li>
+                                </ul>
+                            </li>
+                            <li class="dropdown-submenu">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                                    <span class="glyphicon"></span>
+                                    <strong>Egresos</strong>
+                                    <b class="caret"></b>
+                                </a>
+                                <ul class="dropdown-menu">
+                                    <li>@Html.ActionLink("Egresos Detallado", "ReportEgresosDetallado", "Report")</li>
+                                    <li>@Html.ActionLink("Egresos Totalizado x Producto-Fecha", "ReportEgresosTotalizadoxProdFecha", "Report")</li>
+                                    <li>@Html.ActionLink("Egresos Totalizado x Día-Cliente", "ReportEgresosTotalizadoxDiaCliente", "Report")</li>
+                                    <li>@Html.ActionLink("Egresos con Saldo", "ReportEgresosSaldo", "Report")</li>
+                                    <li>@Html.ActionLink("Insumos en Egreso Detallado", "ReportInsumosEgresosDetallado", "Report")</li>
+                                    <li>@Html.ActionLink("Insumos en Egreso Totalizado", "ReportInsumosEgresosTotalizado", "Report")</li>
+                                    <li>@Html.ActionLink("Devoluciones", "ReportDevoluciones", "Report")</li>
+                                    <li>@Html.ActionLink("Productos para Preparación de pedidos", "ReportProdReqPrepPedidos", "Report")</li>
+                                </ul>
+                            </li>
+                            <li class="dropdown-submenu">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                                    <span class="glyphicon"></span>
+                                    <strong>Stock</strong>
+                                    <b class="caret"></b>
+                                </a>
+                                <ul class="dropdown-menu">
+                                    <li>@Html.ActionLink("Existencia Stock Detallado", "ReportExsistenciaStockDetalle", "Report")</li>
+                                    <li>@Html.ActionLink("Existencia Stock Totalizado", "ReportExsistenciaStockTotalizado", "Report")</li>
+                                    <li>@Html.ActionLink("Existencia Stock Totalizado por Ubicación", "ReportExsistenciaStockTotalizadoDestino", "Report")</li>
+                                    <li>@Html.ActionLink("Existencia Stock Detallado por Vencimiento", "ReportExsistenciaStockDetalleVencimiento", "Report")</li>
+                                    <li>@Html.ActionLink("Existencia Stock Detallado por Proximidad al Vencimiento", "ReportExsistenciaStockDetalleProxVencimiento", "Report")</li>
+                                    <li>@Html.ActionLink("Existencia Stock Contenedores Totalizado por Ubicación", "ReportExsistenciaStockContenedoresTotalDestino", "Report")</li>
+                                    <li>@Html.ActionLink("Existencia Stock de Insumos", "ReportExsistenciaStockInsumos", "Report")</li>
+                                </ul>
+                            </li>
+                            <li class="dropdown-submenu">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                                    <span class="glyphicon"></span>
+                                    <strong>Log de Eventos</strong>
+                                    <b class="caret"></b>
+                                </a>
+                                <ul class="dropdown-menu">
+                                    <li>@Html.ActionLink("Log de Eventos", "ReportLogEventos", "Report")</li>
+                                </ul>
+                            </li>
+                            <li class="dropdown-submenu">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                                    <span class="glyphicon"></span>
+                                    <strong>Trazabilidad</strong>
+                                    <b class="caret"></b>
+                                </a>
+                                <ul class="dropdown-menu">
+                                    <li>@Html.ActionLink("Trazabilidad por Pieza", "ReportTrazabilidadPieza", "Report")</li>
+                                    <li>@Html.ActionLink("Trazabilidad por Lote", "ReportTrazabilidadLote", "Report")</li>
+                                    <li>@Html.ActionLink("Histórico de Piezas y Contenedores", "ReportHistoricoPiezaContenedor", "Report")</li>
+                                </ul>
+                            </li>
+                            <li class="dropdown-submenu">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                                    <span class="glyphicon"></span>
+                                    <strong>Inventario</strong>
+                                    <b class="caret"></b>
+                                </a>
+                                <ul class="dropdown-menu">
+                                    <li>@Html.ActionLink("Resultado de Inventario", "ReportResultInventario", "Report")</li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                            <span class="glyphicon glyphicon-wrench">
+                            </span> Herramientas<b class="caret"></b>
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li class="dropdown-submenu">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                                    <span class="glyphicon"></span>
+                                    <strong>Gestor de Tablas</strong>
+                                    <b class="caret"></b>
+                                </a>
+                                <ul class="dropdown-menu">
+                                    <li>@Html.ActionLink("Operadores", "List", "CrudOperadores")</li>
+                                    <li>@Html.ActionLink("Tipos Producto", "List", "CrudTiposProducto")</li>
+                                    <li>@Html.ActionLink("Productos", "List", "CrudProductos")</li>
+                                    <li>@Html.ActionLink("Gestión de Insumos", "List", "CrudProductoInsumos")</li>
+                                    <li>@Html.ActionLink("Destinos", "List", "CrudDestinos")</li>
+                                    <li>@Html.ActionLink("Sectores", "List", "CrudSectores")</li>
+                                    <li>@Html.ActionLink("Etiquetas", "List", "CrudEtiquetas")</li>
+                                    <li>@Html.ActionLink("Tipificaciones", "List", "CrudTipificaciones")</li>
+                                    <li>@Html.ActionLink("Gestión de Cajas", "List", "CrudCajas")</li>
+                                    <li>@Html.ActionLink("Gestión de Combos", "List", "CrudCombos")</li>
+                                </ul>
+                            </li>
+                            <li class="dropdown-submenu">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                                    <span class="glyphicon"></span>
+                                    <strong>Ajuste Manual de Stock</strong>
+                                    <b class="caret"></b>
+                                </a>
+                                <ul class="dropdown-menu">
+                                    <li>@Html.ActionLink("Insumos", "List", "CrudMovInsumos")</li>
+                                </ul>
+                            </li>
+                        </ul>
+
+                    </li>
+                    <li>@Html.ActionLink("Acerca de", "About", "Home")</li>
+                    <li>@Html.ActionLink("Contacto", "Contact", "Home")</li>
+
+                </ul>
+                <ul class="nav navbar-nav navbar-right">
+                    <li>@Html.ActionLink("Iniciar sesión", "UserLogin", "Account")</li>
+                    <li>@Html.ActionLink("Cerrar sesión", "UserOut", "Account")</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="container-fluid">
+        @RenderBody()
+        <hr />
+        <footer>
+            <div style="float:left;">
+                <p>
+                    &copy; @DateTime.Now.Year - @ViewContext.Controller.GetType().Assembly.GetName().Name @ViewContext.Controller.GetType().Assembly.GetName().Version - Ingeniería MCR
+                </p>
+                <img src="~/images/imcrLogo.bmp" alt="Logo IMCR" id="idimgImcr" style="width: 70px; height: 70px;" />
+            </div>
+            <div style="float:right;">
+                <p>
+                    Usuario en Sesión :
+                    @{
+                        if (Session["LoggerUser"] != null)
+                        {
+                            <strong style="color:black">@(((Operadores)Session["LoggerUser"]).Nombre)</strong>
+                        }
+                        else
+                        {
+                            <strong style="color:red">NO IDENTIFICADO</strong>
+                        }
+                    }
+                </p>
+            </div>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/jqueryui")
+    @Scripts.Render("~/bundles/jqueryval")
+    @Scripts.Render("~/bundles/modernizr")
+    @Scripts.Render("~/bundles/bootstrap")
+
+    @RenderSection("scripts", required: false)
+
+</body>
+</html>

@@ -1,0 +1,107 @@
+﻿@model IEnumerable<WebReportMWM.Models.Entitys.Operadores>
+@{
+    ViewBag.Title = "List";
+}
+
+@{ WebGrid webGrid = new WebGrid(source: Model, canPage: false, canSort: false);
+
+    string IdRowSelect = ViewBag.IdRowSelect == null ? "0" : ((int)ViewBag.IdRowSelect).ToString();
+  
+}
+
+
+<h2>Lista de Operadores</h2>
+
+<p>
+    <a href="~/CrudOperadores/Create" class="btn btn-default btn-sm">
+        <i class="glyphicon glyphicon-star" style="color: aqua;"></i>
+        <span>
+            <strong>Crear Nuevo</strong>
+        </span>
+    </a>
+</p>
+
+@webGrid.GetHtml(htmlAttributes: new { @id = "WebGrid", @class = "Grid" },
+            tableStyle: "table table-bordered",
+            rowStyle: "webgrid-row",
+            fillEmptyRows: false,
+            alternatingRowStyle: "alt",
+            headerStyle: "webgrid-header",
+            columns: webGrid.Columns(
+            webGrid.Column(columnName: "Id", header: "Id", style: "Id"),
+            webGrid.Column(columnName: "Nombre", header: "Nombre", style: "colnombre"),
+webGrid.Column(columnName: "Tipo", header: "Tipo", style: "coltipo"), 
+webGrid.Column(header: "", style: "collinks", format:@<span class="link">
+            @Html.ActionLink(" ", "Update", new { idOperador = item.Id }, new { @class = "glyphicon glyphicon-edit", title = "Editar" }) |
+            @Html.ActionLink(" ", "ConfirmDelete", new { idOperador = item.Id }, new { @style = "color:#ff0000;", @class = "glyphicon glyphicon-trash", title = "Eliminar" })
+        </span>)))
+
+   
+    <style type="text/css">
+        .webgrid-header th {
+            padding: 6px 5px;
+            text-align: center;
+            background-color: #e8eef4;
+            border-bottom: 2px solid #3966A2;
+            height: 40px;
+            font-weight: bold;
+            border-top: 2px solid #D6E8FF;
+            border-left: 2px solid #D6E8FF;
+            border-right: 2px solid #D6E8FF;
+        }
+
+        .alt {
+            background-color: #FBFBFB;
+            color: #000;
+        }
+
+        .label {
+            color: #000;
+            font-weight: normal;
+        }
+
+        .selectedrow {
+            background-color: gold;
+        }
+
+        .collinks {
+            width: 8%;
+            text-align: center;
+        }
+
+        .coltipo {
+            width: 15%;
+            text-align: center;
+        }
+
+        .colnombre {
+            justify-content: left;
+        }
+    </style>
+
+<script type="text/javascript" src="~/Scripts/jquery-3.4.1.min.js"></script>
+
+<script type="text/javascript">
+    //Al iniciar la carga del documento selecciono el registro especificado por su valor de Id
+    //Tambien pongo al registro visible controlando el scroll.
+    $(document).ready(function () {
+        $('#WebGrid tr').each(function () {
+            var Id = $(this).find(".Id").html();
+            if (Id == @IdRowSelect)
+            {
+                $(this).click();
+                $(document).scrollTop($(this).position().top);
+            }
+        });
+
+        $("#WebGrid th:nth-child(1),td:nth-child(1)").hide();
+
+    });
+
+    $("body").on("click", "#WebGrid tr", function () {
+        $("#WebGrid").find("td").removeClass("selectedrow");
+        $(this).find("td").addClass("selectedrow");
+    });
+</script>
+
+

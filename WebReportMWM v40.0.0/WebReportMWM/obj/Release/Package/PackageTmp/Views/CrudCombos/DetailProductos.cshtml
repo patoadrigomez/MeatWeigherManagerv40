@@ -1,0 +1,106 @@
+﻿@model IEnumerable<WebReportMWM.Models.Entitys.ProductoEnCombo>
+@{
+    ViewBag.Title = "DetailProductos";
+}
+
+@{ WebGrid webGrid = new WebGrid(source: Model, canPage: false, canSort: false);
+
+    string idComboRowSelect = ViewBag.IdComboRowSelect == null ? "0" : ((int)ViewBag.IdComboRowSelect).ToString();
+    string idProductoRowSelect = ViewBag.IdProductoRowSelect == null ? "0" : ((int)ViewBag.IdProductoRowSelect).ToString();
+}
+
+<h1>@ViewBag.NombreCombo</h1>
+<h2>Detalle de Productos incluidos en el Combo</h2>
+
+<p>
+    @Html.ActionLink("Regresar", "List", new { idRowSelect = ViewBag.IdProductoCombo }, new { @class = "glyphicon glyphicon-backward" })
+    @Html.ActionLink("Agregar", "CreateAddProducto", new { IdProductoCombo = ViewBag.IdProductoCombo, NombreCombo = ViewBag.NombreCombo }, new { @class = "glyphicon glyphicon-plus-sign" })
+</p>
+
+@webGrid.GetHtml(htmlAttributes: new { @id = "WebGrid", @class = "Grid" },
+            tableStyle: "table table-bordered",
+            fillEmptyRows: false,
+            alternatingRowStyle: "alt",
+            headerStyle: "webgrid-header",
+            columns: webGrid.Columns(
+            webGrid.Column(columnName: "IdProductoCombo", header: "IdProdCombo", style: "IdProductoCombo"),
+            webGrid.Column(columnName: "IdProducto", header: "IdProducto", style: "IdProducto"),
+            webGrid.Column(columnName: "NombreProducto", header: "PRODUCTO"),
+            webGrid.Column(columnName: "Unidades", header: "UNIDADES"),
+            webGrid.Column(columnName: "Peso", header: "PESO", format: item => String.Format("{0:0.00}", item.Peso)),
+            webGrid.Column(columnName: "ToleranciaPeso", header: "TOLERANCIA PESO", format: item => String.Format("{0:0.00}", item.ToleranciaPeso ?? 0.00)),
+            webGrid.Column(columnName: "ValidarUnds", header: "VALIDAR UNIDADES", style: "collinks", format: @<text>@(item.ValidarUnds != null && item.ValidarUnds ? "SI" : "NO")</text>),
+            webGrid.Column(columnName: "ValidarPeso", header: "VALIDAR PESO", style: "collinks", format: @<text>@(item.ValidarPeso != null && item.ValidarPeso ? "SI" : "NO")</text>),
+            webGrid.Column("", format:@<span class="link"> @Html.ActionLink(" ", "UpdateProductoEnCombo", new { IdProductoCombo = item.IdProductoCombo, IdProducto = item.IdProducto }, new { @class = "glyphicon glyphicon-edit", title="Editar" }) |
+            @Html.ActionLink(" ", "ConfirmDeleteProductoCombo", new { IdProductoCombo = item.IdProductoCombo, IdProducto = item.IdProducto }, new { @style = "color:#ff0000;", @class = "glyphicon glyphicon-trash", title="Quitar Asignación" })</span>)))
+
+<style type="text/css">
+    .webgrid-header th {
+        padding: 6px 5px;
+        text-align: center;
+        background-color: #e8eef4;
+        border-bottom: 2px solid #3966A2;
+        height: 40px;
+        font-weight: bold;
+        border-top: 2px solid #D6E8FF;
+        border-left: 2px solid #D6E8FF;
+        border-right: 2px solid #D6E8FF;
+    }
+
+    .alt {
+        background-color: #FBFBFB;
+        color: #000;
+    }
+
+    .label {
+        color: #000;
+        font-weight: normal;
+    }
+
+    .selectedrow {
+        background-color: gold;
+    }
+
+    .table tr td:nth-child(4),
+    .table tr td:nth-child(5),
+    .table tr td:nth-child(6),
+    .table tr td:nth-child(7),
+    .table tr td:nth-child(8),
+    .table tr td:nth-child(9) {
+        text-align: center;
+        width: 8%;
+    }
+   
+</style>
+
+<script type="text/javascript" src="~/Scripts/jquery-3.4.1.min.js"></script>
+
+<script type="text/javascript">
+
+
+    //Al iniciar la carga del documento selecciono el registro especificado por su valor de Id
+    //Tambien pongo al registro visible controlando el scroll.
+    $(document).ready(function () {
+        $('#WebGrid tr').each(function () {
+            var IdProductoCombo = $(this).find(".IdProductoCombo").html();
+            var IdProducto = $(this).find(".IdProducto").html();
+
+            if (IdProductoCombo == @idComboRowSelect && IdProducto == @idProductoRowSelect)
+            {
+                $(this).click();
+                $(document).scrollTop($(this).position().top);
+            }
+        });
+        //oculto columna ID
+        $("#WebGrid th:nth-child(1),td:nth-child(1)").hide();
+        $("#WebGrid th:nth-child(2),td:nth-child(2)").hide();
+    });
+
+    $("body").on("click", "#WebGrid tr", function () {
+        $("#WebGrid").find("td").removeClass("selectedrow");
+        $(this).find("td").addClass("selectedrow");
+    });
+</script>
+
+
+

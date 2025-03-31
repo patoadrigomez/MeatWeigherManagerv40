@@ -1,0 +1,10 @@
+bin\Debug\FButton.dll
+bin\Debug\FButton.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\FButton.dll
+obj\Debug\FButton.pdb
+bin\Release\FButton.dll
+bin\Release\FButton.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\FButton.dll
+obj\Release\FButton.pdb

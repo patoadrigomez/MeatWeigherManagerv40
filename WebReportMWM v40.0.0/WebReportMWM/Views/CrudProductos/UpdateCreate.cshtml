@@ -1,0 +1,306 @@
+﻿@model WebReportMWM.Models.Entitys.Producto
+@using WebReportMWM.services
+
+@{
+    ViewBag.Title = "create";
+
+    var Booleano = new List<SelectListItem>();
+    Booleano.Add(new SelectListItem { Text = "NO", Value = "false" });
+    Booleano.Add(new SelectListItem { Text = "SI", Value = "true" });
+
+    var ListProductosSac = DbServices.GetProductosSacToListSelectListItem("", new SelectListItem() { Value = "", Text = "" });
+    var itemselect = ListProductosSac.Where(x => x.Value.Trim() == (Model.CodigoProductoSac?.Trim() ?? "")).FirstOrDefault();
+
+    if (itemselect != null)
+    {
+        itemselect.Selected = true;
+    }
+
+    var ListTiposProd = DbServices.GetTipoProductosToListSelectListItem(new SelectListItem() { Value = "", Text = "" });
+    var ListEtiquetas = DbServices.GetEtiquetasToListSelectListItem(new SelectListItem() { Value = "", Text = "" });
+
+    var ProductosSAC = DbServices.GetProductosSacToList();
+    Model.AliasProductoSAC = ProductosSAC.Where(y => y.Id.Trim() == (String.IsNullOrEmpty(Model.CodigoProductoSac) ? "" : Model.CodigoProductoSac.Trim())).FirstOrDefault()?.Alias ?? "";
+
+    bool modeCreate = (bool)ViewBag.ModeCreate;
+    string textAction = modeCreate ? "Crear" : "Actualizar";
+
+    string filtroProductoNombre = ViewBag.FiltroProductoNombre ?? "";
+    string filtroProductoTipo = ViewBag.FiltroProductoTipo ?? "";
+}
+
+
+<h2>@textAction</h2>
+
+@using (Html.BeginForm(modeCreate ? "Create" : "Update", "CrudProductos", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+
+<div class="form-horizontal">
+    <h4>Producto</h4>
+    <hr />
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    @Html.HiddenFor(model => model.Id)
+    @Html.HiddenFor(model => model.IdEtiqueta)
+    @Html.HiddenFor(model => filtroProductoNombre)
+    @Html.HiddenFor(model => filtroProductoTipo)
+    @Html.HiddenFor(model => model.CodigoProductoSac)
+
+
+    <div class="form-group">
+        @Html.Label("Producto SAC", htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.DropDownListFor(model => model.CodigoProductoSac, ListProductosSac, new { @class = "form-control", style = "Width:50%", id = "iddlistCodigoProductoSAC" })
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.Label("Codigo SAC", htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.CodigoProductoSac, new { htmlAttributes = new { @class = "form-control", id = "idCodigoProductoSAC", disabled = "disabled" } })
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.Label("Alias SAC", htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.AliasProductoSAC, new { htmlAttributes = new { @class = "form-control", id = "idAliasProductoSAC", disabled = "disabled" } })
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(model => model.Nombre, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.Nombre, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.Nombre, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Tipo, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.DropDownListFor(m => m.IdTipo, ListTiposProd, new { @class = "form-control", style = "Width:50%", id = "iddlistIdTipo" })
+            @Html.ValidationMessageFor(model => model.IdTipo, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.Label("Numero Senasa", htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.NumSenasa, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.NumSenasa, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.Label("Peso Neto Predefinido", htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.PesoNetoPredef, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.PesoNetoPredef, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.Label("Unidades Predefinidas", htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.UnidadesPredef, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.UnidadesPredef, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.Label("Tara Predefinida", htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.PesoTaraPredef, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.PesoTaraPredef, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.Label("Dias Vencimiento", htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.DiasVencimiento, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.DiasVencimiento, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.Label("Es Insumo?", htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.DropDownListFor(model => model.EsInsumo, Booleano, new { htmlAttributes = new { @class = "form-control", id = "iddropdownlistdisponible" } })
+            @Html.ValidationMessageFor(model => model.EsInsumo, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.Label("Es Pesable?", htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.DropDownListFor(model => model.EsPesable, Booleano, new { htmlAttributes = new { @class = "form-control", id = "iddropdownlistdis" } })
+            @Html.ValidationMessageFor(model => model.EsPesable, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.Label("Es Tropa?", htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.DropDownListFor(model => model.EsTropa, Booleano, new { htmlAttributes = new { @class = "form-control", id = "iddropdownlistdis" } })
+            @Html.ValidationMessageFor(model => model.EsTropa, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.Label("Es Combo?", htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.DropDownListFor(model => model.EsCombo, Booleano, new { htmlAttributes = new { @class = "form-control", id = "iddropdownlistdisponible" } })
+            @Html.ValidationMessageFor(model => model.EsCombo, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.Label("Es Caja?", htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.DropDownListFor(model => model.EsCaja, Booleano, new { htmlAttributes = new { @class = "form-control", id = "iddropdownlistdisponible" } })
+            @Html.ValidationMessageFor(model => model.EsCaja, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.NombreEtiqueta, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.DropDownListFor(m => m.IdEtiqueta, ListEtiquetas, new { @class = "form-control", style = "Width:50%", id = "iddlistIdEtiqueta" })
+            @Html.ValidationMessageFor(model => model.IdEtiqueta, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.TextAuxL1, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.TextAuxL1, new { htmlAttributes = new { @class = "form-control", style = "max-width:60%;" } })
+            @Html.ValidationMessageFor(model => model.TextAuxL1, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.TextAuxL2, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.TextAuxL2, new { htmlAttributes = new { @class = "form-control", style = "max-width:60%;" } })
+            @Html.ValidationMessageFor(model => model.TextAuxL2, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.NombreL1, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.NombreL1, new { htmlAttributes = new { @class = "form-control", style = "max-width:60%;" } })
+            @Html.ValidationMessageFor(model => model.NombreL1, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.NombreL2, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.NombreL2, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.NombreL2, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.NombreL3, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.NombreL3, new { htmlAttributes = new { @class = "form-control", style = "max-width:60%;" } })
+            @Html.ValidationMessageFor(model => model.NombreL3, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.NombreL4, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.NombreL4, new { htmlAttributes = new { @class = "form-control", style = "max-width:60%;" } })
+            @Html.ValidationMessageFor(model => model.NombreL4, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.NombreL5, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.NombreL5, new { htmlAttributes = new { @class = "form-control", style = "max-width:60%;" } })
+            @Html.ValidationMessageFor(model => model.NombreL5, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.NombreL6, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.NombreL6, new { htmlAttributes = new { @class = "form-control", style = "max-width:60%;" } })
+            @Html.ValidationMessageFor(model => model.NombreL6, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.Label("Rendimiento Estandar (%)", htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.RendimientoSTD, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.RendimientoSTD, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value=@textAction class="btn btn-danger" />
+            @Html.ActionLink("Listar", "List", new { idRowSelect = Model.Id, filtroProductoNombre = filtroProductoNombre, filtroProductoTipo = filtroProductoTipo }, new { @class = "btn btn-info" })
+            @ViewBag.Message
+        </div>
+    </div>
+
+</div>
+
+    if (TempData["MessagesError"] != null && ((List<string>)TempData["MessagesError"]).Count > 0)
+    {
+        foreach (string msg in (List<string>)TempData["MessagesError"])
+        {
+            <p style="color:red;">@msg</p>
+        }
+    }
+}
+
+
+@section scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+    <style  type="text/css">
+    
+    
+    </style>
+
+    <script type="text/javascript">
+        /*Esta funcion captura el evento de cambio del dropdownlist para asignar el nuevo id
+                 seleccionado al idTipo del modelo. Esto se debe hacer por jquery porque si no el
+                 modelo no se actualiza cuando se realiza una seleccion del dropdownlist*/
+        $(document).ready(function () {
+
+            $('#iddlistIdTipo').change(function () {
+                $('#IdTipo').val($('#iddlistIdTipo option:selected').val());
+            });
+
+            $('#iddlistIdEtiqueta').change(function () {
+                $('#IdEtiqueta').val($('#iddlistIdEtiqueta option:selected').val());
+            });
+
+            $('#iddlistCodigoProductoSAC').change(function () {
+                $('#CodigoProductoSac').val($('#iddlistCodigoProductoSAC option:selected').val());
+                $('#idCodigoProductoSAC').val($('#CodigoProductoSac').val());
+            });
+        });
+
+        //este evento permite ediciones de un valor float con caracter separador de
+        //decimales por punto o coma.
+        //tambien fuerza siempre el resultado de la edicion a 3 decimales porque si no 
+        //EditFor da error por no tener 3 decimales (tedioso bug..)
+        function floatFormatEdit(handler)
+        {
+            var valinput = handler.value.replace(",", ".");
+            handler.value = parseFloat(valinput).toFixed(3).replace(".", ",");
+        };
+        $("#PesoNetoPredef,#PesoTaraPredef,#RendimientoSTD").change(function () {
+            floatFormatEdit(this);
+        });
+    </script>
+  
+       
+}

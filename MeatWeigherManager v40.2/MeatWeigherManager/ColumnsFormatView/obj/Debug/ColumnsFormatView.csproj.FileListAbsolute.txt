@@ -1,0 +1,6 @@
+C:\Desarrollo\Software\C#\WeigherLabeled_45\WeigherLabeled_45\ColumnsFormatView\bin\Debug\ColumnsFormatView.dll
+C:\Desarrollo\Software\C#\WeigherLabeled_45\WeigherLabeled_45\ColumnsFormatView\bin\Debug\ColumnsFormatView.pdb
+C:\Desarrollo\Software\C#\WeigherLabeled_45\WeigherLabeled_45\ColumnsFormatView\obj\Debug\ColumnsFormatView.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\WeigherLabeled_45\WeigherLabeled_45\ColumnsFormatView\obj\Debug\ColumnsFormatView.dll
+C:\Desarrollo\Software\C#\WeigherLabeled_45\WeigherLabeled_45\ColumnsFormatView\obj\Debug\ColumnsFormatView.pdb
+C:\Desarrollo\Software\C#\WeigherLabeled_45\WeigherLabeled_45\ColumnsFormatView\obj\Debug\ColumnsFormatView.csprojAssemblyReference.cache

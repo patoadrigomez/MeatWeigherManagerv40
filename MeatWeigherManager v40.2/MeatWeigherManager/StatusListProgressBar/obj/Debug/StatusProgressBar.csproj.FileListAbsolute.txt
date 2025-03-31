@@ -1,0 +1,104 @@
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\TestStatusProgressBar\TestStatusProgressBar\StatusProgressBar\obj\Debug\StatusProgressBar.CStatusProgressBar.resources
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\TestStatusProgressBar\TestStatusProgressBar\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.GenerateResource.Cache
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\TestStatusProgressBar\TestStatusProgressBar\StatusProgressBar\bin\Debug\StatusProgressBar.dll
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\TestStatusProgressBar\TestStatusProgressBar\StatusProgressBar\bin\Debug\StatusProgressBar.pdb
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\TestStatusProgressBar\TestStatusProgressBar\StatusProgressBar\obj\Debug\StatusProgressBar.Properties.Resources.resources
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\TestStatusProgressBar\TestStatusProgressBar\StatusProgressBar\obj\Debug\StatusProgressBar.dll
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\TestStatusProgressBar\TestStatusProgressBar\StatusProgressBar\obj\Debug\StatusProgressBar.pdb
+C:\Users\Sergio\Documents\Desarrollo\Software\C#\TestStatusProgressBar\TestStatusProgressBar\StatusProgressBar\obj\Debug\StatusProgressBar.csprojResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruck_Marbel v1.0\WeighingTruck_Marbel\StatusProgressBar\bin\Debug\StatusProgressBar.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruck_Marbel v1.0\WeighingTruck_Marbel\StatusProgressBar\bin\Debug\StatusProgressBar.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruck_Marbel v1.0\WeighingTruck_Marbel\StatusProgressBar\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruck_Marbel v1.0\WeighingTruck_Marbel\StatusProgressBar\obj\Debug\StatusProgressBar.Properties.Resources.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruck_Marbel v1.0\WeighingTruck_Marbel\StatusProgressBar\obj\Debug\StatusProgressBar.CStatusProgressBar.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruck_Marbel v1.0\WeighingTruck_Marbel\StatusProgressBar\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruck_Marbel v1.0\WeighingTruck_Marbel\StatusProgressBar\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruck_Marbel v1.0\WeighingTruck_Marbel\StatusProgressBar\obj\Debug\StatusProgressBar.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruck_Marbel v1.0\WeighingTruck_Marbel\StatusProgressBar\obj\Debug\StatusProgressBar.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruck_Marbel v1.2\WeighingTruck_Marbel\StatusProgressBar\bin\Debug\StatusProgressBar.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruck_Marbel v1.2\WeighingTruck_Marbel\StatusProgressBar\bin\Debug\StatusProgressBar.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruck_Marbel v1.2\WeighingTruck_Marbel\StatusProgressBar\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruck_Marbel v1.2\WeighingTruck_Marbel\StatusProgressBar\obj\Debug\StatusProgressBar.Properties.Resources.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruck_Marbel v1.2\WeighingTruck_Marbel\StatusProgressBar\obj\Debug\StatusProgressBar.CStatusProgressBar.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruck_Marbel v1.2\WeighingTruck_Marbel\StatusProgressBar\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruck_Marbel v1.2\WeighingTruck_Marbel\StatusProgressBar\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruck_Marbel v1.2\WeighingTruck_Marbel\StatusProgressBar\obj\Debug\StatusProgressBar.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\WeighingTruck_Marbel v1.2\WeighingTruck_Marbel\StatusProgressBar\obj\Debug\StatusProgressBar.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.0\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.0\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.0\MeatWeigherManager\StatusProgressBar\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.0\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.Properties.Resources.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.0\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.CStatusProgressBar.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.0\MeatWeigherManager\StatusProgressBar\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.0\MeatWeigherManager\StatusProgressBar\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.0\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.0\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\StatusProgressBar\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.Properties.Resources.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.CStatusProgressBar.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\StatusProgressBar\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\StatusProgressBar\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\StatusProgressBar\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.Properties.Resources.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.CStatusProgressBar.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\StatusProgressBar\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\StatusProgressBar\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.2\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\StatusProgressBar\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.Properties.Resources.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.CStatusProgressBar.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\StatusProgressBar\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\StatusProgressBar\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.3\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.pdb
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\StatusProgressBar\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.Properties.Resources.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.CStatusProgressBar.resources
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\StatusProgressBar\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\StatusProgressBar\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.dll
+C:\Documents and Settings\sergio\Mis documentos\Desarrollo\Software\C#\MeatWeigherManager v1.4\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.pdb
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.0\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.dll
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.0\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.pdb
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.0\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csprojResolveAssemblyReference.cache
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.0\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.Properties.Resources.resources
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.0\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.CStatusProgressBar.resources
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.0\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.GenerateResource.cache
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.0\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.CoreCompileInputs.cache
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.0\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.dll
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.0\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.pdb
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.2\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.dll
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.2\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.pdb
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.2\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.Properties.Resources.resources
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.2\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.CStatusProgressBar.resources
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.2\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.GenerateResource.cache
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.2\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.CoreCompileInputs.cache
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.2\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.dll
+C:\Users\SERGIO\Documents\Desarrollo\Software\C#\MeatWeigherManager v3.2\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\StatusProgressBar\bin\Debug\StatusProgressBar.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.Properties.Resources.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.CStatusProgressBar.resources
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.dll
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.pdb
+C:\Desarrollo\Software\C#\MeatWeigherManager v1.1\MeatWeigherManager\StatusProgressBar\obj\Debug\StatusProgressBar.csprojAssemblyReference.cache
+C:\Desarrollo\Software\C#\TestMySql\StatusProgressBar\bin\Debug\StatusProgressBar.dll
+C:\Desarrollo\Software\C#\TestMySql\StatusProgressBar\bin\Debug\StatusProgressBar.pdb
+C:\Desarrollo\Software\C#\TestMySql\StatusProgressBar\obj\Debug\StatusProgressBar.Properties.Resources.resources
+C:\Desarrollo\Software\C#\TestMySql\StatusProgressBar\obj\Debug\StatusProgressBar.CStatusProgressBar.resources
+C:\Desarrollo\Software\C#\TestMySql\StatusProgressBar\obj\Debug\StatusProgressBar.csproj.GenerateResource.cache
+C:\Desarrollo\Software\C#\TestMySql\StatusProgressBar\obj\Debug\StatusProgressBar.dll
+C:\Desarrollo\Software\C#\TestMySql\StatusProgressBar\obj\Debug\StatusProgressBar.pdb
